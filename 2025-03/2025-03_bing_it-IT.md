@@ -1,0 +1,13 @@
+# Bing Wallpaper (2025-03)
+
+| | | |
+| :----: | :----: | :----: |
+| ![](https://www.bing.com/th?id=OHR.SuratThani_IT-IT0062631130_1920x1080.jpg) 20250305 [download 4k](https://www.bing.com/th?id=OHR.SuratThani_IT-IT0062631130_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MardiGrasJackson_IT-IT5960330110_1920x1080.jpg) 20250304 [download 4k](https://www.bing.com/th?id=OHR.MardiGrasJackson_IT-IT5960330110_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HornbillPair_IT-IT0150079379_1920x1080.jpg) 20250303 [download 4k](https://www.bing.com/th?id=OHR.HornbillPair_IT-IT0150079379_UHD.jpg) |
+| ![](https://www.bing.com/th?id=OHR.EucalyptusForest_IT-IT0078107703_1920x1080.jpg) 20250302 [download 4k](https://www.bing.com/th?id=OHR.EucalyptusForest_IT-IT0078107703_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_1920x1080.jpg) 20250307 [download 4k](https://www.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PlumBlossom_ZH-CN5888621119_1920x1080.jpg) 20250306 [download 4k](https://www.bing.com/th?id=OHR.PlumBlossom_ZH-CN5888621119_UHD.jpg) |
+| ![](https://www.bing.com/th?id=OHR.NevadaBigHorns_ZH-CN5987046965_1920x1080.jpg) 20250305 [download 4k](https://www.bing.com/th?id=OHR.NevadaBigHorns_ZH-CN5987046965_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SuratThani_ZH-CN6836438823_1920x1080.jpg) 20250304 [download 4k](https://www.bing.com/th?id=OHR.SuratThani_ZH-CN6836438823_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MardiGrasJackson_ZH-CN3456301377_1920x1080.jpg) 20250303 [download 4k](https://www.bing.com/th?id=OHR.MardiGrasJackson_ZH-CN3456301377_UHD.jpg) |
+| ![](https://www.bing.com/th?id=OHR.HornbillPair_ZH-CN3380997666_1920x1080.jpg) 20250302 [download 4k](https://www.bing.com/th?id=OHR.HornbillPair_ZH-CN3380997666_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_1920x1080.jpg) 20250301 [download 4k](https://www.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PlumBlossom_IT-IT9649247802_1920x1080.jpg) 20250306 [download 4k](https://www.bing.com/th?id=OHR.PlumBlossom_IT-IT9649247802_UHD.jpg) |
+| ![](https://www.bing.com/th?id=OHR.ChampakaSarasi_IT-IT6538793114_1920x1080.jpg) 20250305 [download 4k](https://www.bing.com/th?id=OHR.ChampakaSarasi_IT-IT6538793114_UHD.jpg) |  |  |
+
+### 历史归档：
+
+|[2025-03](2025-03/2025-03.md)
