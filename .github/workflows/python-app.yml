@@ -1,39 +1,69 @@
+# 定义工作流的名称
 name: Download and Push Image
+# 定义工作流触发的条件
 on:
+  # 定时任务，使用 cron 表达式设置每天 23:01 触发
   schedule:
     - cron: '1 23 * * *'
+  # 允许手动触发工作流
   workflow_dispatch:
 
+# 定义工作流中的作业
 jobs:
+  # 定义一个名为 download_and_push 的作业
   download_and_push:
+    # 指定作业运行的环境，这里使用最新的 Ubuntu 系统
     runs-on: ubuntu-latest
 
+    # 定义作业中的步骤
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      # 第一步：检出代码
+      - name: Checkout repository
+        # 使用 actions/checkout@v4 这个 Action 来将仓库代码检出到运行环境中
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      # with:
-      #   python-version: '3.x'
+      # 第二步：设置 Python 环境
+      - name: Set up Python
+        # 使用 actions/setup-python@v4 这个 Action 来设置 Python 环境
+        uses: actions/setup-python@v4
+        # 注释部分可用于指定 Python 版本，这里不指定则使用默认的 Python 3.x 版本
+        # with:
+        #   python-version: '3.x'
 
-    - name: Install requests
-      run: pip install requests
+      # 第三步：安装依赖
+      - name: Install requests
+        # 执行命令，使用 pip 安装 requests 库
+        run: pip install requests
 
-    - name: run bingjson
-      run: python ./python/bing_all_langs_fullstartdate.py
+      # 第四步：运行 Python 脚本
+      - name: run bingjson
+        # 执行指定的 Python 脚本，推测该脚本用于下载 Bing 图片相关的 JSON 数据
+        run: python ./python/github_workflows_update.py
 
-    - name: Commit and Push
-        # git config --global user.name "${{ github.actor }}"
+      # 第五步：提交并推送代码
+      - name: Commit and Push
+          # 注释掉的配置，可用于设置全局用户名和邮箱为当前 GitHub 执行者的信息
+          # git config --global user.name "${{ github.actor }}"
         # git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-      run: |
-        git status
-        git diff
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add .
-        git commit -m "Add JSON at $(date +'%Y-%m-%d %H:%M:%S')"
-        git push
-      
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # 执行一系列 Git 命令
+        run: |
+          # 查看文件状态
+          git status
+          # 查看文件差异
+          git diff
+          # 配置全局用户名
+          git config --global user.name "github-actions[bot]"
+          # 配置全局邮箱（GitHub Actions 机器人的邮箱地址，以区分手动提交和自动提交）
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # 将所有修改的文件添加到暂存区
+          git add .
+          # 提交修改，提交信息包含当前的日期和时间
+          git commit -m "Add JSON at $(date +'%Y-%m-%d %H:%M:%S')"
+          # 将修改推送到远程仓库
+          git push
+
+        # 设置环境变量，用于授权 Git 推送操作
+        env:
+          # 使用 GitHub 的令牌作为环境变量，用于授权 Git 操作
+          #不是直接使用个人的访问令牌，而是由 GitHub 自动生成和管理的
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
