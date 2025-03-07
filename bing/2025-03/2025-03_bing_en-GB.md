@@ -1,0 +1,12 @@
+# Bing Wallpaper (2025-03)
+
+| | | |
+| :----: | :----: | :----: |
+| ![](https://www.bing.com/th?id=OHR.MardiGrasJackson_EN-GB2810612583_1920x1080.jpg) 20250305 [download 4k](https://www.bing.com/th?id=OHR.MardiGrasJackson_EN-GB2810612583_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HornbillPair_EN-GB2589125332_1920x1080.jpg) 20250304 [download 4k](https://www.bing.com/th?id=OHR.HornbillPair_EN-GB2589125332_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EucalyptusForest_EN-GB2410685823_1920x1080.jpg) 20250303 [download 4k](https://www.bing.com/th?id=OHR.EucalyptusForest_EN-GB2410685823_UHD.jpg) |
+| ![](https://www.bing.com/th?id=OHR.DavidsCathedralGB_EN-GB8444575423_1920x1080.jpg) 20250302 [download 4k](https://www.bing.com/th?id=OHR.DavidsCathedralGB_EN-GB8444575423_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_1920x1080.jpg) 20250307 [download 4k](https://www.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PlumBlossom_ZH-CN5888621119_1920x1080.jpg) 20250306 [download 4k](https://www.bing.com/th?id=OHR.PlumBlossom_ZH-CN5888621119_UHD.jpg) |
+| ![](https://www.bing.com/th?id=OHR.NevadaBigHorns_ZH-CN5987046965_1920x1080.jpg) 20250305 [download 4k](https://www.bing.com/th?id=OHR.NevadaBigHorns_ZH-CN5987046965_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SuratThani_ZH-CN6836438823_1920x1080.jpg) 20250304 [download 4k](https://www.bing.com/th?id=OHR.SuratThani_ZH-CN6836438823_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MardiGrasJackson_ZH-CN3456301377_1920x1080.jpg) 20250303 [download 4k](https://www.bing.com/th?id=OHR.MardiGrasJackson_ZH-CN3456301377_UHD.jpg) |
+| ![](https://www.bing.com/th?id=OHR.HornbillPair_ZH-CN3380997666_1920x1080.jpg) 20250302 [download 4k](https://www.bing.com/th?id=OHR.HornbillPair_ZH-CN3380997666_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_1920x1080.jpg) 20250301 [download 4k](https://www.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_UHD.jpg) |  |
+
+### 历史归档：
+
+|
