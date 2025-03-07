@@ -1,7 +1,12 @@
 import requests
 import json
 from datetime import datetime
+'''
+这个脚本的主要作用是保持一个不断更新的Bing每日图片数据集，同时也保存最近一周的图片数据。
+它可以用于构建一个展示Bing每日图片的应用或网站，或者用于收集和分析Bing每日图片的相关信息。
 
+
+'''
 # 定义API URL
 api_url = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=8&n=8&mkt=en-US"
 # api_url2 = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=8&n=8&mkt=en-US"
@@ -10,7 +15,7 @@ api_url = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=8&n=8&mkt=en-U
 response = requests.get(api_url)
 data = response.json()
 
-# 提取所需数据并格式化
+# 提取所需数据并格式化,提取每张图片的日期、URL、基础URL和版权信息，并格式化日期。
 images_info = []
 for image in data['images']:
     image_info = {

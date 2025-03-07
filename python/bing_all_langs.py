@@ -3,6 +3,11 @@ import json
 import os
 from datetime import datetime
 
+'''
+这个脚本的主要目的是从Bing获取多种语言的每日图片信息，并以有组织的方式存储这些信息，便于后续使用或分析。
+它可以用于构建一个展示Bing每日图片的应用或网站，或者用于收集和分析Bing每日图片的相关信息。
+'''
+
 # 定义语言代码列表
 languages = ['hu-HU', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES', 'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']  # 可以添加其他语言代码
 
@@ -24,7 +29,7 @@ for lang in languages:
     response = requests.get(api_url)
     data = response.json()
 
-    # 提取所需数据并格式化
+    # 从API响应中提取每张图片的相关信息，包括日期、URL、版权信息等,并格式化。
     images_info = []
     for image in data['images']:
         urlbase = f"https://www.bing.com{image['urlbase']}"
@@ -41,6 +46,10 @@ for lang in languages:
         images_info.append(image_info)
 
     # 定义与语言代码相关的文件路径
+    #对每种语言，脚本会维护三个JSON文件： 
+    # a. 当前语言的所有历史数据（./bing/bing_{lang}.json） 
+    # b. 当前年份的数据（./bing/{year}/bing_{lang}.json）
+    # c. 最近一周的数据（./bing/bing_weekly_{lang}.json）
     file_path_current = f'./bing/bing_{lang}.json'
     file_path_yearly = f'./bing/{thisyear}/bing_{lang}.json'
 

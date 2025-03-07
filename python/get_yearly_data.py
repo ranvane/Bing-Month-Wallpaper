@@ -1,4 +1,5 @@
 import json
+'''从原始的Bing壁纸数据中筛选出2024年的数据，并将结果保存回原文件。'''
 years = 2024
 # langs = ['ROW', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES', 'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']
 langs = ['en-US']
