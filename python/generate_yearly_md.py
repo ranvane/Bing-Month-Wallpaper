@@ -204,8 +204,10 @@ def get_year_month_links(bing_dir, nums=10):
         md_file = os.path.join(bing_dir, folder, f"{folder}.md")
         if os.path.exists(md_file):
             # 生成相对路径链接（格式：[2023-10](../2023-10/2023-10.md)）
-            relative_path = os.path.relpath(md_file, start=os.path.dirname(bing_dir))
+            # relative_path = os.path.relpath(md_file, start=os.path.dirname(bing_dir))
+            relative_path = os.path.relpath(md_file)
             links.append(f"[{folder}]({relative_path})")
+
 
             # 每满nums个链接插入换行（生成表格换行符）
             if i % nums == 0:
