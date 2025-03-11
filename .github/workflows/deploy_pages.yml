@@ -31,6 +31,19 @@ jobs:
       - name: 当前目录
         run: pwd
 
+      # 打印父目录路径并列出父目录下的文件夹，若有 bing 文件夹则列出其文件
+      - name: 父目录目录
+        run: |
+          parent_dir=$(dirname $(pwd))
+          echo "父目录路径: $parent_dir"
+          echo "父目录下的文件夹:"
+          ls -d $parent_dir/*/
+          if [ -d "$parent_dir/bing" ]; then
+            echo "父目录下的 bing 文件夹存在，其中的文件如下："
+            ls -l "$parent_dir/bing"
+          else
+            echo "父目录下的 bing 文件夹不存在。"
+          fi
       - name: 检查 /bing 目录是否存在
         run: |
           if [ -d "./bing" ]; then
