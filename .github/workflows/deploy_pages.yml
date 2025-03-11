@@ -35,4 +35,4 @@ jobs:
           # 使用 GitHub 令牌进行身份验证，确保有足够的权限进行部署操作
           github_token: ${{ secrets.GITHUB_TOKEN }}
           # 指定要部署的目录，这里是 bing 目录，可根据实际文件夹名称修改
-          publish_dir: .bing
+          publish_dir: ./bing
