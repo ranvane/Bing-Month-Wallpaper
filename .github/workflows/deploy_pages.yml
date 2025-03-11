@@ -26,7 +26,12 @@ jobs:
       - name: 检出代码 Checkout repository
         # 使用 actions/checkout@v4 这个 Action 来将仓库代码检出到运行环境中
         uses: actions/checkout@v4
-
+        
+      # 安装 tree 命令
+      - name: Install tree command
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tree
 
       - name: 当前目录
         run: pwd
@@ -49,6 +54,7 @@ jobs:
           if [ -d "./bing" ]; then
             if [ "$(ls -A ./bing)" ]; then
               echo "bing 目录存在且不为空。"
+              tree ./bing  # 新增：使用 tree 命令列出文件
             else
               echo "bing 目录存在但为空。"
             fi
