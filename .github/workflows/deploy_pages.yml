@@ -61,15 +61,41 @@ jobs:
           else
             echo "bing 目录不存在。"
           fi
-      # 第二步：部署到 GitHub Pages
-      - name: 部署到 GitHub Pages
-        # 使用 peaceiris/actions-gh-pages@v3 这个 Action 来完成部署操作
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          # 使用 GitHub 令牌进行身份验证，确保有足够的权限进行部署操作
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          # 指定要部署的目录，这里是 bing 目录，可根据实际文件夹名称修改
-          publish_dir: ./bing
-          keep_files: true  # 保留目标分支上的旧文件
-        env:
-          DEBUG: true
+      - name: 手动部署到 GitHub Pages
+        run: |
+          # 配置 Git 用户信息
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          
+          # 克隆 gh-pages 分支
+          git clone --depth=1 --single-branch --branch gh-pages https://${{ secrets.GITHUB_TOKEN }}@github.com/ranvane/Bing-Month-Wallpaper.git gh-pages
+          
+          # 清空 gh-pages 目录下的文件
+          rm -rf gh-pages/*
+          
+          # 复制 bing 文件夹内容到 gh-pages 目录
+          cp -r ./bing/* gh-pages/
+          
+          # 进入 gh-pages 目录
+          cd gh-pages
+          
+          # 添加所有文件到暂存区
+          git add .
+          
+          # 提交更改
+          git commit -m "Deploy to GitHub Pages"
+          
+          # 推送更改到 gh-pages 分支
+          git push origin gh-pages
+#      # 第二步：部署到 GitHub Pages
+#      - name: 部署到 GitHub Pages
+#        # 使用 peaceiris/actions-gh-pages@v3 这个 Action 来完成部署操作
+#        uses: peaceiris/actions-gh-pages@v3
+#        with:
+#          # 使用 GitHub 令牌进行身份验证，确保有足够的权限进行部署操作
+#          github_token: ${{ secrets.GITHUB_TOKEN }}
+#          # 指定要部署的目录，这里是 bing 目录，可根据实际文件夹名称修改
+#          publish_dir: ./bing
+#          keep_files: true  # 保留目标分支上的旧文件
+#        env:
+#          DEBUG: true
