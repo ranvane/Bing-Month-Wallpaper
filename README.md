@@ -7,8 +7,7 @@
 
 
 ### 注意：
-虽然本项目fork自[Bing Daily Wallpaper](https://github.com/zigou23/Bing-Daily-Wallpaper),并从项目[bing-wallpaper-archive](https://github.com/zigou23/Bing-Daily-Wallpaper)中获取2016-2021年的每日壁纸数据经过整理后合并，但是
-Bing Daily Wallpaper源代码基本抛弃。
+本项目数据来自[Bing Daily Wallpaper](https://github.com/zigou23/Bing-Daily-Wallpaper)和[bing-wallpaper-archive](https://github.com/zigou23/Bing-Daily-Wallpaper)项目中，数据经过整理后合并。
 
 ps：
 
