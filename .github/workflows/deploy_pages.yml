@@ -8,7 +8,7 @@ on:
   # 当指定的工作流完成时触发此工作流
   workflow_run:
     # 指定要监听的工作流名称，这里是 "Download and Push Image" 工作流
-    workflows: [ "Download and Push Image" ]
+    workflows: ["Download and Push Image"]
     # 指定监听的事件类型，这里表示当该工作流完成时触发
     types:
       - completed
@@ -26,7 +26,6 @@ jobs:
       - name: Checkout repository
         # 使用 actions/checkout@v4 这个 Action 来将仓库代码检出到运行环境中
         uses: actions/checkout@v4
-
       # 调试：检查 ./bing 目录是否存在
       - name: Check if ./bing directory exists
         run: |

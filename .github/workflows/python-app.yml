@@ -74,6 +74,23 @@ jobs:
             echo "No changes to commit."
           fi
         # 设置环境变量，用于授权 Git 推送操作
+
+      # 调试：检查 ./bing 目录是否存在
+      - name: Check if ./bing directory exists
+        run: |
+          if [ -d "./bing" ]; then
+            echo "./bing directory exists."
+          else
+            echo "./bing directory does not exist."
+          fi
+      # 调试：检查 bing 目录是否存在
+      - name: Check if bing directory exists
+        run: |
+          if [ -d "bing" ]; then
+            echo "bing directory exists."
+          else
+            echo "bing directory does not exist."
+          fi
         env:
           # 使用 GitHub 的令牌作为环境变量，用于授权 Git 操作
           # 不是直接使用个人的访问令牌，而是由 GitHub 自动生成和管理的
