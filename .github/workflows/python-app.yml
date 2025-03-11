@@ -45,12 +45,16 @@ jobs:
         run: pip install requests
 
       # 第四步：运行 Python 脚本
-      - name: run bingjson
+      - name: 运行脚本ithub_workflows_update.py
         # 执行指定的 Python 脚本，推测该脚本用于下载 Bing 图片相关的 JSON 数据
-        run: python ./python/github_workflows_update.py
+        run: |
+          python ./python/github_workflows_update.py
+          if [ -d "./bing" ]; then
+            ls -l ./bing
+          fi
 
       # 第五步：提交并推送代码
-      - name: Commit and Push
+      - name: 提交并推送代码 Commit and push changes
         # 执行一系列 Git 命令
         run: |
           # 检查是否有文件被修改，如果没有则不进行提交和推送操作，避免产生空提交
@@ -76,7 +80,7 @@ jobs:
         # 设置环境变量，用于授权 Git 推送操作
 
       # 调试：检查 ./bing 目录是否存在
-      - name: Check if ./bing directory exists
+      - name: 检查 ./bing 目录是否存在
         run: |
           if [ -d "./bing" ]; then
             echo "./bing directory exists."
@@ -84,7 +88,7 @@ jobs:
             echo "./bing directory does not exist."
           fi
       # 调试：检查 bing 目录是否存在
-      - name: Check if bing directory exists
+      - name: 检查 bing 目录是否存在
         run: |
           if [ -d "bing" ]; then
             echo "bing directory exists."
@@ -103,7 +107,7 @@ jobs:
     # 指定作业运行的环境，这里同样使用最新的 Ubuntu 系统
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger deploy_pages.yml
+      - name: 触发其他工作流:deploy_pages.yml
         # 使用 benc-uk/workflow-dispatch@v1 这个 Action 来触发其他工作流
         uses: benc-uk/workflow-dispatch@v1
         with:
