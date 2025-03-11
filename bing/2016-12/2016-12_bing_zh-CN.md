@@ -1,0 +1,12 @@
+# Bing Wallpaper (2016-12)
+**************
+| | | |
+| :----: | :----: | :----: |
+| ![](https://www.bing.com/az/hprichbg/rb/HongKongEye_ZH-CN12285832688_1920x1080.jpg) 20161231 [download 4k](https://www.bing.com/az/hprichbg/rb/HongKongEye_ZH-CN12285832688_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/WinterOwls_ZH-CN11633542284_1920x1080.jpg) 20161230 [download 4k](https://www.bing.com/az/hprichbg/rb/WinterOwls_ZH-CN11633542284_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ZellerHorn_ZH-CN7123868469_1920x1080.jpg) 20161229 [download 4k](https://www.bing.com/az/hprichbg/rb/ZellerHorn_ZH-CN7123868469_UHD.jpg) |
+
+### 历史归档：
+
+|[2025-03](bing/2025-03/2025-03.md)|[2025-01](bing/2025-01/2025-01.md)|[2024-10](bing/2024-10/2024-10.md)|[2023-11](bing/2023-11/2023-11.md)|[2023-04](bing/2023-04/2023-04.md)|[2023-01](bing/2023-01/2023-01.md)|[2022-10](bing/2022-10/2022-10.md)|
+|[2022-07](bing/2022-07/2022-07.md)|[2021-05](bing/2021-05/2021-05.md)|
+|[2021-01](bing/2021-01/2021-01.md)|[2020-09](bing/2020-09/2020-09.md)|[2020-08](bing/2020-08/2020-08.md)|[2020-06](bing/2020-06/2020-06.md)|[2020-02](bing/2020-02/2020-02.md)|[2020-01](bing/2020-01/2020-01.md)|[2019-09](bing/2019-09/2019-09.md)|
+|[2019-08](bing/2019-08/2019-08.md)|[2019-07](bing/2019-07/2019-07.md)|[2019-05](bing/2019-05/2019-05.md)|[2019-04](bing/2019-04/2019-04.md)|[2019-02](bing/2019-02/2019-02.md)|[2019-01](bing/2019-01/2019-01.md)|[2018-03](bing/2018-03/2018-03.md)|[2017-12](bing/2017-12/2017-12.md)|[2017-07](bing/2017-07/2017-07.md)|[2017-02](bing/2017-02/2017-02.md)|[2017-01](bing/2017-01/2017-01.md)|[2016-12](bing/2016-12/2016-12.md)
