@@ -19,6 +19,8 @@ jobs:
   deploy:
     # 指定作业运行的环境，这里使用最新的 Ubuntu 系统
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 允许 Git 推送
 
     # 定义作业中的步骤
     steps:
@@ -26,6 +28,8 @@ jobs:
       - name: 检出代码 Checkout repository
         # 使用 actions/checkout@v4 这个 Action 来将仓库代码检出到运行环境中
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # 防止 actions/checkout 自动覆盖凭据
 
       # 安装 tree 命令
       - name: Install tree command
@@ -36,18 +40,6 @@ jobs:
       - name: 当前目录
         run: pwd
 
-      - name: 检查 /bing 目录是否存在
-        run: |
-          if [ -d "/home/runner/work/Bing-Month-Wallpaper/Bing-Month-Wallpaper/bing/" ]; then
-            if [ "$(ls -A /home/runner/work/Bing-Month-Wallpaper/Bing-Month-Wallpaper/bing/)" ]; then
-              echo "bing 目录存在且不为空。"
-              tree /home/runner/work/Bing-Month-Wallpaper/Bing-Month-Wallpaper/bing/  # 新增：使用 tree 命令列出文件
-            else
-              echo "bing 目录存在但为空。"
-            fi
-          else
-            echo "bing 目录不存在。"
-          fi
       - name: 手动部署到 GitHub Pages
         run: |
           # 配置 Git 用户信息
@@ -68,22 +60,30 @@ jobs:
 
           
           # 清空 gh-pages 目录下的文件
+          echo "清空 gh-pages 目录下的文件"
           rm -rf gh-pages/*
           
           # 复制 bing 文件夹内容到 gh-pages 目录
+          echo "复制 bing 文件夹内容到 gh-pages 目录"
           cp -r $current_dir/bing gh-pages/
           
           # 进入 gh-pages 目录
+          echo "进入 gh-pages 目录"
           cd gh-pages
           
           # 添加所有文件到暂存区
           git add .
           
           # 提交更改
+          echo "git commit 提交更改"
           git commit -m "Deploy to GitHub Pages"
           
           # 推送更改到 gh-pages 分支
-          git push origin gh-pages
+          #echo "推送更改到 gh-pages 分支"
+          #git push origin gh-pages
+          # 认证 GitHub 并推送
+          echo "认证 GitHub 并推送"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ranvane/Bing-Month-Wallpaper.git gh-pages --force
 #      # 第二步：部署到 GitHub Pages
 #      - name: 部署到 GitHub Pages
 #        # 使用 peaceiris/actions-gh-pages@v3 这个 Action 来完成部署操作
