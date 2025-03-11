@@ -9,6 +9,7 @@ __pycache__/
 *.egg-info/
 *.egg
 *.so
+*.bak
 *.pyc
 #忽略 bing 文件夹下的所有子文件夹，但不会忽略 bing 文件夹内的文件。
 bing/*/
