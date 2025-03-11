@@ -27,14 +27,10 @@ jobs:
         # 使用 actions/checkout@v4 这个 Action 来将仓库代码检出到运行环境中
         uses: actions/checkout@v4
 
-      # 调试：检查 bing 目录是否存在
-      - name: 检查 bing 目录是否存在 Check if bing directory exists
-        run: |
-          if [ -d "bing" ]; then
-            echo "bing directory exists."
-          else
-            echo "bing directory does not exist."
-          fi
+
+      - name: 当前目录
+        run: pwd
+
       - name: 检查 /bing 目录是否存在
         run: |
           if [ -d "./bing" ]; then
@@ -47,7 +43,7 @@ jobs:
             echo "bing 目录不存在。"
           fi
       # 第二步：部署到 GitHub Pages
-      - name: Deploy to GitHub Pages
+      - name: 部署到 GitHub Pages
         # 使用 peaceiris/actions-gh-pages@v3 这个 Action 来完成部署操作
         uses: peaceiris/actions-gh-pages@v3
         with:
@@ -55,5 +51,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           # 指定要部署的目录，这里是 bing 目录，可根据实际文件夹名称修改
           publish_dir: ./bing
+          keep_files: true  # 保留目标分支上的旧文件
         env:
           DEBUG: true
