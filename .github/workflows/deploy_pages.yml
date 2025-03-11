@@ -69,6 +69,12 @@ jobs:
           
           # 克隆 gh-pages 分支
           git clone --depth=1 --single-branch --branch gh-pages https://${{ secrets.GITHUB_TOKEN }}@github.com/ranvane/Bing-Month-Wallpaper.git gh-pages
+          tree /home/runner/work/Bing-Month-Wallpaper/Bing-Month-Wallpaper/bing/  # 新增：使用 tree 命令列出文件
+          # 检查 bing 文件夹是否为空
+          if [ -z "$(ls -A ./bing)" ]; then
+            echo "bing 文件夹为空，跳过部署。"
+            exit 0
+          fi
           
           # 清空 gh-pages 目录下的文件
           rm -rf gh-pages/*
