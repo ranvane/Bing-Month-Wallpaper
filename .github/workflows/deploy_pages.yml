@@ -1,0 +1,38 @@
+# 定义工作流的名称，该工作流主要用于将代码部署到 GitHub Pages
+name: Deploy to GitHub Pages
+
+# 定义工作流触发的条件
+on:
+  # 允许手动触发工作流，方便在需要时手动启动该工作流进行测试或特殊操作
+  workflow_dispatch:
+  # 当指定的工作流完成时触发此工作流
+  workflow_run:
+    # 指定要监听的工作流名称，这里是 "Download and Push Image" 工作流
+    workflows: ["Download and Push Image"]
+    # 指定监听的事件类型，这里表示当该工作流完成时触发
+    types:
+      - completed
+
+# 定义工作流中的作业
+jobs:
+  # 定义一个名为 deploy 的作业，负责将代码部署到 GitHub Pages
+  deploy:
+    # 指定作业运行的环境，这里使用最新的 Ubuntu 系统
+    runs-on: ubuntu-latest
+
+    # 定义作业中的步骤
+    steps:
+      # 第一步：检出代码
+      - name: Checkout repository
+        # 使用 actions/checkout@v4 这个 Action 来将仓库代码检出到运行环境中
+        uses: actions/checkout@v4
+
+      # 第二步：部署到 GitHub Pages
+      - name: Deploy to GitHub Pages
+        # 使用 peaceiris/actions-gh-pages@v3 这个 Action 来完成部署操作
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          # 使用 GitHub 令牌进行身份验证，确保有足够的权限进行部署操作
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # 指定要部署的目录，这里是 bing 目录，可根据实际文件夹名称修改
+          publish_dir: .bing

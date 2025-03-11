@@ -1,0 +1,12 @@
+*.zip
+.vscode/
+.idea
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.egg-info/
+*.egg
+*.so
+*.pyc

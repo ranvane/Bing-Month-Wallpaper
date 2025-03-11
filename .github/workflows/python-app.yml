@@ -1,0 +1,96 @@
+# 定义工作流的名称，该工作流主要用于下载数据并提交推送代码
+name: Download and Push Image
+# 定义工作流触发的条件
+on:
+  # 定时任务，使用 cron 表达式设置每天 23:01 触发
+  # cron 表达式的格式为：分钟 小时 日 月 周
+  # 这里 '1 23 * * *' 表示每天的 23 时 01 分触发
+  schedule:
+    - cron: '1 23 * * *'
+  # 允许手动触发工作流，方便在需要时手动启动该工作流进行测试或特殊操作
+  workflow_dispatch:
+  # 当代码推送到仓库时触发工作流
+  push:
+    # 可以指定特定的分支，这里表示推送到 main 分支时触发，你可按需修改
+    branches:
+      - main
+
+# 定义工作流中的作业，一个工作流可以包含多个作业，作业之间可以有依赖关系
+jobs:
+  # 定义一个名为 download_and_push 的作业，主要负责下载数据和提交推送代码
+  download_and_push:
+    # 指定作业运行的环境，这里使用最新的 Ubuntu 系统
+    runs-on: ubuntu-latest
+
+    # 定义作业中的步骤，步骤按顺序依次执行
+    steps:
+      # 第一步：检出代码
+      - name: Checkout repository
+        # 使用 actions/checkout@v4 这个 Action 来将仓库代码检出到运行环境中
+        uses: actions/checkout@v4
+
+      # 第二步：设置 Python 环境
+      - name: Set up Python
+        # 使用 actions/setup-python@v4 这个 Action 来设置 Python 环境
+        uses: actions/setup-python@v4
+        # 指定 Python 版本，可根据实际需求修改
+        # 这里指定为 3.10 版本，避免因默认版本变化导致兼容性问题
+        with:
+          python-version: '3.10'
+
+      # 第三步：安装依赖
+      - name: Install requests
+        # 执行命令，使用 pip 安装 requests 库
+        # requests 库常用于发送 HTTP 请求，可能在后续的 Python 脚本中会用到
+        run: pip install requests
+
+      # 第四步：运行 Python 脚本
+      - name: run bingjson
+        # 执行指定的 Python 脚本，推测该脚本用于下载 Bing 图片相关的 JSON 数据
+        run: python ./python/github_workflows_update.py
+
+      # 第五步：提交并推送代码
+      - name: Commit and Push
+        # 执行一系列 Git 命令
+        run: |
+          # 检查是否有文件被修改，如果没有则不进行提交和推送操作，避免产生空提交
+          if [[ -n $(git status --porcelain) ]]; then
+            # 查看文件状态，方便调试和确认修改情况
+            git status
+            # 查看文件差异，进一步确认修改内容
+            git diff
+            # 配置全局用户名，使用 GitHub Actions 机器人的用户名
+            git config --global user.name "github-actions[bot]"
+            # 配置全局邮箱，使用 GitHub Actions 机器人的邮箱地址，以区分手动提交和自动提交
+            git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            # 将所有修改的文件添加到暂存区
+            git add .
+            # 提交修改，提交信息包含当前的日期和时间，方便后续查看提交记录
+            git commit -m "Add JSON at $(date +'%Y-%m-%d %H:%M:%S')"
+            # 将修改推送到远程仓库
+            git push
+          else
+            # 如果没有文件被修改，输出提示信息
+            echo "No changes to commit."
+          fi
+        # 设置环境变量，用于授权 Git 推送操作
+        env:
+          # 使用 GitHub 的令牌作为环境变量，用于授权 Git 操作
+          # 不是直接使用个人的访问令牌，而是由 GitHub 自动生成和管理的
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # 此作业用于触发另一个工作流 deploy_pages.yml
+  trigger_deploy_pages:
+    # 表示该作业依赖于 download_and_push 作业，只有当 download_and_push 作业成功完成后才会执行
+    needs: download_and_push
+    # 指定作业运行的环境，这里同样使用最新的 Ubuntu 系统
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger deploy_pages.yml
+        # 使用 benc-uk/workflow-dispatch@v1 这个 Action 来触发其他工作流
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          # 指定要触发的工作流名称
+          workflow: Deploy to GitHub Pages
+          # 使用 GitHub 令牌进行身份验证，确保有足够的权限触发目标工作流
+          token: ${{ secrets.GITHUB_TOKEN }}
