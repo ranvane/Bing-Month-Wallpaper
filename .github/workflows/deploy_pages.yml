@@ -16,26 +16,33 @@ jobs:
       - name: 检出仓库代码
         uses: actions/checkout@v4
 
+      # 确保 bing 目录存在
+      - name: 确保 bing 目录存在
+        run: mkdir -p bing && ls -al bing
+
+      # 检查 ./bing 目录是否为空
       - name: 检查 ./bing 目录是否为空
         run: |
           if [ -z "$(ls -A ./bing)" ]; then
             echo "❌ ./bing 目录为空，跳过部署"
             exit 0
           fi
+
       # 安装 Pandoc 并转换 Markdown
       - name: 安装 Pandoc 并转换 Markdown
         run: |
           sudo apt-get install -y pandoc
-          if [ -z "$(find ./bing -name '*.md')" ]; then
-            echo "# 默认页面" > .bing/index.md
+          if [ -z "$(find bing -name '*.md')" ]; then
+            echo "# 默认页面" > bing/index.md
           fi
-          for file in $(find ./bing -name "*.md"); do
+          for file in $(find bing -name "*.md"); do
             pandoc "$file" -o "${file%.md}.html"
           done
+
       # 部署到 GitHub Pages
       - name: 部署到 GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./bing  # 需要部署的目录
-          branch: gh-pages  # 确保推送到 gh-pages 分支
+          publish_dir: ./bing  # 确保路径正确
+          publish_branch: gh-pages  # 修改为正确的参数
