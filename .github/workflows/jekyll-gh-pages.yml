@@ -1,6 +1,6 @@
 # 这是一个用于构建并部署 Jekyll 网站到 GitHub Pages 的示例工作流
 # 该工作流会在代码推送到默认分支或手动触发时执行
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: Deploy Jekyll with GitHub Pages
 
 # 定义工作流的触发条件
 on:
