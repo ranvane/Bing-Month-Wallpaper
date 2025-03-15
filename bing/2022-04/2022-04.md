@@ -3,7 +3,6 @@
 | | | |
 | :----: | :----: | :----: |
 | ![](https://www.bing.com/th?id=OHR.VanBlooms_ZH-CN6370306779_1920x1080.jpg) 20220501 [download 4k](https://www.bing.com/th?id=OHR.VanBlooms_ZH-CN6370306779_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WiedehopfElbe_ZH-CN6286311611_1920x1080.jpg) 20220430 [download 4k](https://www.bing.com/th?id=OHR.WiedehopfElbe_ZH-CN6286311611_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RedwoodSprout_ZH-CN6224667074_1920x1080.jpg) 20220429 [download 4k](https://www.bing.com/th?id=OHR.RedwoodSprout_ZH-CN6224667074_UHD.jpg) |
-| ![](https://www.bing.com/th?id=OHR.GreatRidge_ZH-CN6165605288_1920x1080.jpg) 20220428 [download 4k](https://www.bing.com/th?id=OHR.GreatRidge_ZH-CN6165605288_UHD.jpg) |  |  |
 
 ### 历史归档：
 
