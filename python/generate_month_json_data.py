@@ -72,8 +72,8 @@ def process_bing_json(file_path: Path, copy_lang:str) -> None:
         lang_file.write_text(json.dumps(items, ensure_ascii=False, indent=4))
 
         # 记录创建的文件信息
-        logging.info(f"Created: {lang_file}")
-
+        # logging.info(f"Created: {lang_file}")
+    logging.info(f"将 { base_name }，按年月分类分割存储。")
 def create_monthly_index_files(copy_lang: str = 'zh-CN') -> None:
     """
     处理流程：
@@ -94,7 +94,7 @@ def create_monthly_index_files(copy_lang: str = 'zh-CN') -> None:
             for json_file in match_files:
                 index_file = year_month_folder / f"{year_month_folder.name}.json"
                 shutil.copy2(json_file, index_file)
-                logging.info(f"Created index file: {index_file}")
+                # logging.info(f"Created index file: {index_file}")
 
 def year_month_langs(copy_lang: str = 'zh-CN') -> None:
     """
@@ -124,6 +124,8 @@ def year_month_langs(copy_lang: str = 'zh-CN') -> None:
         # 调用处理函数，仅当当前语言等于目标语言时创建索引文件
         process_bing_json(json_file,copy_lang)
 
+    # 调用函数，创建索引文件
+    logging.info(f"创建索引文件: {copy_lang}...")
     create_monthly_index_files(copy_lang)
 
 

@@ -50,11 +50,11 @@ def generate_md_file(json_file_path, template_path, output_file_path):
     4. 输出最终Markdown文件
     """
     # 打印处理日志头
-    logging.info('*****************************************')
-    logging.info(f"Processing: {json_file_path}")
-    logging.info(f"Template: {template_path}")
-    logging.info(f"Output: {output_file_path}")
-    logging.info('-----------------------------------------')
+    # logging.info('*****************************************')
+    # logging.info(f"Processing: {json_file_path}")
+    # logging.info(f"Template: {template_path}")
+    # logging.info(f"Output: {output_file_path}")
+    # logging.info('-----------------------------------------')
 
     # 读取JSON数据（包含错误处理）
     json_content = read_file(json_file_path)
