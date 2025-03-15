@@ -86,22 +86,27 @@ def generate_md_file(json_file_path, template_path, output_file_path):
         # 提取日期字段（格式示例：20240305）
         date = item.get('date', '')
 
-        # 创建Markdown单元格（图片显示 + 日期 + 4K下载链接）
-        cell = f"![]({url}) {date} [download 4k]({url_4k})"
+        # 创建 HTML 单元格（图片显示 + 日期 + 4K下载链接）
+        cell = f'<td><img src="{url}" alt="{date}"> {date} <a href="{url_4k}">[download 4k]</a></td>'
         current_row.append(cell)
 
         # 每满3个单元格生成表格行
         if len(current_row) == 3:
-            row = f"| {current_row[0]} | {current_row[1]} | {current_row[2]} |"
+            row = f'<tr>{"".join(current_row)}</tr>'
             table_rows.append(row)
             current_row = []  # 重置行缓存
 
     # 补全最后未满3个的单元格
     if current_row:
         while len(current_row) < 3:
-            current_row.append('')  # 空单元格占位
-        row = f"| {current_row[0]} | {current_row[1]} | {current_row[2]} |"
+            current_row.append('<td></td>')  # 空单元格占位
+        row = f'<tr>{"".join(current_row)}</tr>'
         table_rows.append(row)
+
+    # 构建完整的 HTML 表格
+    html_table = f'<table>{"".join(table_rows)}</table>'
+    # 这里将 table_rows 替换为 html_table 用于后续模板替换
+    table_rows = [html_table]
 
     # 从输出路径中提取年月信息（如从 "bing/2023-10/2023-10.md" 中提取 "2023-10"）
     year_month = os.path.basename(os.path.dirname(output_file_path))

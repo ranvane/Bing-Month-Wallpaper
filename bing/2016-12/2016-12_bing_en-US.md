@@ -1,8 +1,7 @@
 # Bing Wallpaper (2016-12)
 **************
-| | | |
-|:-:|:-:|:-:|
-| ![](https://www.bing.com/az/hprichbg/rb/SydneyHarbourFireworks_EN-US10474110680_1920x1080.jpg) 20161231 [download 4k](https://www.bing.com/az/hprichbg/rb/SydneyHarbourFireworks_EN-US10474110680_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ZellerHorn_EN-US7500162477_1920x1080.jpg) 20161230 [download 4k](https://www.bing.com/az/hprichbg/rb/ZellerHorn_EN-US7500162477_UHD.jpg) |  |
+
+<table><tr><td><img src="https://www.bing.com/az/hprichbg/rb/SydneyHarbourFireworks_EN-US10474110680_1920x1080.jpg" alt="20161231"> 20161231 <a href="https://www.bing.com/az/hprichbg/rb/SydneyHarbourFireworks_EN-US10474110680_UHD.jpg">[download 4k]</a></td><td><img src="https://www.bing.com/az/hprichbg/rb/ZellerHorn_EN-US7500162477_1920x1080.jpg" alt="20161230"> 20161230 <a href="https://www.bing.com/az/hprichbg/rb/ZellerHorn_EN-US7500162477_UHD.jpg">[download 4k]</a></td><td></td></tr></table>
 
 ### 历史归档：
 

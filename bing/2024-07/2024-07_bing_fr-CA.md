@@ -1,8 +1,7 @@
 # Bing Wallpaper (2024-07)
 **************
-| | | |
-|:-:|:-:|:-:|
-| ![](https://www.bing.com/th?id=OHR.HoodoosBryce_FR-CA6799802149_1920x1080.jpg) 20240801 [download 4k](https://www.bing.com/th?id=OHR.HoodoosBryce_FR-CA6799802149_UHD.jpg) |  |  |
+
+<table><tr><td><img src="https://www.bing.com/th?id=OHR.HoodoosBryce_FR-CA6799802149_1920x1080.jpg" alt="20240801"> 20240801 <a href="https://www.bing.com/th?id=OHR.HoodoosBryce_FR-CA6799802149_UHD.jpg">[download 4k]</a></td><td></td><td></td></tr></table>
 
 ### 历史归档：
 

@@ -1,9 +1,7 @@
 # Bing Wallpaper (2025-03)
 **************
-| | | |
-|:-:|:-:|:-:|
-| ![](https://www.bing.com/th?id=OHR.SuratThani_IT-IT0062631130_1920x1080.jpg) 20250305 [download 4k](https://www.bing.com/th?id=OHR.SuratThani_IT-IT0062631130_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MardiGrasJackson_IT-IT5960330110_1920x1080.jpg) 20250304 [download 4k](https://www.bing.com/th?id=OHR.MardiGrasJackson_IT-IT5960330110_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HornbillPair_IT-IT0150079379_1920x1080.jpg) 20250303 [download 4k](https://www.bing.com/th?id=OHR.HornbillPair_IT-IT0150079379_UHD.jpg) |
-| ![](https://www.bing.com/th?id=OHR.EucalyptusForest_IT-IT0078107703_1920x1080.jpg) 20250302 [download 4k](https://www.bing.com/th?id=OHR.EucalyptusForest_IT-IT0078107703_UHD.jpg) |  |  |
+
+<table><tr><td><img src="https://www.bing.com/th?id=OHR.SuratThani_IT-IT0062631130_1920x1080.jpg" alt="20250305"> 20250305 <a href="https://www.bing.com/th?id=OHR.SuratThani_IT-IT0062631130_UHD.jpg">[download 4k]</a></td><td><img src="https://www.bing.com/th?id=OHR.MardiGrasJackson_IT-IT5960330110_1920x1080.jpg" alt="20250304"> 20250304 <a href="https://www.bing.com/th?id=OHR.MardiGrasJackson_IT-IT5960330110_UHD.jpg">[download 4k]</a></td><td><img src="https://www.bing.com/th?id=OHR.HornbillPair_IT-IT0150079379_1920x1080.jpg" alt="20250303"> 20250303 <a href="https://www.bing.com/th?id=OHR.HornbillPair_IT-IT0150079379_UHD.jpg">[download 4k]</a></td></tr><tr><td><img src="https://www.bing.com/th?id=OHR.EucalyptusForest_IT-IT0078107703_1920x1080.jpg" alt="20250302"> 20250302 <a href="https://www.bing.com/th?id=OHR.EucalyptusForest_IT-IT0078107703_UHD.jpg">[download 4k]</a></td><td></td><td></td></tr></table>
 
 ### 历史归档：
 

@@ -1,8 +1,7 @@
 # Bing Wallpaper (2016-12)
 **************
-| | | |
-|:-:|:-:|:-:|
-| ![](https://www.bing.com/az/hprichbg/rb/HongKongEye_ZH-CN12285832688_1920x1080.jpg) 20161231 [download 4k](https://www.bing.com/az/hprichbg/rb/HongKongEye_ZH-CN12285832688_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/WinterOwls_ZH-CN11633542284_1920x1080.jpg) 20161230 [download 4k](https://www.bing.com/az/hprichbg/rb/WinterOwls_ZH-CN11633542284_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ZellerHorn_ZH-CN7123868469_1920x1080.jpg) 20161229 [download 4k](https://www.bing.com/az/hprichbg/rb/ZellerHorn_ZH-CN7123868469_UHD.jpg) |
+
+<table><tr><td><img src="https://www.bing.com/az/hprichbg/rb/HongKongEye_ZH-CN12285832688_1920x1080.jpg" alt="20161231"> 20161231 <a href="https://www.bing.com/az/hprichbg/rb/HongKongEye_ZH-CN12285832688_UHD.jpg">[download 4k]</a></td><td><img src="https://www.bing.com/az/hprichbg/rb/WinterOwls_ZH-CN11633542284_1920x1080.jpg" alt="20161230"> 20161230 <a href="https://www.bing.com/az/hprichbg/rb/WinterOwls_ZH-CN11633542284_UHD.jpg">[download 4k]</a></td><td><img src="https://www.bing.com/az/hprichbg/rb/ZellerHorn_ZH-CN7123868469_1920x1080.jpg" alt="20161229"> 20161229 <a href="https://www.bing.com/az/hprichbg/rb/ZellerHorn_ZH-CN7123868469_UHD.jpg">[download 4k]</a></td></tr></table>
 
 ### 历史归档：
 

@@ -1,9 +1,7 @@
 # Bing Wallpaper (2025-03)
 **************
-| | | |
-|:-:|:-:|:-:|
-| ![](https://www.bing.com/th?id=OHR.SuratThani_EN-IN8229875017_1920x1080.jpg) 20250305 [download 4k](https://www.bing.com/th?id=OHR.SuratThani_EN-IN8229875017_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CharminarInterior_EN-IN8277108319_1920x1080.jpg) 20250304 [download 4k](https://www.bing.com/th?id=OHR.CharminarInterior_EN-IN8277108319_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HornbillPair_EN-IN8859837972_1920x1080.jpg) 20250303 [download 4k](https://www.bing.com/th?id=OHR.HornbillPair_EN-IN8859837972_UHD.jpg) |
-| ![](https://www.bing.com/th?id=OHR.EucalyptusForest_EN-IN9152358934_1920x1080.jpg) 20250302 [download 4k](https://www.bing.com/th?id=OHR.EucalyptusForest_EN-IN9152358934_UHD.jpg) |  |  |
+
+<table><tr><td><img src="https://www.bing.com/th?id=OHR.SuratThani_EN-IN8229875017_1920x1080.jpg" alt="20250305"> 20250305 <a href="https://www.bing.com/th?id=OHR.SuratThani_EN-IN8229875017_UHD.jpg">[download 4k]</a></td><td><img src="https://www.bing.com/th?id=OHR.CharminarInterior_EN-IN8277108319_1920x1080.jpg" alt="20250304"> 20250304 <a href="https://www.bing.com/th?id=OHR.CharminarInterior_EN-IN8277108319_UHD.jpg">[download 4k]</a></td><td><img src="https://www.bing.com/th?id=OHR.HornbillPair_EN-IN8859837972_1920x1080.jpg" alt="20250303"> 20250303 <a href="https://www.bing.com/th?id=OHR.HornbillPair_EN-IN8859837972_UHD.jpg">[download 4k]</a></td></tr><tr><td><img src="https://www.bing.com/th?id=OHR.EucalyptusForest_EN-IN9152358934_1920x1080.jpg" alt="20250302"> 20250302 <a href="https://www.bing.com/th?id=OHR.EucalyptusForest_EN-IN9152358934_UHD.jpg">[download 4k]</a></td><td></td><td></td></tr></table>
 
 ### 历史归档：
 

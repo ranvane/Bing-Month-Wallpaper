@@ -1,9 +1,7 @@
 # Bing Wallpaper (2022-04)
 **************
-| | | |
-|:-:|:-:|:-:|
-| ![](https://www.bing.com/th?id=OHR.FoxSkills_EN-GB5849465761_1920x1080.jpg) 20220501 [download 4k](https://www.bing.com/th?id=OHR.FoxSkills_EN-GB5849465761_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-GB5796324169_1920x1080.jpg) 20220430 [download 4k](https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-GB5796324169_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RedwoodSprout_EN-GB5476982698_1920x1080.jpg) 20220429 [download 4k](https://www.bing.com/th?id=OHR.RedwoodSprout_EN-GB5476982698_UHD.jpg) |
-| ![](https://www.bing.com/th?id=OHR.EileanNaMoine_EN-GB5424366083_1920x1080.jpg) 20220428 [download 4k](https://www.bing.com/th?id=OHR.EileanNaMoine_EN-GB5424366083_UHD.jpg) |  |  |
+
+<table><tr><td><img src="https://www.bing.com/th?id=OHR.FoxSkills_EN-GB5849465761_1920x1080.jpg" alt="20220501"> 20220501 <a href="https://www.bing.com/th?id=OHR.FoxSkills_EN-GB5849465761_UHD.jpg">[download 4k]</a></td><td><img src="https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-GB5796324169_1920x1080.jpg" alt="20220430"> 20220430 <a href="https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-GB5796324169_UHD.jpg">[download 4k]</a></td><td><img src="https://www.bing.com/th?id=OHR.RedwoodSprout_EN-GB5476982698_1920x1080.jpg" alt="20220429"> 20220429 <a href="https://www.bing.com/th?id=OHR.RedwoodSprout_EN-GB5476982698_UHD.jpg">[download 4k]</a></td></tr><tr><td><img src="https://www.bing.com/th?id=OHR.EileanNaMoine_EN-GB5424366083_1920x1080.jpg" alt="20220428"> 20220428 <a href="https://www.bing.com/th?id=OHR.EileanNaMoine_EN-GB5424366083_UHD.jpg">[download 4k]</a></td><td></td><td></td></tr></table>
 
 ### 历史归档：
 
