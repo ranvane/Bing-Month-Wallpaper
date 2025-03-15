@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HocesDuraton_ZH-CN2152159552_1920x1080.jpg) 20201130 [download 4k](https://www.bing.com/th?id=OHR.HocesDuraton_ZH-CN2152159552_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EDCScotland_ZH-CN2038527689_1920x1080.jpg) 20201129 [download 4k](https://www.bing.com/th?id=OHR.EDCScotland_ZH-CN2038527689_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MountTaranaki_ZH-CN1962085466_1920x1080.jpg) 20201128 [download 4k](https://www.bing.com/th?id=OHR.MountTaranaki_ZH-CN1962085466_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ValCervara_ZH-CN1889046979_1920x1080.jpg) 20201127 [download 4k](https://www.bing.com/th?id=OHR.ValCervara_ZH-CN1889046979_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NaturesWindowLookout_ZH-CN1799883608_1920x1080.jpg) 20201126 [download 4k](https://www.bing.com/th?id=OHR.NaturesWindowLookout_ZH-CN1799883608_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChipmunkJP_ZH-CN1697070440_1920x1080.jpg) 20201125 [download 4k](https://www.bing.com/th?id=OHR.ChipmunkJP_ZH-CN1697070440_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CPMall_ZH-CN1202155438_1920x1080.jpg) 20201124 [download 4k](https://www.bing.com/th?id=OHR.CPMall_ZH-CN1202155438_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AsilomarSB_ZH-CN1074865975_1920x1080.jpg) 20201123 [download 4k](https://www.bing.com/th?id=OHR.AsilomarSB_ZH-CN1074865975_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BernCH_ZH-CN0890742909_1920x1080.jpg) 20201122 [download 4k](https://www.bing.com/th?id=OHR.BernCH_ZH-CN0890742909_UHD.jpg) |

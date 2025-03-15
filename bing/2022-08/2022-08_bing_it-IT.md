@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.WildlifeCrossing_IT-IT9066461678_1920x1080.jpg) 20220901 [download 4k](https://www.bing.com/th?id=OHR.WildlifeCrossing_IT-IT9066461678_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SammezzanoCastle_IT-IT8448002045_1920x1080.jpg) 20220831 [download 4k](https://www.bing.com/th?id=OHR.SammezzanoCastle_IT-IT8448002045_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Migliarino_IT-IT8048931972_1920x1080.jpg) 20220830 [download 4k](https://www.bing.com/th?id=OHR.Migliarino_IT-IT8048931972_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.EstoniaBaltic_IT-IT7601823237_1920x1080.jpg) 20220829 [download 4k](https://www.bing.com/th?id=OHR.EstoniaBaltic_IT-IT7601823237_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BeardedTit_IT-IT6915988542_1920x1080.jpg) 20220828 [download 4k](https://www.bing.com/th?id=OHR.BeardedTit_IT-IT6915988542_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MSHV_IT-IT7094490494_1920x1080.jpg) 20220827 [download 4k](https://www.bing.com/th?id=OHR.MSHV_IT-IT7094490494_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PeljesacWind_IT-IT6985137042_1920x1080.jpg) 20220826 [download 4k](https://www.bing.com/th?id=OHR.PeljesacWind_IT-IT6985137042_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CascadesNP_IT-IT8996545889_1920x1080.jpg) 20220825 [download 4k](https://www.bing.com/th?id=OHR.CascadesNP_IT-IT8996545889_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WheatField_IT-IT8579409356_1920x1080.jpg) 20220824 [download 4k](https://www.bing.com/th?id=OHR.WheatField_IT-IT8579409356_UHD.jpg) |

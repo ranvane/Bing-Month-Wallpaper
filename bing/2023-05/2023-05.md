@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_1920x1080.jpg) 20230601 [download 4k](https://www.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_1920x1080.jpg) 20230531 [download 4k](https://www.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HiddenBeach_ZH-CN8410568637_1920x1080.jpg) 20230530 [download 4k](https://www.bing.com/th?id=OHR.HiddenBeach_ZH-CN8410568637_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Antilles_ZH-CN8267285876_1920x1080.jpg) 20230529 [download 4k](https://www.bing.com/th?id=OHR.Antilles_ZH-CN8267285876_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TegallalangTerrace_ZH-CN8126456968_1920x1080.jpg) 20230528 [download 4k](https://www.bing.com/th?id=OHR.TegallalangTerrace_ZH-CN8126456968_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_1920x1080.jpg) 20230527 [download 4k](https://www.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_1920x1080.jpg) 20230526 [download 4k](https://www.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SaksunFaroe_ZH-CN7150180006_1920x1080.jpg) 20230525 [download 4k](https://www.bing.com/th?id=OHR.SaksunFaroe_ZH-CN7150180006_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OldFortress_ZH-CN6469523538_1920x1080.jpg) 20230524 [download 4k](https://www.bing.com/th?id=OHR.OldFortress_ZH-CN6469523538_UHD.jpg) |

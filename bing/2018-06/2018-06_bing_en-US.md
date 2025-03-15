@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/MeteorCrater_EN-US9993563603_1920x1080.jpg) 20180630 [download 4k](https://www.bing.com/az/hprichbg/rb/MeteorCrater_EN-US9993563603_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/AuroraPhotographer_EN-US10752129713_1920x1080.jpg) 20180629 [download 4k](https://www.bing.com/az/hprichbg/rb/AuroraPhotographer_EN-US10752129713_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/CompositeBeach_EN-US10477241178_1920x1080.jpg) 20180628 [download 4k](https://www.bing.com/az/hprichbg/rb/CompositeBeach_EN-US10477241178_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/ConcreteDinosaurs_EN-US9038296644_1920x1080.jpg) 20180627 [download 4k](https://www.bing.com/az/hprichbg/rb/ConcreteDinosaurs_EN-US9038296644_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MorondavaBaobab_EN-US11363642614_1920x1080.jpg) 20180626 [download 4k](https://www.bing.com/az/hprichbg/rb/MorondavaBaobab_EN-US11363642614_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MODIS_EN-US13699515239_1920x1080.jpg) 20180625 [download 4k](https://www.bing.com/az/hprichbg/rb/MODIS_EN-US13699515239_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/MinneapolisPride_EN-US8577554439_1920x1080.jpg) 20180624 [download 4k](https://www.bing.com/az/hprichbg/rb/MinneapolisPride_EN-US8577554439_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Europa_EN-US12048620642_1920x1080.jpg) 20180623 [download 4k](https://www.bing.com/az/hprichbg/rb/Europa_EN-US12048620642_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/DogWork_EN-US10032511594_1920x1080.jpg) 20180622 [download 4k](https://www.bing.com/az/hprichbg/rb/DogWork_EN-US10032511594_UHD.jpg) |

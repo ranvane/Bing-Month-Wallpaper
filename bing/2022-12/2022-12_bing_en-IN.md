@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.NorwayNYD_EN-IN6052154590_1920x1080.jpg) 20230101 [download 4k](https://www.bing.com/th?id=OHR.NorwayNYD_EN-IN6052154590_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SydneyNYE_EN-IN5785868049_1920x1080.jpg) 20221231 [download 4k](https://www.bing.com/th?id=OHR.SydneyNYE_EN-IN5785868049_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChalkRock_EN-IN5344251855_1920x1080.jpg) 20221230 [download 4k](https://www.bing.com/th?id=OHR.ChalkRock_EN-IN5344251855_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ButterflyEffect_EN-IN8242290017_1920x1080.jpg) 20221229 [download 4k](https://www.bing.com/th?id=OHR.ButterflyEffect_EN-IN8242290017_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChiesaBianca_EN-IN7871621684_1920x1080.jpg) 20221228 [download 4k](https://www.bing.com/th?id=OHR.ChiesaBianca_EN-IN7871621684_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NagarholeNationalPark_EN-IN4004440507_1920x1080.jpg) 20221227 [download 4k](https://www.bing.com/th?id=OHR.NagarholeNationalPark_EN-IN4004440507_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BeverleyWestwood_EN-IN6607580753_1920x1080.jpg) 20221226 [download 4k](https://www.bing.com/th?id=OHR.BeverleyWestwood_EN-IN6607580753_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChristmasSouvenir_EN-IN6036619973_1920x1080.jpg) 20221225 [download 4k](https://www.bing.com/th?id=OHR.ChristmasSouvenir_EN-IN6036619973_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AmalgaTree_EN-IN0530683542_1920x1080.jpg) 20221224 [download 4k](https://www.bing.com/th?id=OHR.AmalgaTree_EN-IN0530683542_UHD.jpg) |

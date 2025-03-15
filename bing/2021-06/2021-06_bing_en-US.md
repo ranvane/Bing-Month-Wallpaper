@@ -1,7 +1,7 @@
 # Bing Wallpaper (2021-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.Manicouagan_EN-US7701393606_1920x1080.jpg) 20210630 [download 4k](https://www.bing.com/th?id=OHR.Manicouagan_EN-US7701393606_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_1920x1080.jpg) 20210629 [download 4k](https://www.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Cittadella_EN-US6067516722_1920x1080.jpg) 20210628 [download 4k](https://www.bing.com/th?id=OHR.Cittadella_EN-US6067516722_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.LCPAPride_EN-US5979726065_1920x1080.jpg) 20210627 [download 4k](https://www.bing.com/th?id=OHR.LCPAPride_EN-US5979726065_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Shilinxia_EN-US5445196689_1920x1080.jpg) 20210626 [download 4k](https://www.bing.com/th?id=OHR.Shilinxia_EN-US5445196689_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Heliodoxa_EN-US5338295561_1920x1080.jpg) 20210625 [download 4k](https://www.bing.com/th?id=OHR.Heliodoxa_EN-US5338295561_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.DenaliCaribou_EN-US5229911845_1920x1080.jpg) 20210624 [download 4k](https://www.bing.com/th?id=OHR.DenaliCaribou_EN-US5229911845_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Nichinan_EN-US5055695100_1920x1080.jpg) 20210623 [download 4k](https://www.bing.com/th?id=OHR.Nichinan_EN-US5055695100_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SouthCoast_EN-US4824290612_1920x1080.jpg) 20210622 [download 4k](https://www.bing.com/th?id=OHR.SouthCoast_EN-US4824290612_UHD.jpg) |

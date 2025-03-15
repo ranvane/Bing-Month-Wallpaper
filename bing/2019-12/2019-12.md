@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.SnowHare_ZH-CN9767012872_1920x1080.jpg) 20191231 [download 4k](https://www.bing.com/th?id=OHR.SnowHare_ZH-CN9767012872_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NYEBacknang_ZH-CN6301969939_1920x1080.jpg) 20191230 [download 4k](https://www.bing.com/th?id=OHR.NYEBacknang_ZH-CN6301969939_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SkyIslands_ZH-CN6229467399_1920x1080.jpg) 20191229 [download 4k](https://www.bing.com/th?id=OHR.SkyIslands_ZH-CN6229467399_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.RamsauHinterseeEislauf_ZH-CN9685733410_1920x1080.jpg) 20191228 [download 4k](https://www.bing.com/th?id=OHR.RamsauHinterseeEislauf_ZH-CN9685733410_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TrumpeterWinter_ZH-CN6156392179_1920x1080.jpg) 20191227 [download 4k](https://www.bing.com/th?id=OHR.TrumpeterWinter_ZH-CN6156392179_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FrozenTree_ZH-CN9591258534_1920x1080.jpg) 20191226 [download 4k](https://www.bing.com/th?id=OHR.FrozenTree_ZH-CN9591258534_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SloveniaAlps_ZH-CN6052706424_1920x1080.jpg) 20191225 [download 4k](https://www.bing.com/th?id=OHR.SloveniaAlps_ZH-CN6052706424_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WarsawXmas_ZH-CN5981724395_1920x1080.jpg) 20191224 [download 4k](https://www.bing.com/th?id=OHR.WarsawXmas_ZH-CN5981724395_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ReindeerNorway_ZH-CN5913190372_1920x1080.jpg) 20191223 [download 4k](https://www.bing.com/th?id=OHR.ReindeerNorway_ZH-CN5913190372_UHD.jpg) |

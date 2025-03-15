@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PrideMonthSF_FR-FR1847983334_1920x1080.jpg) 20240601 [download 4k](https://www.bing.com/th?id=OHR.PrideMonthSF_FR-FR1847983334_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_FR-FR1030266814_1920x1080.jpg) 20240531 [download 4k](https://www.bing.com/th?id=OHR.YorkshireDalesNP_FR-FR1030266814_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Everglades90th_FR-FR1353947188_1920x1080.jpg) 20240530 [download 4k](https://www.bing.com/th?id=OHR.Everglades90th_FR-FR1353947188_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MullOtter_FR-FR1221177605_1920x1080.jpg) 20240529 [download 4k](https://www.bing.com/th?id=OHR.MullOtter_FR-FR1221177605_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MeteoraMonastery_FR-FR1071148697_1920x1080.jpg) 20240528 [download 4k](https://www.bing.com/th?id=OHR.MeteoraMonastery_FR-FR1071148697_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Guiana_FR-FR0757423981_1920x1080.jpg) 20240527 [download 4k](https://www.bing.com/th?id=OHR.Guiana_FR-FR0757423981_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MonacoGP_FR-FR9314919538_1920x1080.jpg) 20240526 [download 4k](https://www.bing.com/th?id=OHR.MonacoGP_FR-FR9314919538_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_FR-FR8548629295_1920x1080.jpg) 20240525 [download 4k](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_FR-FR8548629295_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OrdesaNationalPark_FR-FR8382940670_1920x1080.jpg) 20240524 [download 4k](https://www.bing.com/th?id=OHR.OrdesaNationalPark_FR-FR8382940670_UHD.jpg) |

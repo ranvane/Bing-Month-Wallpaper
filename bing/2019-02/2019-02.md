@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/PhillisWheatley_ZH-CN8917971934_1920x1080.jpg) 20190228 [download 4k](https://www.bing.com/az/hprichbg/rb/PhillisWheatley_ZH-CN8917971934_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/HZMB_ZH-CN5238831909_1920x1080.jpg) 20190227 [download 4k](https://www.bing.com/az/hprichbg/rb/HZMB_ZH-CN5238831909_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/PolarBearDay_ZH-CN5185516722_1920x1080.jpg) 20190226 [download 4k](https://www.bing.com/az/hprichbg/rb/PolarBearDay_ZH-CN5185516722_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/WinterGrand_ZH-CN5111542555_1920x1080.jpg) 20190225 [download 4k](https://www.bing.com/az/hprichbg/rb/WinterGrand_ZH-CN5111542555_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/CumulusCaribbean_ZH-CN4884493707_1920x1080.jpg) 20190224 [download 4k](https://www.bing.com/az/hprichbg/rb/CumulusCaribbean_ZH-CN4884493707_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/OldTownTallinn_ZH-CN4833535739_1920x1080.jpg) 20190223 [download 4k](https://www.bing.com/az/hprichbg/rb/OldTownTallinn_ZH-CN4833535739_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/ChamonixWalkway_ZH-CN4774583061_1920x1080.jpg) 20190222 [download 4k](https://www.bing.com/az/hprichbg/rb/ChamonixWalkway_ZH-CN4774583061_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/PlatteRiver_ZH-CN4687283533_1920x1080.jpg) 20190221 [download 4k](https://www.bing.com/az/hprichbg/rb/PlatteRiver_ZH-CN4687283533_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BathBach_ZH-CN4601637280_1920x1080.jpg) 20190220 [download 4k](https://www.bing.com/az/hprichbg/rb/BathBach_ZH-CN4601637280_UHD.jpg) |

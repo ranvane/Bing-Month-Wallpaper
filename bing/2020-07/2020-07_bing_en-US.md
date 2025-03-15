@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg) 20200731 [download 4k](https://www.bing.com/th?id=OHR.TahoeBeach_EN-US6105713817_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HamerkopHunting_EN-US1438886143_1920x1080.jpg) 20200730 [download 4k](https://www.bing.com/th?id=OHR.HamerkopHunting_EN-US1438886143_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KallurLighthouse_EN-US1393818212_1920x1080.jpg) 20200729 [download 4k](https://www.bing.com/th?id=OHR.KallurLighthouse_EN-US1393818212_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HamelinPool_EN-US1343791878_1920x1080.jpg) 20200728 [download 4k](https://www.bing.com/th?id=OHR.HamelinPool_EN-US1343791878_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AerialTamul_EN-US1289516805_1920x1080.jpg) 20200727 [download 4k](https://www.bing.com/th?id=OHR.AerialTamul_EN-US1289516805_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ADA30_EN-US1238886685_1920x1080.jpg) 20200726 [download 4k](https://www.bing.com/th?id=OHR.ADA30_EN-US1238886685_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.RedSailboat_EN-US1173520356_1920x1080.jpg) 20200725 [download 4k](https://www.bing.com/th?id=OHR.RedSailboat_EN-US1173520356_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KapamaCousins_EN-US1071916004_1920x1080.jpg) 20200724 [download 4k](https://www.bing.com/th?id=OHR.KapamaCousins_EN-US1071916004_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DubrovnikDoors_EN-US2971042587_1920x1080.jpg) 20200723 [download 4k](https://www.bing.com/th?id=OHR.DubrovnikDoors_EN-US2971042587_UHD.jpg) |

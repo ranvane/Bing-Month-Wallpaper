@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/MinnewankaBoathouse_ZH-CN0548323518_1920x1080.jpg) 20190131 [download 4k](https://www.bing.com/az/hprichbg/rb/MinnewankaBoathouse_ZH-CN0548323518_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/WinterLynx_ZH-CN7158207296_1920x1080.jpg) 20190130 [download 4k](https://www.bing.com/az/hprichbg/rb/WinterLynx_ZH-CN7158207296_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/IcePalaceStPaul_ZH-CN7212304504_1920x1080.jpg) 20190129 [download 4k](https://www.bing.com/az/hprichbg/rb/IcePalaceStPaul_ZH-CN7212304504_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/UpHellyAa_ZH-CN7287698551_1920x1080.jpg) 20190128 [download 4k](https://www.bing.com/az/hprichbg/rb/UpHellyAa_ZH-CN7287698551_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/LKDobson_ZH-CN7378172752_1920x1080.jpg) 20190127 [download 4k](https://www.bing.com/az/hprichbg/rb/LKDobson_ZH-CN7378172752_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/HolocaustMemorial_ZH-CN7460471446_1920x1080.jpg) 20190126 [download 4k](https://www.bing.com/az/hprichbg/rb/HolocaustMemorial_ZH-CN7460471446_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/FortRajgad_ZH-CN7621203821_1920x1080.jpg) 20190125 [download 4k](https://www.bing.com/az/hprichbg/rb/FortRajgad_ZH-CN7621203821_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/KukeriCostume_ZH-CN7695643694_1920x1080.jpg) 20190124 [download 4k](https://www.bing.com/az/hprichbg/rb/KukeriCostume_ZH-CN7695643694_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ParkCity_ZH-CN7858135089_1920x1080.jpg) 20190123 [download 4k](https://www.bing.com/az/hprichbg/rb/ParkCity_ZH-CN7858135089_UHD.jpg) |

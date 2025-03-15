@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_1920x1080.jpg) 20241001 [download 4k](https://www.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_1920x1080.jpg) 20240930 [download 4k](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_1920x1080.jpg) 20240929 [download 4k](https://www.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_1920x1080.jpg) 20240928 [download 4k](https://www.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_1920x1080.jpg) 20240927 [download 4k](https://www.bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_1920x1080.jpg) 20240926 [download 4k](https://www.bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_1920x1080.jpg) 20240925 [download 4k](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_1920x1080.jpg) 20240924 [download 4k](https://www.bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AutumnCumbria_EN-US3797009731_1920x1080.jpg) 20240923 [download 4k](https://www.bing.com/th?id=OHR.AutumnCumbria_EN-US3797009731_UHD.jpg) |

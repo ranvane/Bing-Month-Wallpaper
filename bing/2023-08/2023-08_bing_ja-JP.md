@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.Fawn_JA-JP8985470231_1920x1080.jpg) 20230901 [download 4k](https://www.bing.com/th?id=OHR.Fawn_JA-JP8985470231_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IronwoodCactus_JA-JP8293481561_1920x1080.jpg) 20230831 [download 4k](https://www.bing.com/th?id=OHR.IronwoodCactus_JA-JP8293481561_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NingalooShark_JA-JP8020672335_1920x1080.jpg) 20230830 [download 4k](https://www.bing.com/th?id=OHR.NingalooShark_JA-JP8020672335_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MarathonMedoc_JA-JP0395843835_1920x1080.jpg) 20230829 [download 4k](https://www.bing.com/th?id=OHR.MarathonMedoc_JA-JP0395843835_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DubrovnikHarbor_JA-JP7478363701_1920x1080.jpg) 20230828 [download 4k](https://www.bing.com/th?id=OHR.DubrovnikHarbor_JA-JP7478363701_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.JejuIsland_JA-JP7046094436_1920x1080.jpg) 20230827 [download 4k](https://www.bing.com/th?id=OHR.JejuIsland_JA-JP7046094436_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Fireworks2023_JA-JP6750105945_1920x1080.jpg) 20230826 [download 4k](https://www.bing.com/th?id=OHR.Fireworks2023_JA-JP6750105945_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YellowstoneFalls_JA-JP6487978368_1920x1080.jpg) 20230825 [download 4k](https://www.bing.com/th?id=OHR.YellowstoneFalls_JA-JP6487978368_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SharkFinCove_JA-JP4634646966_1920x1080.jpg) 20230824 [download 4k](https://www.bing.com/th?id=OHR.SharkFinCove_JA-JP4634646966_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.NewDawn_FR-FR6604030929_1920x1080.jpg) 20230101 [download 4k](https://www.bing.com/th?id=OHR.NewDawn_FR-FR6604030929_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SydneyNYE_FR-FR3788226039_1920x1080.jpg) 20221231 [download 4k](https://www.bing.com/th?id=OHR.SydneyNYE_FR-FR3788226039_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChalkRock_FR-FR3539137221_1920x1080.jpg) 20221230 [download 4k](https://www.bing.com/th?id=OHR.ChalkRock_FR-FR3539137221_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ButterflyEffect_FR-FR9733301098_1920x1080.jpg) 20221229 [download 4k](https://www.bing.com/th?id=OHR.ButterflyEffect_FR-FR9733301098_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChiesaBianca_FR-FR9548113172_1920x1080.jpg) 20221228 [download 4k](https://www.bing.com/th?id=OHR.ChiesaBianca_FR-FR9548113172_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BlueLagoon_FR-FR9347048363_1920x1080.jpg) 20221227 [download 4k](https://www.bing.com/th?id=OHR.BlueLagoon_FR-FR9347048363_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BeverleyWestwood_FR-FR9155658622_1920x1080.jpg) 20221226 [download 4k](https://www.bing.com/th?id=OHR.BeverleyWestwood_FR-FR9155658622_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChristmasSouvenir_FR-FR8978266919_1920x1080.jpg) 20221225 [download 4k](https://www.bing.com/th?id=OHR.ChristmasSouvenir_FR-FR8978266919_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AmalgaTree_FR-FR8807865831_1920x1080.jpg) 20221224 [download 4k](https://www.bing.com/th?id=OHR.AmalgaTree_FR-FR8807865831_UHD.jpg) |

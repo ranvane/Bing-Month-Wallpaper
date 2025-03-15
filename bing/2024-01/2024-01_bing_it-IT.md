@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HalbinselJasmund_IT-IT4499863722_1920x1080.jpg) 20240201 [download 4k](https://www.bing.com/th?id=OHR.HalbinselJasmund_IT-IT4499863722_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ZebraMother_IT-IT4043343068_1920x1080.jpg) 20240131 [download 4k](https://www.bing.com/th?id=OHR.ZebraMother_IT-IT4043343068_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AlbaceteSpain_IT-IT3657513736_1920x1080.jpg) 20240130 [download 4k](https://www.bing.com/th?id=OHR.AlbaceteSpain_IT-IT3657513736_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GollingerFalls_IT-IT3317217540_1920x1080.jpg) 20240129 [download 4k](https://www.bing.com/th?id=OHR.GollingerFalls_IT-IT3317217540_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChannelOutback_IT-IT0059174441_1920x1080.jpg) 20240128 [download 4k](https://www.bing.com/th?id=OHR.ChannelOutback_IT-IT0059174441_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.VeniceMask_IT-IT8837676102_1920x1080.jpg) 20240127 [download 4k](https://www.bing.com/th?id=OHR.VeniceMask_IT-IT8837676102_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HawkOwl_IT-IT8168664237_1920x1080.jpg) 20240126 [download 4k](https://www.bing.com/th?id=OHR.HawkOwl_IT-IT8168664237_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DwynwensDay_IT-IT3386589226_1920x1080.jpg) 20240125 [download 4k](https://www.bing.com/th?id=OHR.DwynwensDay_IT-IT3386589226_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AbruzzoGranSasso_IT-IT5897224471_1920x1080.jpg) 20240124 [download 4k](https://www.bing.com/th?id=OHR.AbruzzoGranSasso_IT-IT5897224471_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/RedFlag_ZH-CN7582013591_1920x1080.jpg) 20170930 [download 4k](https://www.bing.com/az/hprichbg/rb/RedFlag_ZH-CN7582013591_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SitanaPonticeriana_ZH-CN9845735476_1920x1080.jpg) 20170929 [download 4k](https://www.bing.com/az/hprichbg/rb/SitanaPonticeriana_ZH-CN9845735476_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MtIbukiyama_ZH-CN6882861958_1920x1080.jpg) 20170928 [download 4k](https://www.bing.com/az/hprichbg/rb/MtIbukiyama_ZH-CN6882861958_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/KonikHorses_ZH-CN11260575341_1920x1080.jpg) 20170927 [download 4k](https://www.bing.com/az/hprichbg/rb/KonikHorses_ZH-CN11260575341_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/LakePukaki_ZH-CN9412206565_1920x1080.jpg) 20170926 [download 4k](https://www.bing.com/az/hprichbg/rb/LakePukaki_ZH-CN9412206565_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TurpanDepression_ZH-CN12295576336_1920x1080.jpg) 20170925 [download 4k](https://www.bing.com/az/hprichbg/rb/TurpanDepression_ZH-CN12295576336_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/PrecipiceLake_ZH-CN10138285567_1920x1080.jpg) 20170924 [download 4k](https://www.bing.com/az/hprichbg/rb/PrecipiceLake_ZH-CN10138285567_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ErfurtOktoberfest_ZH-CN11152792740_1920x1080.jpg) 20170923 [download 4k](https://www.bing.com/az/hprichbg/rb/ErfurtOktoberfest_ZH-CN11152792740_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Shanghai_ZH-CN10665657954_1920x1080.jpg) 20170922 [download 4k](https://www.bing.com/az/hprichbg/rb/Shanghai_ZH-CN10665657954_UHD.jpg) |

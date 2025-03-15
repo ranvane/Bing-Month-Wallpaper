@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.StorrRocks_EN-GB3689850780_1920x1080.jpg) 20221201 [download 4k](https://www.bing.com/th?id=OHR.StorrRocks_EN-GB3689850780_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HeronGiving_EN-GB3624332195_1920x1080.jpg) 20221130 [download 4k](https://www.bing.com/th?id=OHR.HeronGiving_EN-GB3624332195_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SkeltonTower_EN-GB3304434806_1920x1080.jpg) 20221129 [download 4k](https://www.bing.com/th?id=OHR.SkeltonTower_EN-GB3304434806_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Cecropia_EN-GB3173718210_1920x1080.jpg) 20221128 [download 4k](https://www.bing.com/th?id=OHR.Cecropia_EN-GB3173718210_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OliveTreeDay_EN-GB2958109207_1920x1080.jpg) 20221127 [download 4k](https://www.bing.com/th?id=OHR.OliveTreeDay_EN-GB2958109207_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RovinjCroatia_EN-GB2728275584_1920x1080.jpg) 20221126 [download 4k](https://www.bing.com/th?id=OHR.RovinjCroatia_EN-GB2728275584_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AschauChiemgau_EN-GB2159713937_1920x1080.jpg) 20221125 [download 4k](https://www.bing.com/th?id=OHR.AschauChiemgau_EN-GB2159713937_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HelianthusAnnuus_EN-GB1803101223_1920x1080.jpg) 20221124 [download 4k](https://www.bing.com/th?id=OHR.HelianthusAnnuus_EN-GB1803101223_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Waterleidingduinen_EN-GB1521299748_1920x1080.jpg) 20221123 [download 4k](https://www.bing.com/th?id=OHR.Waterleidingduinen_EN-GB1521299748_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.MarovoLagoon_FR-FR0815135447_1920x1080.jpg) 20220601 [download 4k](https://www.bing.com/th?id=OHR.MarovoLagoon_FR-FR0815135447_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ParrotDay_FR-FR0616853074_1920x1080.jpg) 20220531 [download 4k](https://www.bing.com/th?id=OHR.ParrotDay_FR-FR0616853074_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SunsetVillage_FR-FR6099215834_1920x1080.jpg) 20220530 [download 4k](https://www.bing.com/th?id=OHR.SunsetVillage_FR-FR6099215834_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MomJoey_FR-FR0275359119_1920x1080.jpg) 20220529 [download 4k](https://www.bing.com/th?id=OHR.MomJoey_FR-FR0275359119_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PurnululuNP_FR-FR0119227825_1920x1080.jpg) 20220528 [download 4k](https://www.bing.com/th?id=OHR.PurnululuNP_FR-FR0119227825_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MarinHeadlands_FR-FR9919380737_1920x1080.jpg) 20220527 [download 4k](https://www.bing.com/th?id=OHR.MarinHeadlands_FR-FR9919380737_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Monteverde_FR-FR8373694674_1920x1080.jpg) 20220526 [download 4k](https://www.bing.com/th?id=OHR.Monteverde_FR-FR8373694674_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Alhambra_FR-FR8198055415_1920x1080.jpg) 20220525 [download 4k](https://www.bing.com/th?id=OHR.Alhambra_FR-FR8198055415_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KornatiNP_FR-FR8021859367_1920x1080.jpg) 20220524 [download 4k](https://www.bing.com/th?id=OHR.KornatiNP_FR-FR8021859367_UHD.jpg) |

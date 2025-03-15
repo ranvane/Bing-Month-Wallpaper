@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.RovinjCroatia_EN-US9834093615_1920x1080.jpg) 20221201 [download 4k](https://www.bing.com/th?id=OHR.RovinjCroatia_EN-US9834093615_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HeronGiving_EN-US9774285216_1920x1080.jpg) 20221130 [download 4k](https://www.bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RedPlanetDay_EN-US9693219784_1920x1080.jpg) 20221129 [download 4k](https://www.bing.com/th?id=OHR.RedPlanetDay_EN-US9693219784_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Cecropia_EN-US9602789937_1920x1080.jpg) 20221128 [download 4k](https://www.bing.com/th?id=OHR.Cecropia_EN-US9602789937_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OliveTreeDay_EN-US9460125670_1920x1080.jpg) 20221127 [download 4k](https://www.bing.com/th?id=OHR.OliveTreeDay_EN-US9460125670_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MonksMound_EN-US9323884241_1920x1080.jpg) 20221126 [download 4k](https://www.bing.com/th?id=OHR.MonksMound_EN-US9323884241_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CranberryBog_EN-US4145520322_1920x1080.jpg) 20221125 [download 4k](https://www.bing.com/th?id=OHR.CranberryBog_EN-US4145520322_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HelianthusAnnuus_EN-US9168789034_1920x1080.jpg) 20221124 [download 4k](https://www.bing.com/th?id=OHR.HelianthusAnnuus_EN-US9168789034_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_1920x1080.jpg) 20221123 [download 4k](https://www.bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LencoisMaranhao_EN-IN6380365409_1920x1080.jpg) 20241101 [download 4k](https://www.bing.com/th?id=OHR.LencoisMaranhao_EN-IN6380365409_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FireworksDiwali_EN-IN6255593826_1920x1080.jpg) 20241031 [download 4k](https://www.bing.com/th?id=OHR.FireworksDiwali_EN-IN6255593826_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-IN2114348431_1920x1080.jpg) 20241030 [download 4k](https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-IN2114348431_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GreatOwl_EN-IN1904350496_1920x1080.jpg) 20241029 [download 4k](https://www.bing.com/th?id=OHR.GreatOwl_EN-IN1904350496_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PumpkinMist_EN-IN1738754206_1920x1080.jpg) 20241028 [download 4k](https://www.bing.com/th?id=OHR.PumpkinMist_EN-IN1738754206_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarBearHug_EN-IN1521700160_1920x1080.jpg) 20241027 [download 4k](https://www.bing.com/th?id=OHR.PolarBearHug_EN-IN1521700160_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GhostForest_EN-IN3485758200_1920x1080.jpg) 20241026 [download 4k](https://www.bing.com/th?id=OHR.GhostForest_EN-IN3485758200_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GoldenTempleIN_EN-IN0200918572_1920x1080.jpg) 20241025 [download 4k](https://www.bing.com/th?id=OHR.GoldenTempleIN_EN-IN0200918572_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BodieCalifornia_EN-IN0325721047_1920x1080.jpg) 20241024 [download 4k](https://www.bing.com/th?id=OHR.BodieCalifornia_EN-IN0325721047_UHD.jpg) |

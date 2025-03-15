@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.TowerBridge_EN-GB5189458174_1920x1080.jpg) 20230401 [download 4k](https://www.bing.com/th?id=OHR.TowerBridge_EN-GB5189458174_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SteyrRiver_EN-GB6776891369_1920x1080.jpg) 20230331 [download 4k](https://www.bing.com/th?id=OHR.SteyrRiver_EN-GB6776891369_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PeacockFeathers_EN-GB6671969010_1920x1080.jpg) 20230330 [download 4k](https://www.bing.com/th?id=OHR.PeacockFeathers_EN-GB6671969010_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.NuzzleManatee_EN-GB5538875344_1920x1080.jpg) 20230329 [download 4k](https://www.bing.com/th?id=OHR.NuzzleManatee_EN-GB5538875344_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MWDolomites_EN-GB6455895512_1920x1080.jpg) 20230328 [download 4k](https://www.bing.com/th?id=OHR.MWDolomites_EN-GB6455895512_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WildAnza_EN-GB6484773362_1920x1080.jpg) 20230326 [download 4k](https://www.bing.com/th?id=OHR.WildAnza_EN-GB6484773362_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CecilBrewerStaircase_EN-GB6123513321_1920x1080.jpg) 20230326 [download 4k](https://www.bing.com/th?id=OHR.CecilBrewerStaircase_EN-GB6123513321_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WildGarlic_EN-GB8039399576_1920x1080.jpg) 20230325 [download 4k](https://www.bing.com/th?id=OHR.WildGarlic_EN-GB8039399576_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CloudsPatagonia_EN-GB0640976681_1920x1080.jpg) 20230324 [download 4k](https://www.bing.com/th?id=OHR.CloudsPatagonia_EN-GB0640976681_UHD.jpg) |

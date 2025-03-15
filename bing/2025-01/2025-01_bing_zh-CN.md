@@ -1,7 +1,7 @@
 # Bing Wallpaper (2025-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_1920x1080.jpg) 20250201 [download 4k](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PlainsZebra_ZH-CN1989542307_1920x1080.jpg) 20250131 [download 4k](https://www.bing.com/th?id=OHR.PlainsZebra_ZH-CN1989542307_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OrdesaSpain_ZH-CN1445868068_1920x1080.jpg) 20250130 [download 4k](https://www.bing.com/th?id=OHR.OrdesaSpain_ZH-CN1445868068_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_1920x1080.jpg) 20250129 [download 4k](https://www.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_1920x1080.jpg) 20250128 [download 4k](https://www.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CanyonSnow_ZH-CN3910130781_1920x1080.jpg) 20250127 [download 4k](https://www.bing.com/th?id=OHR.CanyonSnow_ZH-CN3910130781_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_1920x1080.jpg) 20250126 [download 4k](https://www.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_1920x1080.jpg) 20250125 [download 4k](https://www.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_1920x1080.jpg) 20250124 [download 4k](https://www.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_UHD.jpg) |

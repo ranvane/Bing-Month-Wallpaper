@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.RovinjCroatia_EN-CA3151237604_1920x1080.jpg) 20221201 [download 4k](https://www.bing.com/th?id=OHR.RovinjCroatia_EN-CA3151237604_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HeronGiving_EN-CA0899005896_1920x1080.jpg) 20221130 [download 4k](https://www.bing.com/th?id=OHR.HeronGiving_EN-CA0899005896_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RedPlanetDay_EN-CA6802228398_1920x1080.jpg) 20221129 [download 4k](https://www.bing.com/th?id=OHR.RedPlanetDay_EN-CA6802228398_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Cecropia_EN-CA6474805804_1920x1080.jpg) 20221128 [download 4k](https://www.bing.com/th?id=OHR.Cecropia_EN-CA6474805804_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CavalcadeNathans_EN-CA7552104655_1920x1080.jpg) 20221127 [download 4k](https://www.bing.com/th?id=OHR.CavalcadeNathans_EN-CA7552104655_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OcalaNF_EN-CA3353114094_1920x1080.jpg) 20221126 [download 4k](https://www.bing.com/th?id=OHR.OcalaNF_EN-CA3353114094_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PreveliGorge_EN-CA2580883474_1920x1080.jpg) 20221125 [download 4k](https://www.bing.com/th?id=OHR.PreveliGorge_EN-CA2580883474_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HelianthusAnnuus_EN-CA2967094073_1920x1080.jpg) 20221124 [download 4k](https://www.bing.com/th?id=OHR.HelianthusAnnuus_EN-CA2967094073_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Waterleidingduinen_EN-CA5766790795_1920x1080.jpg) 20221123 [download 4k](https://www.bing.com/th?id=OHR.Waterleidingduinen_EN-CA5766790795_UHD.jpg) |

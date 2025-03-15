@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PelotonPont_JA-JP8854375139_1920x1080.jpg) 20230701 [download 4k](https://www.bing.com/th?id=OHR.PelotonPont_JA-JP8854375139_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ClamBears_JA-JP8912125986_1920x1080.jpg) 20230630 [download 4k](https://www.bing.com/th?id=OHR.ClamBears_JA-JP8912125986_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BanyakIslands_JA-JP5494773758_1920x1080.jpg) 20230629 [download 4k](https://www.bing.com/th?id=OHR.BanyakIslands_JA-JP5494773758_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PrideIceland_JA-JP5294310322_1920x1080.jpg) 20230628 [download 4k](https://www.bing.com/th?id=OHR.PrideIceland_JA-JP5294310322_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SedonaSunset_JA-JP5059075419_1920x1080.jpg) 20230627 [download 4k](https://www.bing.com/th?id=OHR.SedonaSunset_JA-JP5059075419_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.VillandryGarden_JA-JP4858825894_1920x1080.jpg) 20230626 [download 4k](https://www.bing.com/th?id=OHR.VillandryGarden_JA-JP4858825894_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PetraTreasury_JA-JP4638552113_1920x1080.jpg) 20230625 [download 4k](https://www.bing.com/th?id=OHR.PetraTreasury_JA-JP4638552113_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NhaTrang_JA-JP4366541911_1920x1080.jpg) 20230624 [download 4k](https://www.bing.com/th?id=OHR.NhaTrang_JA-JP4366541911_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PollinatorMonarch_JA-JP4171117800_1920x1080.jpg) 20230623 [download 4k](https://www.bing.com/th?id=OHR.PollinatorMonarch_JA-JP4171117800_UHD.jpg) |

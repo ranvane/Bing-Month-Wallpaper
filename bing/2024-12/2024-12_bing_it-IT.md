@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PolarBearSwim_IT-IT8600941728_1920x1080.jpg) 20250101 [download 4k](https://www.bing.com/th?id=OHR.PolarBearSwim_IT-IT8600941728_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CapodannoFirenze_IT-IT8277886621_1920x1080.jpg) 20241231 [download 4k](https://www.bing.com/th?id=OHR.CapodannoFirenze_IT-IT8277886621_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MountFieldNP_IT-IT7967272422_1920x1080.jpg) 20241230 [download 4k](https://www.bing.com/th?id=OHR.MountFieldNP_IT-IT7967272422_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BorobudurBells_IT-IT2966743478_1920x1080.jpg) 20241229 [download 4k](https://www.bing.com/th?id=OHR.BorobudurBells_IT-IT2966743478_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CoralTurtle_IT-IT2494528336_1920x1080.jpg) 20241228 [download 4k](https://www.bing.com/th?id=OHR.CoralTurtle_IT-IT2494528336_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LakeBledSnow_IT-IT5595802346_1920x1080.jpg) 20241227 [download 4k](https://www.bing.com/th?id=OHR.LakeBledSnow_IT-IT5595802346_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ChristmasSeason_IT-IT9715464696_1920x1080.jpg) 20241226 [download 4k](https://www.bing.com/th?id=OHR.ChristmasSeason_IT-IT9715464696_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ReindeerTrio_IT-IT1609765217_1920x1080.jpg) 20241225 [download 4k](https://www.bing.com/th?id=OHR.ReindeerTrio_IT-IT1609765217_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GalleriaVittiorioEmanuele_IT-IT9220244159_1920x1080.jpg) 20241224 [download 4k](https://www.bing.com/th?id=OHR.GalleriaVittiorioEmanuele_IT-IT9220244159_UHD.jpg) |

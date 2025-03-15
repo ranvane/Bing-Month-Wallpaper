@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HalfDomeYosemite_JA-JP3299475040_1920x1080.jpg) 20241001 [download 4k](https://www.bing.com/th?id=OHR.HalfDomeYosemite_JA-JP3299475040_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WalrusNorway_JA-JP3040663299_1920x1080.jpg) 20240930 [download 4k](https://www.bing.com/th?id=OHR.WalrusNorway_JA-JP3040663299_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ConnecticutBridge_JA-JP2803321025_1920x1080.jpg) 20240929 [download 4k](https://www.bing.com/th?id=OHR.ConnecticutBridge_JA-JP2803321025_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.VeniceAerial_JA-JP2627608079_1920x1080.jpg) 20240928 [download 4k](https://www.bing.com/th?id=OHR.VeniceAerial_JA-JP2627608079_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YokohamaBridge2024_JA-JP2381649830_1920x1080.jpg) 20240927 [download 4k](https://www.bing.com/th?id=OHR.YokohamaBridge2024_JA-JP2381649830_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LittleToucanet_JA-JP2193126707_1920x1080.jpg) 20240926 [download 4k](https://www.bing.com/th?id=OHR.LittleToucanet_JA-JP2193126707_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GiantSequoias_JA-JP1712203970_1920x1080.jpg) 20240925 [download 4k](https://www.bing.com/th?id=OHR.GiantSequoias_JA-JP1712203970_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_JA-JP1502759780_1920x1080.jpg) 20240924 [download 4k](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_JA-JP1502759780_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IcebergOtter_JA-JP1353399604_1920x1080.jpg) 20240923 [download 4k](https://www.bing.com/th?id=OHR.IcebergOtter_JA-JP1353399604_UHD.jpg) |

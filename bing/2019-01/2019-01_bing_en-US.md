@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/WinterLynx_EN-US4573026886_1920x1080.jpg) 20190131 [download 4k](https://www.bing.com/az/hprichbg/rb/WinterLynx_EN-US4573026886_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/IcePalaceStPaul_EN-US4513563308_1920x1080.jpg) 20190130 [download 4k](https://www.bing.com/az/hprichbg/rb/IcePalaceStPaul_EN-US4513563308_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/UpHellyAa_EN-US4436392503_1920x1080.jpg) 20190129 [download 4k](https://www.bing.com/az/hprichbg/rb/UpHellyAa_EN-US4436392503_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/LKDobson_EN-US3997662384_1920x1080.jpg) 20190128 [download 4k](https://www.bing.com/az/hprichbg/rb/LKDobson_EN-US3997662384_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/HolocaustMemorial_EN-US4388115844_1920x1080.jpg) 20190127 [download 4k](https://www.bing.com/az/hprichbg/rb/HolocaustMemorial_EN-US4388115844_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/FortRajgad_EN-US4329326138_1920x1080.jpg) 20190126 [download 4k](https://www.bing.com/az/hprichbg/rb/FortRajgad_EN-US4329326138_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/KukeriCostume_EN-US4263380296_1920x1080.jpg) 20190125 [download 4k](https://www.bing.com/az/hprichbg/rb/KukeriCostume_EN-US4263380296_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ParkCity_EN-US4153213108_1920x1080.jpg) 20190124 [download 4k](https://www.bing.com/az/hprichbg/rb/ParkCity_EN-US4153213108_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ApfelTag_EN-US4068796758_1920x1080.jpg) 20190123 [download 4k](https://www.bing.com/az/hprichbg/rb/ApfelTag_EN-US4068796758_UHD.jpg) |

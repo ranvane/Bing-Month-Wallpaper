@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/HONKONG_ZH-CN11971924406_1920x1080.jpg) 20180630 [download 4k](https://www.bing.com/az/hprichbg/rb/HONKONG_ZH-CN11971924406_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MeteorCrater_ZH-CN10237243221_1920x1080.jpg) 20180629 [download 4k](https://www.bing.com/az/hprichbg/rb/MeteorCrater_ZH-CN10237243221_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/AuroraPhotographer_ZH-CN11480495787_1920x1080.jpg) 20180628 [download 4k](https://www.bing.com/az/hprichbg/rb/AuroraPhotographer_ZH-CN11480495787_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/CompositeBeach_ZH-CN9646269492_1920x1080.jpg) 20180627 [download 4k](https://www.bing.com/az/hprichbg/rb/CompositeBeach_ZH-CN9646269492_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ConcreteDinosaurs_ZH-CN9038296644_1920x1080.jpg) 20180626 [download 4k](https://www.bing.com/az/hprichbg/rb/ConcreteDinosaurs_ZH-CN9038296644_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MorondavaBaobab_ZH-CN11131924506_1920x1080.jpg) 20180625 [download 4k](https://www.bing.com/az/hprichbg/rb/MorondavaBaobab_ZH-CN11131924506_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/MODIS_ZH-CN14242381223_1920x1080.jpg) 20180624 [download 4k](https://www.bing.com/az/hprichbg/rb/MODIS_ZH-CN14242381223_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ReichenauSommer_ZH-CN10985992170_1920x1080.jpg) 20180623 [download 4k](https://www.bing.com/az/hprichbg/rb/ReichenauSommer_ZH-CN10985992170_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Europa_ZH-CN11806353149_1920x1080.jpg) 20180622 [download 4k](https://www.bing.com/az/hprichbg/rb/Europa_ZH-CN11806353149_UHD.jpg) |

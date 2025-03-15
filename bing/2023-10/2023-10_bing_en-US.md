@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_1920x1080.jpg) 20231101 [download 4k](https://www.bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_1920x1080.jpg) 20231031 [download 4k](https://www.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_1920x1080.jpg) 20231030 [download 4k](https://www.bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FiveWinds_EN-US0292788215_1920x1080.jpg) 20231029 [download 4k](https://www.bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_1920x1080.jpg) 20231028 [download 4k](https://www.bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_1920x1080.jpg) 20231027 [download 4k](https://www.bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_1920x1080.jpg) 20231026 [download 4k](https://www.bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_1920x1080.jpg) 20231025 [download 4k](https://www.bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_1920x1080.jpg) 20231024 [download 4k](https://www.bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg) |

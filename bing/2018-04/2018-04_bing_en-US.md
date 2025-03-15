@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-04)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/MaryLouWilliams_EN-US11937645356_1920x1080.jpg) 20180430 [download 4k](https://www.bing.com/az/hprichbg/rb/MaryLouWilliams_EN-US11937645356_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/RubyBeach_EN-US10077444396_1920x1080.jpg) 20180429 [download 4k](https://www.bing.com/az/hprichbg/rb/RubyBeach_EN-US10077444396_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/GreatGhost_EN-US8900139658_1920x1080.jpg) 20180428 [download 4k](https://www.bing.com/az/hprichbg/rb/GreatGhost_EN-US8900139658_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/YosemiteFog_EN-US8423699903_1920x1080.jpg) 20180427 [download 4k](https://www.bing.com/az/hprichbg/rb/YosemiteFog_EN-US8423699903_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ClaretCup_EN-US11621919077_1920x1080.jpg) 20180426 [download 4k](https://www.bing.com/az/hprichbg/rb/ClaretCup_EN-US11621919077_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/WindCaveBison_EN-US7790107398_1920x1080.jpg) 20180425 [download 4k](https://www.bing.com/az/hprichbg/rb/WindCaveBison_EN-US7790107398_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/SatelliteGlades_EN-US10009546266_1920x1080.jpg) 20180424 [download 4k](https://www.bing.com/az/hprichbg/rb/SatelliteGlades_EN-US10009546266_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/HNPVisitors_EN-US11559392254_1920x1080.jpg) 20180423 [download 4k](https://www.bing.com/az/hprichbg/rb/HNPVisitors_EN-US11559392254_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TreeHugger_EN-US10029857809_1920x1080.jpg) 20180422 [download 4k](https://www.bing.com/az/hprichbg/rb/TreeHugger_EN-US10029857809_UHD.jpg) |

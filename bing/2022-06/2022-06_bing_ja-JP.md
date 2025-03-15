@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.WeatherGirls_JA-JP8965707345_1920x1080.jpg) 20220701 [download 4k](https://www.bing.com/th?id=OHR.WeatherGirls_JA-JP8965707345_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AcramanCrater_JA-JP8946948216_1920x1080.jpg) 20220630 [download 4k](https://www.bing.com/th?id=OHR.AcramanCrater_JA-JP8946948216_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PhangNgaBay_JA-JP8895232553_1920x1080.jpg) 20220629 [download 4k](https://www.bing.com/th?id=OHR.PhangNgaBay_JA-JP8895232553_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Pride2022_JA-JP9443071616_1920x1080.jpg) 20220628 [download 4k](https://www.bing.com/th?id=OHR.Pride2022_JA-JP9443071616_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TafilaletOasis_JA-JP8768800369_1920x1080.jpg) 20220627 [download 4k](https://www.bing.com/th?id=OHR.TafilaletOasis_JA-JP8768800369_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ValensoleLavender_JA-JP9297827005_1920x1080.jpg) 20220626 [download 4k](https://www.bing.com/th?id=OHR.ValensoleLavender_JA-JP9297827005_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BBMomCub_JA-JP7954363622_1920x1080.jpg) 20220625 [download 4k](https://www.bing.com/th?id=OHR.BBMomCub_JA-JP7954363622_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CenoteDiver_JA-JP9218005435_1920x1080.jpg) 20220624 [download 4k](https://www.bing.com/th?id=OHR.CenoteDiver_JA-JP9218005435_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MostarBridge_JA-JP7587669140_1920x1080.jpg) 20220623 [download 4k](https://www.bing.com/th?id=OHR.MostarBridge_JA-JP7587669140_UHD.jpg) |

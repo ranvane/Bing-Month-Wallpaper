@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_1920x1080.jpg) 20230101 [download 4k](https://www.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_1920x1080.jpg) 20221231 [download 4k](https://www.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_1920x1080.jpg) 20221230 [download 4k](https://www.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_1920x1080.jpg) 20221229 [download 4k](https://www.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_1920x1080.jpg) 20221228 [download 4k](https://www.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BlueLagoon_ZH-CN3874240119_1920x1080.jpg) 20221227 [download 4k](https://www.bing.com/th?id=OHR.BlueLagoon_ZH-CN3874240119_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BeverleyWestwood_ZH-CN3729041588_1920x1080.jpg) 20221226 [download 4k](https://www.bing.com/th?id=OHR.BeverleyWestwood_ZH-CN3729041588_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_1920x1080.jpg) 20221225 [download 4k](https://www.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_1920x1080.jpg) 20221224 [download 4k](https://www.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_UHD.jpg) |

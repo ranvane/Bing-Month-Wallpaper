@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ZumwaltPrairie_EN-US4220977516_1920x1080.jpg) 20190531 [download 4k](https://www.bing.com/th?id=OHR.ZumwaltPrairie_EN-US4220977516_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Manhattanhenge_EN-US4126401007_1920x1080.jpg) 20190530 [download 4k](https://www.bing.com/th?id=OHR.Manhattanhenge_EN-US4126401007_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.StravinskyFountain_EN-US4016192027_1920x1080.jpg) 20190529 [download 4k](https://www.bing.com/th?id=OHR.StravinskyFountain_EN-US4016192027_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BeeWeek_EN-US3869000893_1920x1080.jpg) 20190528 [download 4k](https://www.bing.com/th?id=OHR.BeeWeek_EN-US3869000893_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.VVMWDC_EN-US3757796732_1920x1080.jpg) 20190527 [download 4k](https://www.bing.com/th?id=OHR.VVMWDC_EN-US3757796732_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MarathonduMont_EN-US3655902624_1920x1080.jpg) 20190526 [download 4k](https://www.bing.com/th?id=OHR.MarathonduMont_EN-US3655902624_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CapeMayWarbler_EN-US3460417256_1920x1080.jpg) 20190525 [download 4k](https://www.bing.com/th?id=OHR.CapeMayWarbler_EN-US3460417256_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MalvarrosaSandSculpture_EN-US3310429769_1920x1080.jpg) 20190524 [download 4k](https://www.bing.com/th?id=OHR.MalvarrosaSandSculpture_EN-US3310429769_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CuracaoTurtle_EN-US8979541301_1920x1080.jpg) 20190523 [download 4k](https://www.bing.com/th?id=OHR.CuracaoTurtle_EN-US8979541301_UHD.jpg) |

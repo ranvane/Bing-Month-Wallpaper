@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.NorwayNYD_DE-DE5087400553_1920x1080.jpg) 20230101 [download 4k](https://www.bing.com/th?id=OHR.NorwayNYD_DE-DE5087400553_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SydneyNYE_DE-DE4928573925_1920x1080.jpg) 20221231 [download 4k](https://www.bing.com/th?id=OHR.SydneyNYE_DE-DE4928573925_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChalkRock_DE-DE4812578556_1920x1080.jpg) 20221230 [download 4k](https://www.bing.com/th?id=OHR.ChalkRock_DE-DE4812578556_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ButterflyEffect_DE-DE7912062583_1920x1080.jpg) 20221229 [download 4k](https://www.bing.com/th?id=OHR.ButterflyEffect_DE-DE7912062583_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OberstdorfSkispringen_DE-DE7762481456_1920x1080.jpg) 20221228 [download 4k](https://www.bing.com/th?id=OHR.OberstdorfSkispringen_DE-DE7762481456_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChiesaBianca_DE-DE7464793229_1920x1080.jpg) 20221227 [download 4k](https://www.bing.com/th?id=OHR.ChiesaBianca_DE-DE7464793229_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BeverleyWestwood_DE-DE6933411273_1920x1080.jpg) 20221226 [download 4k](https://www.bing.com/th?id=OHR.BeverleyWestwood_DE-DE6933411273_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChristmasSouvenir_DE-DE6720752177_1920x1080.jpg) 20221225 [download 4k](https://www.bing.com/th?id=OHR.ChristmasSouvenir_DE-DE6720752177_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WeihnachtenWatzmann_DE-DE6323542164_1920x1080.jpg) 20221224 [download 4k](https://www.bing.com/th?id=OHR.WeihnachtenWatzmann_DE-DE6323542164_UHD.jpg) |

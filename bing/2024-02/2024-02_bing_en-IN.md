@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HolyVaranasi_EN-IN2569299872_1920x1080.jpg) 20240301 [download 4k](https://www.bing.com/th?id=OHR.HolyVaranasi_EN-IN2569299872_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-IN2638979538_1920x1080.jpg) 20240229 [download 4k](https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-IN2638979538_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-IN2760491461_1920x1080.jpg) 20240228 [download 4k](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-IN2760491461_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-IN7268694911_1920x1080.jpg) 20240227 [download 4k](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-IN7268694911_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TigerMom_EN-IN2824299934_1920x1080.jpg) 20240226 [download 4k](https://www.bing.com/th?id=OHR.TigerMom_EN-IN2824299934_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtPrevostDuncan_EN-IN1992031596_1920x1080.jpg) 20240225 [download 4k](https://www.bing.com/th?id=OHR.MtPrevostDuncan_EN-IN1992031596_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AlmondBloom_EN-IN2943431834_1920x1080.jpg) 20240224 [download 4k](https://www.bing.com/th?id=OHR.AlmondBloom_EN-IN2943431834_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-IN0847461521_1920x1080.jpg) 20240223 [download 4k](https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-IN0847461521_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BrightonBoxes_EN-IN0857435294_1920x1080.jpg) 20240222 [download 4k](https://www.bing.com/th?id=OHR.BrightonBoxes_EN-IN0857435294_UHD.jpg) |

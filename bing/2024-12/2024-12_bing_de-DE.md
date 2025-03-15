@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PolarBearSwim_DE-DE5203449776_1920x1080.jpg) 20250101 [download 4k](https://www.bing.com/th?id=OHR.PolarBearSwim_DE-DE5203449776_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BavariaNewYearsEveFireworks_DE-DE4504129944_1920x1080.jpg) 20241231 [download 4k](https://www.bing.com/th?id=OHR.BavariaNewYearsEveFireworks_DE-DE4504129944_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MountFieldNP_DE-DE4643713603_1920x1080.jpg) 20241230 [download 4k](https://www.bing.com/th?id=OHR.MountFieldNP_DE-DE4643713603_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BorobudurBells_DE-DE1793437311_1920x1080.jpg) 20241229 [download 4k](https://www.bing.com/th?id=OHR.BorobudurBells_DE-DE1793437311_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CoralTurtle_DE-DE1141048085_1920x1080.jpg) 20241228 [download 4k](https://www.bing.com/th?id=OHR.CoralTurtle_DE-DE1141048085_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LakeBledSnow_DE-DE0780577347_1920x1080.jpg) 20241227 [download 4k](https://www.bing.com/th?id=OHR.LakeBledSnow_DE-DE0780577347_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MouseholeXmas_DE-DE8175245850_1920x1080.jpg) 20241226 [download 4k](https://www.bing.com/th?id=OHR.MouseholeXmas_DE-DE8175245850_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ReindeerTrio_DE-DE1704555391_1920x1080.jpg) 20241225 [download 4k](https://www.bing.com/th?id=OHR.ReindeerTrio_DE-DE1704555391_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SantaSnowglobe_DE-DE7632109173_1920x1080.jpg) 20241224 [download 4k](https://www.bing.com/th?id=OHR.SantaSnowglobe_DE-DE7632109173_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_1920x1080.jpg) 20250101 [download 4k](https://www.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_1920x1080.jpg) 20241231 [download 4k](https://www.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MountFieldNP_ZH-CN6004420782_1920x1080.jpg) 20241230 [download 4k](https://www.bing.com/th?id=OHR.MountFieldNP_ZH-CN6004420782_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BorobudurBells_ZH-CN5291511365_1920x1080.jpg) 20241229 [download 4k](https://www.bing.com/th?id=OHR.BorobudurBells_ZH-CN5291511365_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CoralTurtle_ZH-CN4771437860_1920x1080.jpg) 20241228 [download 4k](https://www.bing.com/th?id=OHR.CoralTurtle_ZH-CN4771437860_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_1920x1080.jpg) 20241227 [download 4k](https://www.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_1920x1080.jpg) 20241226 [download 4k](https://www.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CovadongaWinter_ZH-CN2873340163_1920x1080.jpg) 20241225 [download 4k](https://www.bing.com/th?id=OHR.CovadongaWinter_ZH-CN2873340163_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SantaSnowglobe_ZH-CN2671421527_1920x1080.jpg) 20241224 [download 4k](https://www.bing.com/th?id=OHR.SantaSnowglobe_ZH-CN2671421527_UHD.jpg) |

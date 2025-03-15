@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/Piraputanga_EN-US15054048303_1920x1080.jpg) 20171130 [download 4k](https://www.bing.com/az/hprichbg/rb/Piraputanga_EN-US15054048303_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/LAUnionStation_EN-US9199909903_1920x1080.jpg) 20171129 [download 4k](https://www.bing.com/az/hprichbg/rb/LAUnionStation_EN-US9199909903_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/RiceLights_EN-US9205510065_1920x1080.jpg) 20171128 [download 4k](https://www.bing.com/az/hprichbg/rb/RiceLights_EN-US9205510065_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/BFBadger_EN-US10164748033_1920x1080.jpg) 20171127 [download 4k](https://www.bing.com/az/hprichbg/rb/BFBadger_EN-US10164748033_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/RRCNCA_EN-US9010154204_1920x1080.jpg) 20171126 [download 4k](https://www.bing.com/az/hprichbg/rb/RRCNCA_EN-US9010154204_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/RhoneRiverDusk_EN-US9143412025_1920x1080.jpg) 20171125 [download 4k](https://www.bing.com/az/hprichbg/rb/RhoneRiverDusk_EN-US9143412025_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/KatenaLuminarium_EN-US12074286571_1920x1080.jpg) 20171124 [download 4k](https://www.bing.com/az/hprichbg/rb/KatenaLuminarium_EN-US12074286571_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TurkeyTail_EN-US10651209781_1920x1080.jpg) 20171123 [download 4k](https://www.bing.com/az/hprichbg/rb/TurkeyTail_EN-US10651209781_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/PowysCounty_EN-US11748646877_1920x1080.jpg) 20171122 [download 4k](https://www.bing.com/az/hprichbg/rb/PowysCounty_EN-US11748646877_UHD.jpg) |

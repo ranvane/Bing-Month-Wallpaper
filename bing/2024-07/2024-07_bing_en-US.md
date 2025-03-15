@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_1920x1080.jpg) 20240801 [download 4k](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-US6339668180_1920x1080.jpg) 20240731 [download 4k](https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-US6339668180_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_1920x1080.jpg) 20240730 [download 4k](https://www.bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_1920x1080.jpg) 20240729 [download 4k](https://www.bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_1920x1080.jpg) 20240728 [download 4k](https://www.bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PontNeuf_EN-US5735328254_1920x1080.jpg) 20240727 [download 4k](https://www.bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_1920x1080.jpg) 20240726 [download 4k](https://www.bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SheepCousins_EN-US9566915151_1920x1080.jpg) 20240725 [download 4k](https://www.bing.com/th?id=OHR.SheepCousins_EN-US9566915151_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_1920x1080.jpg) 20240724 [download 4k](https://www.bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg) |

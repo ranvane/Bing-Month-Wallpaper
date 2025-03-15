@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ModicaItaly_JA-JP0616823869_1920x1080.jpg) 20240301 [download 4k](https://www.bing.com/th?id=OHR.ModicaItaly_JA-JP0616823869_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.VermilionCliffs_JA-JP0444568228_1920x1080.jpg) 20240229 [download 4k](https://www.bing.com/th?id=OHR.VermilionCliffs_JA-JP0444568228_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BamburghCastleUK_JA-JP0209461050_1920x1080.jpg) 20240228 [download 4k](https://www.bing.com/th?id=OHR.BamburghCastleUK_JA-JP0209461050_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PolarBearCubs_JA-JP0012953029_1920x1080.jpg) 20240227 [download 4k](https://www.bing.com/th?id=OHR.PolarBearCubs_JA-JP0012953029_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GrandCanyonWinter_JA-JP9819536991_1920x1080.jpg) 20240226 [download 4k](https://www.bing.com/th?id=OHR.GrandCanyonWinter_JA-JP9819536991_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HaghartsinMonastery_JA-JP9652317145_1920x1080.jpg) 20240225 [download 4k](https://www.bing.com/th?id=OHR.HaghartsinMonastery_JA-JP9652317145_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AlmondBloom_JA-JP9467341348_1920x1080.jpg) 20240224 [download 4k](https://www.bing.com/th?id=OHR.AlmondBloom_JA-JP9467341348_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Fuji2024_JA-JP9270000739_1920x1080.jpg) 20240223 [download 4k](https://www.bing.com/th?id=OHR.Fuji2024_JA-JP9270000739_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BrightonBoxes_JA-JP7289590135_1920x1080.jpg) 20240222 [download 4k](https://www.bing.com/th?id=OHR.BrightonBoxes_JA-JP7289590135_UHD.jpg) |

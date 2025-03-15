@@ -1,7 +1,7 @@
 # Bing Wallpaper (2016-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/HongKongEye_ZH-CN12285832688_1920x1080.jpg) 20161231 [download 4k](https://www.bing.com/az/hprichbg/rb/HongKongEye_ZH-CN12285832688_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/WinterOwls_ZH-CN11633542284_1920x1080.jpg) 20161230 [download 4k](https://www.bing.com/az/hprichbg/rb/WinterOwls_ZH-CN11633542284_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ZellerHorn_ZH-CN7123868469_1920x1080.jpg) 20161229 [download 4k](https://www.bing.com/az/hprichbg/rb/ZellerHorn_ZH-CN7123868469_UHD.jpg) |
 
 ### 历史归档：

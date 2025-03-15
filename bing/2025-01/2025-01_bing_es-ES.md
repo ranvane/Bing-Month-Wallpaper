@@ -1,7 +1,7 @@
 # Bing Wallpaper (2025-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ES-ES5179656968_1920x1080.jpg) 20250201 [download 4k](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ES-ES5179656968_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TenerifeCarnival2025_ES-ES0044754668_1920x1080.jpg) 20250131 [download 4k](https://www.bing.com/th?id=OHR.TenerifeCarnival2025_ES-ES0044754668_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OrdesaSpain_ES-ES4787929078_1920x1080.jpg) 20250130 [download 4k](https://www.bing.com/th?id=OHR.OrdesaSpain_ES-ES4787929078_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.LunarDragon_ES-ES3892690560_1920x1080.jpg) 20250129 [download 4k](https://www.bing.com/th?id=OHR.LunarDragon_ES-ES3892690560_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FlyingOwl_ES-ES3769864994_1920x1080.jpg) 20250128 [download 4k](https://www.bing.com/th?id=OHR.FlyingOwl_ES-ES3769864994_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CanyonSnow_ES-ES3550411981_1920x1080.jpg) 20250127 [download 4k](https://www.bing.com/th?id=OHR.CanyonSnow_ES-ES3550411981_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FrostedBeech_ES-ES3324166189_1920x1080.jpg) 20250126 [download 4k](https://www.bing.com/th?id=OHR.FrostedBeech_ES-ES3324166189_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PortoSunset_ES-ES3099666552_1920x1080.jpg) 20250125 [download 4k](https://www.bing.com/th?id=OHR.PortoSunset_ES-ES3099666552_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IcelandGeyser_ES-ES1598539119_1920x1080.jpg) 20250124 [download 4k](https://www.bing.com/th?id=OHR.IcelandGeyser_ES-ES1598539119_UHD.jpg) |

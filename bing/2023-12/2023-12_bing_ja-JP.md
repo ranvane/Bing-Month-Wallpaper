@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.Sunrise2024_JA-JP1927003758_1920x1080.jpg) 20240101 [download 4k](https://www.bing.com/th?id=OHR.Sunrise2024_JA-JP1927003758_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Omisoka2023_JA-JP4038808718_1920x1080.jpg) 20231231 [download 4k](https://www.bing.com/th?id=OHR.Omisoka2023_JA-JP4038808718_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TadamiWinter_JA-JP3859322331_1920x1080.jpg) 20231230 [download 4k](https://www.bing.com/th?id=OHR.TadamiWinter_JA-JP3859322331_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BlueAmsterdam_JA-JP3650946549_1920x1080.jpg) 20231229 [download 4k](https://www.bing.com/th?id=OHR.BlueAmsterdam_JA-JP3650946549_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GreenlandHumpback_JA-JP1574725222_1920x1080.jpg) 20231228 [download 4k](https://www.bing.com/th?id=OHR.GreenlandHumpback_JA-JP1574725222_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KirkjufellAurora_JA-JP1371346229_1920x1080.jpg) 20231227 [download 4k](https://www.bing.com/th?id=OHR.KirkjufellAurora_JA-JP1371346229_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BoxingDaySunrise_JA-JP3167199681_1920x1080.jpg) 20231226 [download 4k](https://www.bing.com/th?id=OHR.BoxingDaySunrise_JA-JP3167199681_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CaribouChristmas_JA-JP0784356200_1920x1080.jpg) 20231225 [download 4k](https://www.bing.com/th?id=OHR.CaribouChristmas_JA-JP0784356200_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EstoniaXmasEve_JA-JP0366507453_1920x1080.jpg) 20231224 [download 4k](https://www.bing.com/th?id=OHR.EstoniaXmasEve_JA-JP0366507453_UHD.jpg) |

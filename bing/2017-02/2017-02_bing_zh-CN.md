@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/SommeBay_ZH-CN11043403486_1920x1080.jpg) 20170228 [download 4k](https://www.bing.com/az/hprichbg/rb/SommeBay_ZH-CN11043403486_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BrassBandTrumpet_ZH-CN8703910231_1920x1080.jpg) 20170227 [download 4k](https://www.bing.com/az/hprichbg/rb/BrassBandTrumpet_ZH-CN8703910231_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/RiverOtters_ZH-CN9287285757_1920x1080.jpg) 20170226 [download 4k](https://www.bing.com/az/hprichbg/rb/RiverOtters_ZH-CN9287285757_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/GriffithPark_ZH-CN9871772537_1920x1080.jpg) 20170225 [download 4k](https://www.bing.com/az/hprichbg/rb/GriffithPark_ZH-CN9871772537_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Hoatzin_ZH-CN6642664963_1920x1080.jpg) 20170224 [download 4k](https://www.bing.com/az/hprichbg/rb/Hoatzin_ZH-CN6642664963_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ShengshanIsland_ZH-CN14229927013_1920x1080.jpg) 20170223 [download 4k](https://www.bing.com/az/hprichbg/rb/ShengshanIsland_ZH-CN14229927013_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/ViennaOperaBall_ZH-CN10790748867_1920x1080.jpg) 20170222 [download 4k](https://www.bing.com/az/hprichbg/rb/ViennaOperaBall_ZH-CN10790748867_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/VenetianFortifications_ZH-CN11140565989_1920x1080.jpg) 20170221 [download 4k](https://www.bing.com/az/hprichbg/rb/VenetianFortifications_ZH-CN11140565989_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MartianCrater_ZH-CN9867068013_1920x1080.jpg) 20170220 [download 4k](https://www.bing.com/az/hprichbg/rb/MartianCrater_ZH-CN9867068013_UHD.jpg) |

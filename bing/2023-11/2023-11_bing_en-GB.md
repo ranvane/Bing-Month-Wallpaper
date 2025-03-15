@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LeadenhallUK_EN-GB3042111411_1920x1080.jpg) 20231201 [download 4k](https://www.bing.com/th?id=OHR.LeadenhallUK_EN-GB3042111411_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TreeLighting_EN-GB2794136797_1920x1080.jpg) 20231130 [download 4k](https://www.bing.com/th?id=OHR.TreeLighting_EN-GB2794136797_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HumanKindness_EN-GB2526768223_1920x1080.jpg) 20231129 [download 4k](https://www.bing.com/th?id=OHR.HumanKindness_EN-GB2526768223_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.RioNegro_EN-GB2228319376_1920x1080.jpg) 20231128 [download 4k](https://www.bing.com/th?id=OHR.RioNegro_EN-GB2228319376_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BradgateFallow_EN-GB0976305371_1920x1080.jpg) 20231127 [download 4k](https://www.bing.com/th?id=OHR.BradgateFallow_EN-GB0976305371_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TajoRiver_EN-GB0539581472_1920x1080.jpg) 20231126 [download 4k](https://www.bing.com/th?id=OHR.TajoRiver_EN-GB0539581472_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HallofMosses_EN-GB0065099295_1920x1080.jpg) 20231125 [download 4k](https://www.bing.com/th?id=OHR.HallofMosses_EN-GB0065099295_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TeideNational_EN-GB3659708002_1920x1080.jpg) 20231124 [download 4k](https://www.bing.com/th?id=OHR.TeideNational_EN-GB3659708002_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SnakeRiverTeton_EN-GB8620836496_1920x1080.jpg) 20231123 [download 4k](https://www.bing.com/th?id=OHR.SnakeRiverTeton_EN-GB8620836496_UHD.jpg) |

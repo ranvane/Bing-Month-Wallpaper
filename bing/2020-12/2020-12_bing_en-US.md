@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ZaragozaSpain_EN-US0650637184_1920x1080.jpg) 20201231 [download 4k](https://www.bing.com/th?id=OHR.ZaragozaSpain_EN-US0650637184_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WinterBryce_EN-US0613213485_1920x1080.jpg) 20201230 [download 4k](https://www.bing.com/th?id=OHR.WinterBryce_EN-US0613213485_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LucerneHoliday_EN-US0563120968_1920x1080.jpg) 20201229 [download 4k](https://www.bing.com/th?id=OHR.LucerneHoliday_EN-US0563120968_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CanadaLynx_EN-US0499765045_1920x1080.jpg) 20201228 [download 4k](https://www.bing.com/th?id=OHR.CanadaLynx_EN-US0499765045_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NabananoSato_EN-US0456707930_1920x1080.jpg) 20201227 [download 4k](https://www.bing.com/th?id=OHR.NabananoSato_EN-US0456707930_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BarnettsDemesne_EN-US0418109777_1920x1080.jpg) 20201226 [download 4k](https://www.bing.com/th?id=OHR.BarnettsDemesne_EN-US0418109777_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SleighMailbox_EN-US0378551322_1920x1080.jpg) 20201225 [download 4k](https://www.bing.com/th?id=OHR.SleighMailbox_EN-US0378551322_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WildReindeer_EN-US0339848363_1920x1080.jpg) 20201224 [download 4k](https://www.bing.com/th?id=OHR.WildReindeer_EN-US0339848363_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BandedPipefish_EN-US0293485314_1920x1080.jpg) 20201223 [download 4k](https://www.bing.com/th?id=OHR.BandedPipefish_EN-US0293485314_UHD.jpg) |

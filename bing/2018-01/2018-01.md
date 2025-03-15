@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/StubenamAlberg_ZH-CN9268418169_1920x1080.jpg) 20180131 [download 4k](https://www.bing.com/az/hprichbg/rb/StubenamAlberg_ZH-CN9268418169_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TartumaaEstonia_ZH-CN13968964399_1920x1080.jpg) 20180130 [download 4k](https://www.bing.com/az/hprichbg/rb/TartumaaEstonia_ZH-CN13968964399_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/GraniteDells_ZH-CN10095346278_1920x1080.jpg) 20180129 [download 4k](https://www.bing.com/az/hprichbg/rb/GraniteDells_ZH-CN10095346278_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/VF5NASA_ZH-CN11291360478_1920x1080.jpg) 20180128 [download 4k](https://www.bing.com/az/hprichbg/rb/VF5NASA_ZH-CN11291360478_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/KuhmoLapland_ZH-CN10084268975_1920x1080.jpg) 20180127 [download 4k](https://www.bing.com/az/hprichbg/rb/KuhmoLapland_ZH-CN10084268975_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BluePlankton_ZH-CN9721339029_1920x1080.jpg) 20180126 [download 4k](https://www.bing.com/az/hprichbg/rb/BluePlankton_ZH-CN9721339029_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/EasternGrey_ZH-CN11969577596_1920x1080.jpg) 20180125 [download 4k](https://www.bing.com/az/hprichbg/rb/EasternGrey_ZH-CN11969577596_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SamiLavvu_ZH-CN10571430992_1920x1080.jpg) 20180124 [download 4k](https://www.bing.com/az/hprichbg/rb/SamiLavvu_ZH-CN10571430992_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Fontainhas_ZH-CN10506085919_1920x1080.jpg) 20180123 [download 4k](https://www.bing.com/az/hprichbg/rb/Fontainhas_ZH-CN10506085919_UHD.jpg) |

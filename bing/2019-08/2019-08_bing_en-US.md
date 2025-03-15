@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.Slackers_EN-US7258381769_1920x1080.jpg) 20190831 [download 4k](https://www.bing.com/th?id=OHR.Slackers_EN-US7258381769_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HardeeCoFair_EN-US1477332511_1920x1080.jpg) 20190830 [download 4k](https://www.bing.com/th?id=OHR.HardeeCoFair_EN-US1477332511_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AsburyParkNJ_EN-US1396213899_1920x1080.jpg) 20190829 [download 4k](https://www.bing.com/th?id=OHR.AsburyParkNJ_EN-US1396213899_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CorsiniGardens_EN-US7010199576_1920x1080.jpg) 20190828 [download 4k](https://www.bing.com/th?id=OHR.CorsiniGardens_EN-US7010199576_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Krakatoa_EN-US6936534566_1920x1080.jpg) 20190827 [download 4k](https://www.bing.com/th?id=OHR.Krakatoa_EN-US6936534566_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.InteriorRoyalAlbertHall_EN-US6870096316_1920x1080.jpg) 20190826 [download 4k](https://www.bing.com/th?id=OHR.InteriorRoyalAlbertHall_EN-US6870096316_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BlackRockCity_EN-US6804847775_1920x1080.jpg) 20190825 [download 4k](https://www.bing.com/th?id=OHR.BlackRockCity_EN-US6804847775_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AugustBears_EN-US6742425682_1920x1080.jpg) 20190824 [download 4k](https://www.bing.com/th?id=OHR.AugustBears_EN-US6742425682_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FarmlandLandscape_EN-US6661316442_1920x1080.jpg) 20190823 [download 4k](https://www.bing.com/th?id=OHR.FarmlandLandscape_EN-US6661316442_UHD.jpg) |

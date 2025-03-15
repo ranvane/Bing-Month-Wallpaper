@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/Playing_ZH-CN12541345417_1920x1080.jpg) 20170531 [download 4k](https://www.bing.com/az/hprichbg/rb/Playing_ZH-CN12541345417_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MtTamVideo_ZH-CN10798436683_1920x1080.jpg) 20170530 [download 4k](https://www.bing.com/az/hprichbg/rb/MtTamVideo_ZH-CN10798436683_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Zongzi_ZH-CN11342763382_1920x1080.jpg) 20170529 [download 4k](https://www.bing.com/az/hprichbg/rb/Zongzi_ZH-CN11342763382_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/WaldkauzDE_ZH-CN10024135858_1920x1080.jpg) 20170528 [download 4k](https://www.bing.com/az/hprichbg/rb/WaldkauzDE_ZH-CN10024135858_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MataderoBridge_ZH-CN9215461155_1920x1080.jpg) 20170527 [download 4k](https://www.bing.com/az/hprichbg/rb/MataderoBridge_ZH-CN9215461155_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BromoJava_ZH-CN13278140077_1920x1080.jpg) 20170526 [download 4k](https://www.bing.com/az/hprichbg/rb/BromoJava_ZH-CN13278140077_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/Fiddleheads_ZH-CN14463697077_1920x1080.jpg) 20170525 [download 4k](https://www.bing.com/az/hprichbg/rb/Fiddleheads_ZH-CN14463697077_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/PyramidsOfMeroe_ZH-CN10667861825_1920x1080.jpg) 20170524 [download 4k](https://www.bing.com/az/hprichbg/rb/PyramidsOfMeroe_ZH-CN10667861825_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BB1883_ZH-CN14845255336_1920x1080.jpg) 20170523 [download 4k](https://www.bing.com/az/hprichbg/rb/BB1883_ZH-CN14845255336_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2025-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.EucalyptusForest_JA-JP1746182669_1920x1080.jpg) 20250301 [download 4k](https://www.bing.com/th?id=OHR.EucalyptusForest_JA-JP1746182669_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BhutanMonastery_JA-JP1458270567_1920x1080.jpg) 20250228 [download 4k](https://www.bing.com/th?id=OHR.BhutanMonastery_JA-JP1458270567_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarCub_JA-JP1257956041_1920x1080.jpg) 20250227 [download 4k](https://www.bing.com/th?id=OHR.PolarCub_JA-JP1257956041_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ArgyllStalker_JA-JP1121064297_1920x1080.jpg) 20250226 [download 4k](https://www.bing.com/th?id=OHR.ArgyllStalker_JA-JP1121064297_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BryceHoodoos_JA-JP0914701137_1920x1080.jpg) 20250225 [download 4k](https://www.bing.com/th?id=OHR.BryceHoodoos_JA-JP0914701137_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RibbleheadViaduct_JA-JP0769503543_1920x1080.jpg) 20250224 [download 4k](https://www.bing.com/th?id=OHR.RibbleheadViaduct_JA-JP0769503543_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MtFujiSunrise_JA-JP0451320828_1920x1080.jpg) 20250223 [download 4k](https://www.bing.com/th?id=OHR.MtFujiSunrise_JA-JP0451320828_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.StLouisArch_JA-JP0218152600_1920x1080.jpg) 20250222 [download 4k](https://www.bing.com/th?id=OHR.StLouisArch_JA-JP0218152600_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChampakaSarasi_JA-JP0008600806_1920x1080.jpg) 20250221 [download 4k](https://www.bing.com/th?id=OHR.ChampakaSarasi_JA-JP0008600806_UHD.jpg) |

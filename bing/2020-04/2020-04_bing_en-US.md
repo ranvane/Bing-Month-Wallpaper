@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-04)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ArcticRedpoll_EN-US5881398714_1920x1080.jpg) 20200430 [download 4k](https://www.bing.com/th?id=OHR.ArcticRedpoll_EN-US5881398714_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PalouseSpring_EN-US5686949948_1920x1080.jpg) 20200429 [download 4k](https://www.bing.com/th?id=OHR.PalouseSpring_EN-US5686949948_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SalisburyCathedral_EN-US5389036397_1920x1080.jpg) 20200428 [download 4k](https://www.bing.com/th?id=OHR.SalisburyCathedral_EN-US5389036397_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SouthAmericanTapir_EN-US5286179280_1920x1080.jpg) 20200427 [download 4k](https://www.bing.com/th?id=OHR.SouthAmericanTapir_EN-US5286179280_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RubySunset_EN-US0913610079_1920x1080.jpg) 20200426 [download 4k](https://www.bing.com/th?id=OHR.RubySunset_EN-US0913610079_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FalklandRockhoppers_EN-US0783607730_1920x1080.jpg) 20200425 [download 4k](https://www.bing.com/th?id=OHR.FalklandRockhoppers_EN-US0783607730_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MegellanicCloud_EN-US0392587311_1920x1080.jpg) 20200424 [download 4k](https://www.bing.com/th?id=OHR.MegellanicCloud_EN-US0392587311_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KingEider_EN-US7654847363_1920x1080.jpg) 20200423 [download 4k](https://www.bing.com/th?id=OHR.KingEider_EN-US7654847363_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KauriTree_EN-US7535687512_1920x1080.jpg) 20200422 [download 4k](https://www.bing.com/th?id=OHR.KauriTree_EN-US7535687512_UHD.jpg) |

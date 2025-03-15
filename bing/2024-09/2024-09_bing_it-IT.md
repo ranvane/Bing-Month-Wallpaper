@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HalfDomeYosemite_IT-IT2723116418_1920x1080.jpg) 20241001 [download 4k](https://www.bing.com/th?id=OHR.HalfDomeYosemite_IT-IT2723116418_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WalrusNorway_IT-IT2593695501_1920x1080.jpg) 20240930 [download 4k](https://www.bing.com/th?id=OHR.WalrusNorway_IT-IT2593695501_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ConnecticutBridge_IT-IT2485348656_1920x1080.jpg) 20240929 [download 4k](https://www.bing.com/th?id=OHR.ConnecticutBridge_IT-IT2485348656_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FloridaSeashore_IT-IT3615650453_1920x1080.jpg) 20240928 [download 4k](https://www.bing.com/th?id=OHR.FloridaSeashore_IT-IT3615650453_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.VeniceAerial_IT-IT9053737522_1920x1080.jpg) 20240927 [download 4k](https://www.bing.com/th?id=OHR.VeniceAerial_IT-IT9053737522_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WindRiverAlaska_IT-IT8914553087_1920x1080.jpg) 20240926 [download 4k](https://www.bing.com/th?id=OHR.WindRiverAlaska_IT-IT8914553087_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FestivalMedioevo_IT-IT1145169158_1920x1080.jpg) 20240925 [download 4k](https://www.bing.com/th?id=OHR.FestivalMedioevo_IT-IT1145169158_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_IT-IT8228006063_1920x1080.jpg) 20240924 [download 4k](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_IT-IT8228006063_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IcebergOtter_IT-IT1022264475_1920x1080.jpg) 20240923 [download 4k](https://www.bing.com/th?id=OHR.IcebergOtter_IT-IT1022264475_UHD.jpg) |

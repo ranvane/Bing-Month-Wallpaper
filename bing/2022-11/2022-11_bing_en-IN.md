@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.AntarcticaDay_EN-IN4515439418_1920x1080.jpg) 20221201 [download 4k](https://www.bing.com/th?id=OHR.AntarcticaDay_EN-IN4515439418_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KhaliyaTopTrek_EN-IN6085442535_1920x1080.jpg) 20221130 [download 4k](https://www.bing.com/th?id=OHR.KhaliyaTopTrek_EN-IN6085442535_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HeronGiving_EN-IN3807811033_1920x1080.jpg) 20221129 [download 4k](https://www.bing.com/th?id=OHR.HeronGiving_EN-IN3807811033_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.RedPlanetDay_EN-IN3181768065_1920x1080.jpg) 20221128 [download 4k](https://www.bing.com/th?id=OHR.RedPlanetDay_EN-IN3181768065_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Cecropia_EN-IN6595144388_1920x1080.jpg) 20221127 [download 4k](https://www.bing.com/th?id=OHR.Cecropia_EN-IN6595144388_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.VidhanaSoudha_EN-IN5543965189_1920x1080.jpg) 20221126 [download 4k](https://www.bing.com/th?id=OHR.VidhanaSoudha_EN-IN5543965189_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.OliveTreeDay_EN-IN2858135320_1920x1080.jpg) 20221125 [download 4k](https://www.bing.com/th?id=OHR.OliveTreeDay_EN-IN2858135320_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RovinjCroatia_EN-IN5575438445_1920x1080.jpg) 20221124 [download 4k](https://www.bing.com/th?id=OHR.RovinjCroatia_EN-IN5575438445_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HelianthusAnnuus_EN-IN4868983337_1920x1080.jpg) 20221123 [download 4k](https://www.bing.com/th?id=OHR.HelianthusAnnuus_EN-IN4868983337_UHD.jpg) |

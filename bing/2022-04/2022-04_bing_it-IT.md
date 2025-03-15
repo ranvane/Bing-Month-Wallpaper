@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-04)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.VanBlooms_IT-IT5606653682_1920x1080.jpg) 20220501 [download 4k](https://www.bing.com/th?id=OHR.VanBlooms_IT-IT5606653682_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NorthBeachJazz_IT-IT3822897926_1920x1080.jpg) 20220430 [download 4k](https://www.bing.com/th?id=OHR.NorthBeachJazz_IT-IT3822897926_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RedwoodSprout_IT-IT2422325375_1920x1080.jpg) 20220429 [download 4k](https://www.bing.com/th?id=OHR.RedwoodSprout_IT-IT2422325375_UHD.jpg) |
 
 ### 历史归档：

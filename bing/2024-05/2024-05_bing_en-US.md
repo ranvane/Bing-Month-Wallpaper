@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-US6104560581_1920x1080.jpg) 20240601 [download 4k](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-US6104560581_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_1920x1080.jpg) 20240531 [download 4k](https://www.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MullOtter_EN-US5451978021_1920x1080.jpg) 20240530 [download 4k](https://www.bing.com/th?id=OHR.MullOtter_EN-US5451978021_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_1920x1080.jpg) 20240529 [download 4k](https://www.bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MemorialFlags_EN-US5086740860_1920x1080.jpg) 20240528 [download 4k](https://www.bing.com/th?id=OHR.MemorialFlags_EN-US5086740860_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_1920x1080.jpg) 20240527 [download 4k](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_1920x1080.jpg) 20240526 [download 4k](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OrdesaNationalPark_EN-US4779461538_1920x1080.jpg) 20240525 [download 4k](https://www.bing.com/th?id=OHR.OrdesaNationalPark_EN-US4779461538_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IndianStarTortoise_EN-US4160827746_1920x1080.jpg) 20240524 [download 4k](https://www.bing.com/th?id=OHR.IndianStarTortoise_EN-US4160827746_UHD.jpg) |

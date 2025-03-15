@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HalfDomeYosemite_DE-DE5765529355_1920x1080.jpg) 20241001 [download 4k](https://www.bing.com/th?id=OHR.HalfDomeYosemite_DE-DE5765529355_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WalrusNorway_DE-DE5538217072_1920x1080.jpg) 20240930 [download 4k](https://www.bing.com/th?id=OHR.WalrusNorway_DE-DE5538217072_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ConnecticutBridge_DE-DE5467033007_1920x1080.jpg) 20240929 [download 4k](https://www.bing.com/th?id=OHR.ConnecticutBridge_DE-DE5467033007_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FloridaSeashore_DE-DE5371597914_1920x1080.jpg) 20240928 [download 4k](https://www.bing.com/th?id=OHR.FloridaSeashore_DE-DE5371597914_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.VeniceAerial_DE-DE9588219063_1920x1080.jpg) 20240927 [download 4k](https://www.bing.com/th?id=OHR.VeniceAerial_DE-DE9588219063_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TajMahalReflection_DE-DE5120779662_1920x1080.jpg) 20240926 [download 4k](https://www.bing.com/th?id=OHR.TajMahalReflection_DE-DE5120779662_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GiantSequoias_DE-DE0297473056_1920x1080.jpg) 20240925 [download 4k](https://www.bing.com/th?id=OHR.GiantSequoias_DE-DE0297473056_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_DE-DE5014328523_1920x1080.jpg) 20240924 [download 4k](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_DE-DE5014328523_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IcebergOtter_DE-DE4856944180_1920x1080.jpg) 20240923 [download 4k](https://www.bing.com/th?id=OHR.IcebergOtter_DE-DE4856944180_UHD.jpg) |

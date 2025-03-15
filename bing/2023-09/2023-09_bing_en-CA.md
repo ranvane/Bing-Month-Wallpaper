@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ShenandoahFoliage_EN-CA5764050282_1920x1080.jpg) 20231001 [download 4k](https://www.bing.com/th?id=OHR.ShenandoahFoliage_EN-CA5764050282_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GuiyangMoon_EN-CA4101915787_1920x1080.jpg) 20230930 [download 4k](https://www.bing.com/th?id=OHR.GuiyangMoon_EN-CA4101915787_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MaritimeDay_EN-CA2505931032_1920x1080.jpg) 20230929 [download 4k](https://www.bing.com/th?id=OHR.MaritimeDay_EN-CA2505931032_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CapriKrupp_EN-CA9950478690_1920x1080.jpg) 20230928 [download 4k](https://www.bing.com/th?id=OHR.CapriKrupp_EN-CA9950478690_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.VeniceSkatePark_EN-CA1676969637_1920x1080.jpg) 20230927 [download 4k](https://www.bing.com/th?id=OHR.VeniceSkatePark_EN-CA1676969637_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GlacierBayOtter_EN-CA0481969392_1920x1080.jpg) 20230926 [download 4k](https://www.bing.com/th?id=OHR.GlacierBayOtter_EN-CA0481969392_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FraserRiverBC_EN-CA9274002472_1920x1080.jpg) 20230925 [download 4k](https://www.bing.com/th?id=OHR.FraserRiverBC_EN-CA9274002472_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NuitBlanche_EN-CA7519752130_1920x1080.jpg) 20230924 [download 4k](https://www.bing.com/th?id=OHR.NuitBlanche_EN-CA7519752130_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ShamwariRhino_EN-CA5055413725_1920x1080.jpg) 20230923 [download 4k](https://www.bing.com/th?id=OHR.ShamwariRhino_EN-CA5055413725_UHD.jpg) |

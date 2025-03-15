@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/HauntedGallery_EN-US7884856477_1920x1080.jpg) 20171031 [download 4k](https://www.bing.com/az/hprichbg/rb/HauntedGallery_EN-US7884856477_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/InspirationPoint_EN-US9257698471_1920x1080.jpg) 20171030 [download 4k](https://www.bing.com/az/hprichbg/rb/InspirationPoint_EN-US9257698471_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/KyrgyzstanCat_EN-US10859527245_1920x1080.jpg) 20171029 [download 4k](https://www.bing.com/az/hprichbg/rb/KyrgyzstanCat_EN-US10859527245_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/DucksSwamp_EN-US7879018819_1920x1080.jpg) 20171028 [download 4k](https://www.bing.com/az/hprichbg/rb/DucksSwamp_EN-US7879018819_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/KemeriBog_EN-US9749876935_1920x1080.jpg) 20171027 [download 4k](https://www.bing.com/az/hprichbg/rb/KemeriBog_EN-US9749876935_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/HallstattAustria_EN-US9407016733_1920x1080.jpg) 20171026 [download 4k](https://www.bing.com/az/hprichbg/rb/HallstattAustria_EN-US9407016733_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/TahquamenonFalls_EN-US8966938934_1920x1080.jpg) 20171025 [download 4k](https://www.bing.com/az/hprichbg/rb/TahquamenonFalls_EN-US8966938934_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/CatBaBoats_EN-US10871859347_1920x1080.jpg) 20171024 [download 4k](https://www.bing.com/az/hprichbg/rb/CatBaBoats_EN-US10871859347_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ScreechOwl_EN-US8795938080_1920x1080.jpg) 20171023 [download 4k](https://www.bing.com/az/hprichbg/rb/ScreechOwl_EN-US8795938080_UHD.jpg) |

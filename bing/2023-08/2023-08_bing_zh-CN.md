@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.TurkeyTailMush_ZH-CN9683744281_1920x1080.jpg) 20230901 [download 4k](https://www.bing.com/th?id=OHR.TurkeyTailMush_ZH-CN9683744281_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IronwoodCactus_ZH-CN9290037977_1920x1080.jpg) 20230831 [download 4k](https://www.bing.com/th?id=OHR.IronwoodCactus_ZH-CN9290037977_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NingalooShark_ZH-CN9014712175_1920x1080.jpg) 20230830 [download 4k](https://www.bing.com/th?id=OHR.NingalooShark_ZH-CN9014712175_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.TetonBison_ZH-CN9384306649_1920x1080.jpg) 20230829 [download 4k](https://www.bing.com/th?id=OHR.TetonBison_ZH-CN9384306649_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DubrovnikHarbor_ZH-CN8590217905_1920x1080.jpg) 20230828 [download 4k](https://www.bing.com/th?id=OHR.DubrovnikHarbor_ZH-CN8590217905_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.JejuIsland_ZH-CN8434910851_1920x1080.jpg) 20230827 [download 4k](https://www.bing.com/th?id=OHR.JejuIsland_ZH-CN8434910851_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MuseumIsland_ZH-CN8277258964_1920x1080.jpg) 20230826 [download 4k](https://www.bing.com/th?id=OHR.MuseumIsland_ZH-CN8277258964_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YellowstoneFalls_ZH-CN8050562150_1920x1080.jpg) 20230825 [download 4k](https://www.bing.com/th?id=OHR.YellowstoneFalls_ZH-CN8050562150_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_1920x1080.jpg) 20230824 [download 4k](https://www.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.WallaceFF_EN-US1967284462_1920x1080.jpg) 20200229 [download 4k](https://www.bing.com/th?id=OHR.WallaceFF_EN-US1967284462_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OtterCreekVT_EN-US1557441690_1920x1080.jpg) 20200228 [download 4k](https://www.bing.com/th?id=OHR.OtterCreekVT_EN-US1557441690_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PBWhaleBones_EN-US8550622199_1920x1080.jpg) 20200227 [download 4k](https://www.bing.com/th?id=OHR.PBWhaleBones_EN-US8550622199_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AcadiaSunrise_EN-US8474021804_1920x1080.jpg) 20200226 [download 4k](https://www.bing.com/th?id=OHR.AcadiaSunrise_EN-US8474021804_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ArmstrongPark_EN-US8412696471_1920x1080.jpg) 20200225 [download 4k](https://www.bing.com/th?id=OHR.ArmstrongPark_EN-US8412696471_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Windhorses_EN-US8344477103_1920x1080.jpg) 20200224 [download 4k](https://www.bing.com/th?id=OHR.Windhorses_EN-US8344477103_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.LakeGullMN_EN-US8273213396_1920x1080.jpg) 20200223 [download 4k](https://www.bing.com/th?id=OHR.LakeGullMN_EN-US8273213396_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AbuSimbelSunFest_EN-US8115834133_1920x1080.jpg) 20200222 [download 4k](https://www.bing.com/th?id=OHR.AbuSimbelSunFest_EN-US8115834133_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OlindaCarnival_EN-US7914915440_1920x1080.jpg) 20200221 [download 4k](https://www.bing.com/th?id=OHR.OlindaCarnival_EN-US7914915440_UHD.jpg) |

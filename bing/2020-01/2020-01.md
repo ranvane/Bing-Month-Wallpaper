@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.OberweissbacherBergbahn_ZH-CN1289048050_1920x1080.jpg) 20200131 [download 4k](https://www.bing.com/th?id=OHR.OberweissbacherBergbahn_ZH-CN1289048050_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ReddishEgret_ZH-CN9249712983_1920x1080.jpg) 20200130 [download 4k](https://www.bing.com/th?id=OHR.ReddishEgret_ZH-CN9249712983_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LakeBaikal_ZH-CN1853812638_1920x1080.jpg) 20200129 [download 4k](https://www.bing.com/th?id=OHR.LakeBaikal_ZH-CN1853812638_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SemucChampey_ZH-CN1774527432_1920x1080.jpg) 20200128 [download 4k](https://www.bing.com/th?id=OHR.SemucChampey_ZH-CN1774527432_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AerialKluaneNP_ZH-CN4080112842_1920x1080.jpg) 20200127 [download 4k](https://www.bing.com/th?id=OHR.AerialKluaneNP_ZH-CN4080112842_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NYCLitUp_ZH-CN1703735322_1920x1080.jpg) 20200126 [download 4k](https://www.bing.com/th?id=OHR.NYCLitUp_ZH-CN1703735322_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.TajRepublic_ZH-CN1657162292_1920x1080.jpg) 20200125 [download 4k](https://www.bing.com/th?id=OHR.TajRepublic_ZH-CN1657162292_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Lunarnewyear2020_ZH-CN1554492287_1920x1080.jpg) 20200124 [download 4k](https://www.bing.com/th?id=OHR.Lunarnewyear2020_ZH-CN1554492287_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Lunarnewyeareve2020_ZH-CN1514309048_1920x1080.jpg) 20200123 [download 4k](https://www.bing.com/th?id=OHR.Lunarnewyeareve2020_ZH-CN1514309048_UHD.jpg) |

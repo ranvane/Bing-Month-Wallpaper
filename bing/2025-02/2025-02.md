@@ -1,7 +1,7 @@
 # Bing Wallpaper (2025-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451_1920x1080.jpg) 20250301 [download 4k](https://www.bing.com/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_1920x1080.jpg) 20250228 [download 4k](https://www.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_1920x1080.jpg) 20250227 [download 4k](https://www.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ArgyllStalker_ZH-CN0970395078_1920x1080.jpg) 20250226 [download 4k](https://www.bing.com/th?id=OHR.ArgyllStalker_ZH-CN0970395078_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_1920x1080.jpg) 20250225 [download 4k](https://www.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_1920x1080.jpg) 20250224 [download 4k](https://www.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_1920x1080.jpg) 20250223 [download 4k](https://www.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.StLouisArch_ZH-CN0442955735_1920x1080.jpg) 20250222 [download 4k](https://www.bing.com/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_1920x1080.jpg) 20250221 [download 4k](https://www.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.IcebergAntarctica_JA-JP7499377944_1920x1080.jpg) 20231201 [download 4k](https://www.bing.com/th?id=OHR.IcebergAntarctica_JA-JP7499377944_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TrotternishStorr_JA-JP7531639858_1920x1080.jpg) 20231130 [download 4k](https://www.bing.com/th?id=OHR.TrotternishStorr_JA-JP7531639858_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TreeLighting_JA-JP6880977842_1920x1080.jpg) 20231129 [download 4k](https://www.bing.com/th?id=OHR.TreeLighting_JA-JP6880977842_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HumanKindness_JA-JP6290539891_1920x1080.jpg) 20231128 [download 4k](https://www.bing.com/th?id=OHR.HumanKindness_JA-JP6290539891_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RioNegro_JA-JP6030654959_1920x1080.jpg) 20231127 [download 4k](https://www.bing.com/th?id=OHR.RioNegro_JA-JP6030654959_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BathingDay2023_JA-JP8643192749_1920x1080.jpg) 20231126 [download 4k](https://www.bing.com/th?id=OHR.BathingDay2023_JA-JP8643192749_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.TajoRiver_JA-JP5452234121_1920x1080.jpg) 20231125 [download 4k](https://www.bing.com/th?id=OHR.TajoRiver_JA-JP5452234121_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HallofMosses_JA-JP4877057961_1920x1080.jpg) 20231124 [download 4k](https://www.bing.com/th?id=OHR.HallofMosses_JA-JP4877057961_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BradgateFallow_JA-JP4632580137_1920x1080.jpg) 20231123 [download 4k](https://www.bing.com/th?id=OHR.BradgateFallow_JA-JP4632580137_UHD.jpg) |

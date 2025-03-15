@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LakeBledSunrise_EN-IN4873630074_1920x1080.jpg) 20231001 [download 4k](https://www.bing.com/th?id=OHR.LakeBledSunrise_EN-IN4873630074_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ShenandoahFoliage_EN-IN7343206221_1920x1080.jpg) 20230930 [download 4k](https://www.bing.com/th?id=OHR.ShenandoahFoliage_EN-IN7343206221_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SangameswaraTemple_EN-IN2298301203_1920x1080.jpg) 20230929 [download 4k](https://www.bing.com/th?id=OHR.SangameswaraTemple_EN-IN2298301203_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MaritimeDay_EN-IN7369609777_1920x1080.jpg) 20230928 [download 4k](https://www.bing.com/th?id=OHR.MaritimeDay_EN-IN7369609777_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CapriKrupp_EN-IN0312535183_1920x1080.jpg) 20230927 [download 4k](https://www.bing.com/th?id=OHR.CapriKrupp_EN-IN0312535183_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.VeniceSkatePark_EN-IN9722074210_1920x1080.jpg) 20230926 [download 4k](https://www.bing.com/th?id=OHR.VeniceSkatePark_EN-IN9722074210_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GlacierBayOtter_EN-IN9154221521_1920x1080.jpg) 20230925 [download 4k](https://www.bing.com/th?id=OHR.GlacierBayOtter_EN-IN9154221521_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FraserRiverBC_EN-IN1199703740_1920x1080.jpg) 20230924 [download 4k](https://www.bing.com/th?id=OHR.FraserRiverBC_EN-IN1199703740_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CottonwoodCanyon_EN-IN8525185865_1920x1080.jpg) 20230923 [download 4k](https://www.bing.com/th?id=OHR.CottonwoodCanyon_EN-IN8525185865_UHD.jpg) |

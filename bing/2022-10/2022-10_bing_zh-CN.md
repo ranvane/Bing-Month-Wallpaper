@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_ZH-CN6763384812_1920x1080.jpg) 20221101 [download 4k](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_ZH-CN6763384812_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_1920x1080.jpg) 20221031 [download 4k](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SealRiver_ZH-CN6334858649_1920x1080.jpg) 20221030 [download 4k](https://www.bing.com/th?id=OHR.SealRiver_ZH-CN6334858649_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SeaAngel_ZH-CN6176844066_1920x1080.jpg) 20221029 [download 4k](https://www.bing.com/th?id=OHR.SeaAngel_ZH-CN6176844066_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FrankensteinFriday_ZH-CN5814917673_1920x1080.jpg) 20221028 [download 4k](https://www.bing.com/th?id=OHR.FrankensteinFriday_ZH-CN5814917673_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BridgeofSighs_ZH-CN5414607871_1920x1080.jpg) 20221027 [download 4k](https://www.bing.com/th?id=OHR.BridgeofSighs_ZH-CN5414607871_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BrockenSpecter_ZH-CN5278743909_1920x1080.jpg) 20221026 [download 4k](https://www.bing.com/th?id=OHR.BrockenSpecter_ZH-CN5278743909_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OrcusMouth_ZH-CN7303142999_1920x1080.jpg) 20221025 [download 4k](https://www.bing.com/th?id=OHR.OrcusMouth_ZH-CN7303142999_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MarienburgZell_ZH-CN4562312386_1920x1080.jpg) 20221024 [download 4k](https://www.bing.com/th?id=OHR.MarienburgZell_ZH-CN4562312386_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.WildlifeCrossing_ZH-CN1493053695_1920x1080.jpg) 20220901 [download 4k](https://www.bing.com/th?id=OHR.WildlifeCrossing_ZH-CN1493053695_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BlueLinckia_ZH-CN1103817183_1920x1080.jpg) 20220831 [download 4k](https://www.bing.com/th?id=OHR.BlueLinckia_ZH-CN1103817183_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Migliarino_ZH-CN0744250844_1920x1080.jpg) 20220830 [download 4k](https://www.bing.com/th?id=OHR.Migliarino_ZH-CN0744250844_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.EstoniaBaltic_ZH-CN0314555299_1920x1080.jpg) 20220829 [download 4k](https://www.bing.com/th?id=OHR.EstoniaBaltic_ZH-CN0314555299_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BeardedTit_ZH-CN0065279700_1920x1080.jpg) 20220828 [download 4k](https://www.bing.com/th?id=OHR.BeardedTit_ZH-CN0065279700_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MSHV_ZH-CN9630204701_1920x1080.jpg) 20220827 [download 4k](https://www.bing.com/th?id=OHR.MSHV_ZH-CN9630204701_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PeljesacWind_ZH-CN9299214248_1920x1080.jpg) 20220826 [download 4k](https://www.bing.com/th?id=OHR.PeljesacWind_ZH-CN9299214248_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CascadesNP_ZH-CN1830542356_1920x1080.jpg) 20220825 [download 4k](https://www.bing.com/th?id=OHR.CascadesNP_ZH-CN1830542356_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MarinaDaGloria_ZH-CN6894795645_1920x1080.jpg) 20220824 [download 4k](https://www.bing.com/th?id=OHR.MarinaDaGloria_ZH-CN6894795645_UHD.jpg) |

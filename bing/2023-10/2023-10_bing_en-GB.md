@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HalloweenPorchAI_EN-GB0364731391_1920x1080.jpg) 20231101 [download 4k](https://www.bing.com/th?id=OHR.HalloweenPorchAI_EN-GB0364731391_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AutumnRaven_EN-GB8492098807_1920x1080.jpg) 20231031 [download 4k](https://www.bing.com/th?id=OHR.AutumnRaven_EN-GB8492098807_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SavannahSculpture_EN-GB4452502826_1920x1080.jpg) 20231030 [download 4k](https://www.bing.com/th?id=OHR.SavannahSculpture_EN-GB4452502826_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FiveWinds_EN-GB7573327374_1920x1080.jpg) 20231028 [download 4k](https://www.bing.com/th?id=OHR.FiveWinds_EN-GB7573327374_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OldBridgeSkye_EN-GB7231148688_1920x1080.jpg) 20231027 [download 4k](https://www.bing.com/th?id=OHR.OldBridgeSkye_EN-GB7231148688_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AutumnLeavesBelfastUK_EN-GB6693162192_1920x1080.jpg) 20231026 [download 4k](https://www.bing.com/th?id=OHR.AutumnLeavesBelfastUK_EN-GB6693162192_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GrandStaircase_EN-GB6284084433_1920x1080.jpg) 20231025 [download 4k](https://www.bing.com/th?id=OHR.GrandStaircase_EN-GB6284084433_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FuzerCastle_EN-GB5805534189_1920x1080.jpg) 20231024 [download 4k](https://www.bing.com/th?id=OHR.FuzerCastle_EN-GB5805534189_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PoconosMaze_EN-GB4803656723_1920x1080.jpg) 20231023 [download 4k](https://www.bing.com/th?id=OHR.PoconosMaze_EN-GB4803656723_UHD.jpg) |

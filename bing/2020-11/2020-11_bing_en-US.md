@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.EDCScotland_EN-US8946271864_1920x1080.jpg) 20201130 [download 4k](https://www.bing.com/th?id=OHR.EDCScotland_EN-US8946271864_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MountTaranaki_EN-US8879642420_1920x1080.jpg) 20201129 [download 4k](https://www.bing.com/th?id=OHR.MountTaranaki_EN-US8879642420_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ValCervara_EN-US8802099255_1920x1080.jpg) 20201128 [download 4k](https://www.bing.com/th?id=OHR.ValCervara_EN-US8802099255_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.KayakGreenFriday_EN-US8700234828_1920x1080.jpg) 20201127 [download 4k](https://www.bing.com/th?id=OHR.KayakGreenFriday_EN-US8700234828_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChipmunkThanksgiving_EN-US8557461431_1920x1080.jpg) 20201126 [download 4k](https://www.bing.com/th?id=OHR.ChipmunkThanksgiving_EN-US8557461431_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CPMall_EN-US8473128519_1920x1080.jpg) 20201125 [download 4k](https://www.bing.com/th?id=OHR.CPMall_EN-US8473128519_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AsilomarSB_EN-US8366690151_1920x1080.jpg) 20201124 [download 4k](https://www.bing.com/th?id=OHR.AsilomarSB_EN-US8366690151_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BernCH_EN-US8185860107_1920x1080.jpg) 20201123 [download 4k](https://www.bing.com/th?id=OHR.BernCH_EN-US8185860107_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Dromling_EN-US8056662773_1920x1080.jpg) 20201122 [download 4k](https://www.bing.com/th?id=OHR.Dromling_EN-US8056662773_UHD.jpg) |

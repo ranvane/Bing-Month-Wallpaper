@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/GBRISS_ZH-CN10195808313_1920x1080.jpg) 20170131 [download 4k](https://www.bing.com/az/hprichbg/rb/GBRISS_ZH-CN10195808313_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/FlameTowers_ZH-CN10904980589_1920x1080.jpg) 20170130 [download 4k](https://www.bing.com/az/hprichbg/rb/FlameTowers_ZH-CN10904980589_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SpringCouplet_ZH-CN16366435588_1920x1080.jpg) 20170129 [download 4k](https://www.bing.com/az/hprichbg/rb/SpringCouplet_ZH-CN16366435588_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/DoorGods_ZH-CN12360444323_1920x1080.jpg) 20170128 [download 4k](https://www.bing.com/az/hprichbg/rb/DoorGods_ZH-CN12360444323_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ChineseGoldenPheasant_ZH-CN12693021758_1920x1080.jpg) 20170127 [download 4k](https://www.bing.com/az/hprichbg/rb/ChineseGoldenPheasant_ZH-CN12693021758_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Chopstics_ZH-CN11978203109_1920x1080.jpg) 20170126 [download 4k](https://www.bing.com/az/hprichbg/rb/Chopstics_ZH-CN11978203109_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/DovrefjellMuskox_ZH-CN14069563613_1920x1080.jpg) 20170125 [download 4k](https://www.bing.com/az/hprichbg/rb/DovrefjellMuskox_ZH-CN14069563613_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/VillersAbbey_ZH-CN10373383330_1920x1080.jpg) 20170124 [download 4k](https://www.bing.com/az/hprichbg/rb/VillersAbbey_ZH-CN10373383330_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/LuciolaCruciata_ZH-CN9063767400_1920x1080.jpg) 20170123 [download 4k](https://www.bing.com/az/hprichbg/rb/LuciolaCruciata_ZH-CN9063767400_UHD.jpg) |

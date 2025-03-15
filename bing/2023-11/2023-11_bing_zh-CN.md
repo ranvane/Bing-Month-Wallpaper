@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_1920x1080.jpg) 20231201 [download 4k](https://www.bing.com/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TrotternishStorr_ZH-CN2508882441_1920x1080.jpg) 20231130 [download 4k](https://www.bing.com/th?id=OHR.TrotternishStorr_ZH-CN2508882441_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SchwerinerSchloss_ZH-CN2390476345_1920x1080.jpg) 20231129 [download 4k](https://www.bing.com/th?id=OHR.SchwerinerSchloss_ZH-CN2390476345_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_ZH-CN2270275151_1920x1080.jpg) 20231128 [download 4k](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_ZH-CN2270275151_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RioNegro_ZH-CN2121977810_1920x1080.jpg) 20231127 [download 4k](https://www.bing.com/th?id=OHR.RioNegro_ZH-CN2121977810_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BradgateFallow_ZH-CN1852334581_1920x1080.jpg) 20231126 [download 4k](https://www.bing.com/th?id=OHR.BradgateFallow_ZH-CN1852334581_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.TajoRiver_ZH-CN1752559204_1920x1080.jpg) 20231125 [download 4k](https://www.bing.com/th?id=OHR.TajoRiver_ZH-CN1752559204_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HallofMosses_ZH-CN1565129809_1920x1080.jpg) 20231124 [download 4k](https://www.bing.com/th?id=OHR.HallofMosses_ZH-CN1565129809_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TeideNational_ZH-CN1367200520_1920x1080.jpg) 20231123 [download 4k](https://www.bing.com/th?id=OHR.TeideNational_ZH-CN1367200520_UHD.jpg) |

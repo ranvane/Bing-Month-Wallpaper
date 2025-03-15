@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.MercatiDiNataleBolzano_IT-IT2256905385_1920x1080.jpg) 20241201 [download 4k](https://www.bing.com/th?id=OHR.MercatiDiNataleBolzano_IT-IT2256905385_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KilchurnAutumn_IT-IT2035726634_1920x1080.jpg) 20241130 [download 4k](https://www.bing.com/th?id=OHR.KilchurnAutumn_IT-IT2035726634_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtStMichel_IT-IT5961115578_1920x1080.jpg) 20241129 [download 4k](https://www.bing.com/th?id=OHR.MtStMichel_IT-IT5961115578_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AssiniboineTS_IT-IT8882599718_1920x1080.jpg) 20241128 [download 4k](https://www.bing.com/th?id=OHR.AssiniboineTS_IT-IT8882599718_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SemoisRiver_IT-IT8667394728_1920x1080.jpg) 20241127 [download 4k](https://www.bing.com/th?id=OHR.SemoisRiver_IT-IT8667394728_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TrulliGrove_IT-IT8430253171_1920x1080.jpg) 20241126 [download 4k](https://www.bing.com/th?id=OHR.TrulliGrove_IT-IT8430253171_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CowsInAlpineValley_IT-IT8150386866_1920x1080.jpg) 20241125 [download 4k](https://www.bing.com/th?id=OHR.CowsInAlpineValley_IT-IT8150386866_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SonomaCoast_IT-IT7979490899_1920x1080.jpg) 20241124 [download 4k](https://www.bing.com/th?id=OHR.SonomaCoast_IT-IT7979490899_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FibonacciAloe_IT-IT7618166733_1920x1080.jpg) 20241123 [download 4k](https://www.bing.com/th?id=OHR.FibonacciAloe_IT-IT7618166733_UHD.jpg) |

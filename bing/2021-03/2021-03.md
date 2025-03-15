@@ -1,7 +1,7 @@
 # Bing Wallpaper (2021-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.FooledYa_ZH-CN1264990804_1920x1080.jpg) 20210331 [download 4k](https://www.bing.com/th?id=OHR.FooledYa_ZH-CN1264990804_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RajaAmpat_ZH-CN2820406309_1920x1080.jpg) 20210330 [download 4k](https://www.bing.com/th?id=OHR.RajaAmpat_ZH-CN2820406309_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SwordFern_ZH-CN2589382288_1920x1080.jpg) 20210329 [download 4k](https://www.bing.com/th?id=OHR.SwordFern_ZH-CN2589382288_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Reynisfjara_ZH-CN2125000937_1920x1080.jpg) 20210328 [download 4k](https://www.bing.com/th?id=OHR.Reynisfjara_ZH-CN2125000937_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LlanberisSlate_ZH-CN1977606783_1920x1080.jpg) 20210327 [download 4k](https://www.bing.com/th?id=OHR.LlanberisSlate_ZH-CN1977606783_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MadHares_ZH-CN1754336550_1920x1080.jpg) 20210326 [download 4k](https://www.bing.com/th?id=OHR.MadHares_ZH-CN1754336550_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MTCradle_ZH-CN1573998424_1920x1080.jpg) 20210325 [download 4k](https://www.bing.com/th?id=OHR.MTCradle_ZH-CN1573998424_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LakeWinnipeg_ZH-CN0984485385_1920x1080.jpg) 20210324 [download 4k](https://www.bing.com/th?id=OHR.LakeWinnipeg_ZH-CN0984485385_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HumpbackMom_ZH-CN0218207583_1920x1080.jpg) 20210323 [download 4k](https://www.bing.com/th?id=OHR.HumpbackMom_ZH-CN0218207583_UHD.jpg) |

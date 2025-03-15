@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.FreudenbergHistoricHouses_DE-DE3863423728_1920x1080.jpg) 20241201 [download 4k](https://www.bing.com/th?id=OHR.FreudenbergHistoricHouses_DE-DE3863423728_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KilchurnAutumn_DE-DE0282904512_1920x1080.jpg) 20241130 [download 4k](https://www.bing.com/th?id=OHR.KilchurnAutumn_DE-DE0282904512_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtStMichel_DE-DE3578803710_1920x1080.jpg) 20241129 [download 4k](https://www.bing.com/th?id=OHR.MtStMichel_DE-DE3578803710_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AssiniboineTS_DE-DE6120366928_1920x1080.jpg) 20241128 [download 4k](https://www.bing.com/th?id=OHR.AssiniboineTS_DE-DE6120366928_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SemoisRiver_DE-DE8856578235_1920x1080.jpg) 20241127 [download 4k](https://www.bing.com/th?id=OHR.SemoisRiver_DE-DE8856578235_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TrulliGrove_DE-DE7362573819_1920x1080.jpg) 20241126 [download 4k](https://www.bing.com/th?id=OHR.TrulliGrove_DE-DE7362573819_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.RegensburgChristmasMarket_DE-DE8576246094_1920x1080.jpg) 20241125 [download 4k](https://www.bing.com/th?id=OHR.RegensburgChristmasMarket_DE-DE8576246094_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SonomaCoast_DE-DE6907667505_1920x1080.jpg) 20241124 [download 4k](https://www.bing.com/th?id=OHR.SonomaCoast_DE-DE6907667505_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FibonacciAloe_DE-DE3602004497_1920x1080.jpg) 20241123 [download 4k](https://www.bing.com/th?id=OHR.FibonacciAloe_DE-DE3602004497_UHD.jpg) |

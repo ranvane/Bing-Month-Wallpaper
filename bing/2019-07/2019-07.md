@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LavaFlows_ZH-CN4235925500_1920x1080.jpg) 20190731 [download 4k](https://www.bing.com/th?id=OHR.LavaFlows_ZH-CN4235925500_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TreeTower_ZH-CN4181961177_1920x1080.jpg) 20190730 [download 4k](https://www.bing.com/th?id=OHR.TreeTower_ZH-CN4181961177_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TortoiseMigration_ZH-CN4128473636_1920x1080.jpg) 20190729 [download 4k](https://www.bing.com/th?id=OHR.TortoiseMigration_ZH-CN4128473636_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.TrilliumLake_ZH-CN4079462365_1920x1080.jpg) 20190728 [download 4k](https://www.bing.com/th?id=OHR.TrilliumLake_ZH-CN4079462365_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PuffinSkomer_ZH-CN4039641381_1920x1080.jpg) 20190727 [download 4k](https://www.bing.com/th?id=OHR.PuffinSkomer_ZH-CN4039641381_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CahuitaNP_ZH-CN3985565209_1920x1080.jpg) 20190726 [download 4k](https://www.bing.com/th?id=OHR.CahuitaNP_ZH-CN3985565209_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ElkFallsBridge_ZH-CN3921681387_1920x1080.jpg) 20190725 [download 4k](https://www.bing.com/th?id=OHR.ElkFallsBridge_ZH-CN3921681387_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CathedralMountBuffalo_ZH-CN4341947983_1920x1080.jpg) 20190724 [download 4k](https://www.bing.com/th?id=OHR.CathedralMountBuffalo_ZH-CN4341947983_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MeerkatMob_ZH-CN3788674757_1920x1080.jpg) 20190723 [download 4k](https://www.bing.com/th?id=OHR.MeerkatMob_ZH-CN3788674757_UHD.jpg) |

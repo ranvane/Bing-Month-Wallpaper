@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.StGeorgiRide_DE-DE6646277481_1920x1080.jpg) 20240401 [download 4k](https://www.bing.com/th?id=OHR.StGeorgiRide_DE-DE6646277481_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HungarianEggs_DE-DE6470935823_1920x1080.jpg) 20240331 [download 4k](https://www.bing.com/th?id=OHR.HungarianEggs_DE-DE6470935823_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PalazzoFarnese_DE-DE4941485496_1920x1080.jpg) 20240330 [download 4k](https://www.bing.com/th?id=OHR.PalazzoFarnese_DE-DE4941485496_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SouthStackLight_DE-DE4463746049_1920x1080.jpg) 20240329 [download 4k](https://www.bing.com/th?id=OHR.SouthStackLight_DE-DE4463746049_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_DE-DE4316919248_1920x1080.jpg) 20240328 [download 4k](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_DE-DE4316919248_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TeatroColon_DE-DE4190221983_1920x1080.jpg) 20240327 [download 4k](https://www.bing.com/th?id=OHR.TeatroColon_DE-DE4190221983_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HangRaiVietnam_DE-DE4086995351_1920x1080.jpg) 20240326 [download 4k](https://www.bing.com/th?id=OHR.HangRaiVietnam_DE-DE4086995351_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ColorfulHoli_DE-DE3992457522_1920x1080.jpg) 20240325 [download 4k](https://www.bing.com/th?id=OHR.ColorfulHoli_DE-DE3992457522_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ViewFieldsBavaria_DE-DE3928372966_1920x1080.jpg) 20240324 [download 4k](https://www.bing.com/th?id=OHR.ViewFieldsBavaria_DE-DE3928372966_UHD.jpg) |

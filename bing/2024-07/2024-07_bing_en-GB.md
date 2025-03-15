@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.KaptaiLake_EN-GB8876933727_1920x1080.jpg) 20240801 [download 4k](https://www.bing.com/th?id=OHR.KaptaiLake_EN-GB8876933727_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-GB8943105802_1920x1080.jpg) 20240731 [download 4k](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-GB8943105802_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-GB9009594859_1920x1080.jpg) 20240730 [download 4k](https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-GB9009594859_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CorbettTigers_EN-GB2931140045_1920x1080.jpg) 20240729 [download 4k](https://www.bing.com/th?id=OHR.CorbettTigers_EN-GB2931140045_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BeachHutsSweden_EN-GB2231886770_1920x1080.jpg) 20240728 [download 4k](https://www.bing.com/th?id=OHR.BeachHutsSweden_EN-GB2231886770_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CowesWeek2024_EN-GB1203003767_1920x1080.jpg) 20240727 [download 4k](https://www.bing.com/th?id=OHR.CowesWeek2024_EN-GB1203003767_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PontNeuf_EN-GB0058066250_1920x1080.jpg) 20240726 [download 4k](https://www.bing.com/th?id=OHR.PontNeuf_EN-GB0058066250_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SmokyMountainTrail_EN-GB9959939764_1920x1080.jpg) 20240725 [download 4k](https://www.bing.com/th?id=OHR.SmokyMountainTrail_EN-GB9959939764_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SheepCousins_EN-GB9631410299_1920x1080.jpg) 20240724 [download 4k](https://www.bing.com/th?id=OHR.SheepCousins_EN-GB9631410299_UHD.jpg) |

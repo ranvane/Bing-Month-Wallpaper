@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/LawnBowling_EN-US9431908630_1920x1080.jpg) 20180831 [download 4k](https://www.bing.com/az/hprichbg/rb/LawnBowling_EN-US9431908630_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/CastleFrankenstein_EN-US10077757350_1920x1080.jpg) 20180830 [download 4k](https://www.bing.com/az/hprichbg/rb/CastleFrankenstein_EN-US10077757350_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MasaiWildebeest_EN-US9949613366_1920x1080.jpg) 20180829 [download 4k](https://www.bing.com/az/hprichbg/rb/MasaiWildebeest_EN-US9949613366_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/Number2_EN-US12009255937_1920x1080.jpg) 20180828 [download 4k](https://www.bing.com/az/hprichbg/rb/Number2_EN-US12009255937_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Unisphere_EN-US7027287379_1920x1080.jpg) 20180827 [download 4k](https://www.bing.com/az/hprichbg/rb/Unisphere_EN-US7027287379_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/JeanLafitte_EN-US11428973003_1920x1080.jpg) 20180826 [download 4k](https://www.bing.com/az/hprichbg/rb/JeanLafitte_EN-US11428973003_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/JMT_EN-US11100456550_1920x1080.jpg) 20180825 [download 4k](https://www.bing.com/az/hprichbg/rb/JMT_EN-US11100456550_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/GatewayArchNP_EN-US13744808809_1920x1080.jpg) 20180824 [download 4k](https://www.bing.com/az/hprichbg/rb/GatewayArchNP_EN-US13744808809_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/AKSUP_EN-US13647640593_1920x1080.jpg) 20180823 [download 4k](https://www.bing.com/az/hprichbg/rb/AKSUP_EN-US13647640593_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_ES-ES8727705316_1920x1080.jpg) 20241101 [download 4k](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_ES-ES8727705316_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GargoyleParis_ES-ES3122762938_1920x1080.jpg) 20241031 [download 4k](https://www.bing.com/th?id=OHR.GargoyleParis_ES-ES3122762938_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HauntedEdinburgh_ES-ES3286905259_1920x1080.jpg) 20241030 [download 4k](https://www.bing.com/th?id=OHR.HauntedEdinburgh_ES-ES3286905259_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GreatOwl_ES-ES3211989343_1920x1080.jpg) 20241029 [download 4k](https://www.bing.com/th?id=OHR.GreatOwl_ES-ES3211989343_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GernikaAgriculturalFair_ES-ES3036304498_1920x1080.jpg) 20241028 [download 4k](https://www.bing.com/th?id=OHR.GernikaAgriculturalFair_ES-ES3036304498_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarBearHug_ES-ES2869289417_1920x1080.jpg) 20241027 [download 4k](https://www.bing.com/th?id=OHR.PolarBearHug_ES-ES2869289417_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GhostForest_ES-ES2765501989_1920x1080.jpg) 20241026 [download 4k](https://www.bing.com/th?id=OHR.GhostForest_ES-ES2765501989_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MontBlancMassif_ES-ES6175226361_1920x1080.jpg) 20241025 [download 4k](https://www.bing.com/th?id=OHR.MontBlancMassif_ES-ES6175226361_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BodieCalifornia_ES-ES5750296287_1920x1080.jpg) 20241024 [download 4k](https://www.bing.com/th?id=OHR.BodieCalifornia_ES-ES5750296287_UHD.jpg) |

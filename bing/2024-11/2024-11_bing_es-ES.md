@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_ES-ES3608779732_1920x1080.jpg) 20241201 [download 4k](https://www.bing.com/th?id=OHR.IcebergsAntarctica_ES-ES3608779732_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KilchurnAutumn_ES-ES3399855267_1920x1080.jpg) 20241130 [download 4k](https://www.bing.com/th?id=OHR.KilchurnAutumn_ES-ES3399855267_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtStMichel_ES-ES3063344602_1920x1080.jpg) 20241129 [download 4k](https://www.bing.com/th?id=OHR.MtStMichel_ES-ES3063344602_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AssiniboineTS_ES-ES3697439529_1920x1080.jpg) 20241128 [download 4k](https://www.bing.com/th?id=OHR.AssiniboineTS_ES-ES3697439529_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SemoisRiver_ES-ES3444393596_1920x1080.jpg) 20241127 [download 4k](https://www.bing.com/th?id=OHR.SemoisRiver_ES-ES3444393596_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TrulliGrove_ES-ES3236734802_1920x1080.jpg) 20241126 [download 4k](https://www.bing.com/th?id=OHR.TrulliGrove_ES-ES3236734802_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_ES-ES5878697343_1920x1080.jpg) 20241125 [download 4k](https://www.bing.com/th?id=OHR.AmboseliGiraffes_ES-ES5878697343_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DavisCupFinalsMalaga_ES-ES2847450969_1920x1080.jpg) 20241124 [download 4k](https://www.bing.com/th?id=OHR.DavisCupFinalsMalaga_ES-ES2847450969_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FibonacciAloe_ES-ES2796098950_1920x1080.jpg) 20241123 [download 4k](https://www.bing.com/th?id=OHR.FibonacciAloe_ES-ES2796098950_UHD.jpg) |

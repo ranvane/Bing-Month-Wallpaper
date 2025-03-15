@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.WolfPup_EN-US2607981923_1920x1080.jpg) 20200531 [download 4k](https://www.bing.com/th?id=OHR.WolfPup_EN-US2607981923_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SantaCruzRiver_EN-US2549480300_1920x1080.jpg) 20200530 [download 4k](https://www.bing.com/th?id=OHR.SantaCruzRiver_EN-US2549480300_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MarleyBeach_EN-US2494809879_1920x1080.jpg) 20200529 [download 4k](https://www.bing.com/th?id=OHR.MarleyBeach_EN-US2494809879_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.OldManWhiskers_EN-US2440561174_1920x1080.jpg) 20200528 [download 4k](https://www.bing.com/th?id=OHR.OldManWhiskers_EN-US2440561174_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EvergladesShowers_EN-US2388821919_1920x1080.jpg) 20200527 [download 4k](https://www.bing.com/th?id=OHR.EvergladesShowers_EN-US2388821919_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CheetahCubs_EN-US2332035796_1920x1080.jpg) 20200526 [download 4k](https://www.bing.com/th?id=OHR.CheetahCubs_EN-US2332035796_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FreedomWall_EN-US2277219831_1920x1080.jpg) 20200525 [download 4k](https://www.bing.com/th?id=OHR.FreedomWall_EN-US2277219831_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GreenanMaze_EN-US2220471188_1920x1080.jpg) 20200524 [download 4k](https://www.bing.com/th?id=OHR.GreenanMaze_EN-US2220471188_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SunSalutation_EN-US2164003866_1920x1080.jpg) 20200523 [download 4k](https://www.bing.com/th?id=OHR.SunSalutation_EN-US2164003866_UHD.jpg) |

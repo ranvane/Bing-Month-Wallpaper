@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LavaShip_ZH-CN3924445486_1920x1080.jpg) 20200731 [download 4k](https://www.bing.com/th?id=OHR.LavaShip_ZH-CN3924445486_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TahoeBeach_ZH-CN3786728560_1920x1080.jpg) 20200730 [download 4k](https://www.bing.com/th?id=OHR.TahoeBeach_ZH-CN3786728560_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HamerkopHunting_ZH-CN3632585255_1920x1080.jpg) 20200729 [download 4k](https://www.bing.com/th?id=OHR.HamerkopHunting_ZH-CN3632585255_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.KallurLighthouse_ZH-CN3407251246_1920x1080.jpg) 20200728 [download 4k](https://www.bing.com/th?id=OHR.KallurLighthouse_ZH-CN3407251246_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HamelinPool_ZH-CN3309979763_1920x1080.jpg) 20200727 [download 4k](https://www.bing.com/th?id=OHR.HamelinPool_ZH-CN3309979763_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AerialTamul_ZH-CN3164679201_1920x1080.jpg) 20200726 [download 4k](https://www.bing.com/th?id=OHR.AerialTamul_ZH-CN3164679201_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.WheatCastilla_ZH-CN2814576294_1920x1080.jpg) 20200725 [download 4k](https://www.bing.com/th?id=OHR.WheatCastilla_ZH-CN2814576294_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RedSailboat_ZH-CN2386102503_1920x1080.jpg) 20200724 [download 4k](https://www.bing.com/th?id=OHR.RedSailboat_ZH-CN2386102503_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KapamaCousins_ZH-CN2164304882_1920x1080.jpg) 20200723 [download 4k](https://www.bing.com/th?id=OHR.KapamaCousins_ZH-CN2164304882_UHD.jpg) |

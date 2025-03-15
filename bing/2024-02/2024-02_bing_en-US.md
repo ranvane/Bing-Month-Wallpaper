@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-US3514581405_1920x1080.jpg) 20240301 [download 4k](https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-US3514581405_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_1920x1080.jpg) 20240229 [download 4k](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_1920x1080.jpg) 20240228 [download 4k](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_1920x1080.jpg) 20240227 [download 4k](https://www.bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_1920x1080.jpg) 20240226 [download 4k](https://www.bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_1920x1080.jpg) 20240225 [download 4k](https://www.bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_1920x1080.jpg) 20240224 [download 4k](https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_1920x1080.jpg) 20240223 [download 4k](https://www.bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_1920x1080.jpg) 20240222 [download 4k](https://www.bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg) |

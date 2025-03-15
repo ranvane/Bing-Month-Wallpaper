@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HighTrestleTrail_ZH-CN4499525731_1920x1080.jpg) 20190531 [download 4k](https://www.bing.com/th?id=OHR.HighTrestleTrail_ZH-CN4499525731_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ZumwaltPrairie_ZH-CN4572430876_1920x1080.jpg) 20190530 [download 4k](https://www.bing.com/th?id=OHR.ZumwaltPrairie_ZH-CN4572430876_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Manhattanhenge_ZH-CN4659585143_1920x1080.jpg) 20190529 [download 4k](https://www.bing.com/th?id=OHR.Manhattanhenge_ZH-CN4659585143_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BlumenwieseNRW_ZH-CN4774429225_1920x1080.jpg) 20190528 [download 4k](https://www.bing.com/th?id=OHR.BlumenwieseNRW_ZH-CN4774429225_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NFLDfog_ZH-CN4846953507_1920x1080.jpg) 20190527 [download 4k](https://www.bing.com/th?id=OHR.NFLDfog_ZH-CN4846953507_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PittingGalesPoint_ZH-CN4893591142_1920x1080.jpg) 20190526 [download 4k](https://www.bing.com/th?id=OHR.PittingGalesPoint_ZH-CN4893591142_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MarathonduMont_ZH-CN5049722437_1920x1080.jpg) 20190525 [download 4k](https://www.bing.com/th?id=OHR.MarathonduMont_ZH-CN5049722437_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CapeMayWarbler_ZH-CN5148312890_1920x1080.jpg) 20190524 [download 4k](https://www.bing.com/th?id=OHR.CapeMayWarbler_ZH-CN5148312890_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MacmillanForest_ZH-CN5295176479_1920x1080.jpg) 20190523 [download 4k](https://www.bing.com/th?id=OHR.MacmillanForest_ZH-CN5295176479_UHD.jpg) |

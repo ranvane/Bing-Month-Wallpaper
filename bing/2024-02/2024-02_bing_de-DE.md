@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.Schmetterlingswiese_DE-DE0613438088_1920x1080.jpg) 20240301 [download 4k](https://www.bing.com/th?id=OHR.Schmetterlingswiese_DE-DE0613438088_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LeapingSquirrel_DE-DE7623766811_1920x1080.jpg) 20240229 [download 4k](https://www.bing.com/th?id=OHR.LeapingSquirrel_DE-DE7623766811_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BamburghCastleUK_DE-DE7368019020_1920x1080.jpg) 20240228 [download 4k](https://www.bing.com/th?id=OHR.BamburghCastleUK_DE-DE7368019020_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PolarBearCubs_DE-DE7089509348_1920x1080.jpg) 20240227 [download 4k](https://www.bing.com/th?id=OHR.PolarBearCubs_DE-DE7089509348_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GrandCanyonWinter_DE-DE6805018652_1920x1080.jpg) 20240226 [download 4k](https://www.bing.com/th?id=OHR.GrandCanyonWinter_DE-DE6805018652_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtPrevostDuncan_DE-DE5893806279_1920x1080.jpg) 20240225 [download 4k](https://www.bing.com/th?id=OHR.MtPrevostDuncan_DE-DE5893806279_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HanselGretelHouse_DE-DE6769523400_1920x1080.jpg) 20240224 [download 4k](https://www.bing.com/th?id=OHR.HanselGretelHouse_DE-DE6769523400_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HaghartsinMonastery_DE-DE6295908879_1920x1080.jpg) 20240223 [download 4k](https://www.bing.com/th?id=OHR.HaghartsinMonastery_DE-DE6295908879_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FrozenSoapBubble_DE-DE1646022530_1920x1080.jpg) 20240222 [download 4k](https://www.bing.com/th?id=OHR.FrozenSoapBubble_DE-DE1646022530_UHD.jpg) |

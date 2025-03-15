@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-GB2689906608_1920x1080.jpg) 20240101 [download 4k](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-GB2689906608_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TadamiWinter_EN-GB2259719616_1920x1080.jpg) 20231231 [download 4k](https://www.bing.com/th?id=OHR.TadamiWinter_EN-GB2259719616_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HogmanayFireworksSoctland_EN-GB9543718054_1920x1080.jpg) 20231230 [download 4k](https://www.bing.com/th?id=OHR.HogmanayFireworksSoctland_EN-GB9543718054_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GreenlandHumpback_EN-GB8931241370_1920x1080.jpg) 20231229 [download 4k](https://www.bing.com/th?id=OHR.GreenlandHumpback_EN-GB8931241370_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KirkjufellAurora_EN-GB8700754244_1920x1080.jpg) 20231228 [download 4k](https://www.bing.com/th?id=OHR.KirkjufellAurora_EN-GB8700754244_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PrincesStreetEdinburgh_EN-GB8368350415_1920x1080.jpg) 20231227 [download 4k](https://www.bing.com/th?id=OHR.PrincesStreetEdinburgh_EN-GB8368350415_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CaribouChristmas_EN-GB8094592900_1920x1080.jpg) 20231226 [download 4k](https://www.bing.com/th?id=OHR.CaribouChristmas_EN-GB8094592900_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EstoniaXmasEve_EN-GB7635389506_1920x1080.jpg) 20231225 [download 4k](https://www.bing.com/th?id=OHR.EstoniaXmasEve_EN-GB7635389506_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FestivusPenguins_EN-GB7349626614_1920x1080.jpg) 20231224 [download 4k](https://www.bing.com/th?id=OHR.FestivusPenguins_EN-GB7349626614_UHD.jpg) |

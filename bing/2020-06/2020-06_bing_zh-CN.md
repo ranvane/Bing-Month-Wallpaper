@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LakeMoraineVideo_ZH-CN5910090911_1920x1080.jpg) 20200630 [download 4k](https://www.bing.com/th?id=OHR.LakeMoraineVideo_ZH-CN5910090911_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BojoRiver_ZH-CN5454106636_1920x1080.jpg) 20200629 [download 4k](https://www.bing.com/th?id=OHR.BojoRiver_ZH-CN5454106636_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ArganGoats_ZH-CN5346845518_1920x1080.jpg) 20200628 [download 4k](https://www.bing.com/th?id=OHR.ArganGoats_ZH-CN5346845518_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FoggyCastle_ZH-CN6799694629_1920x1080.jpg) 20200627 [download 4k](https://www.bing.com/th?id=OHR.FoggyCastle_ZH-CN6799694629_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtBaldoSantuario_ZH-CN2301293454_1920x1080.jpg) 20200626 [download 4k](https://www.bing.com/th?id=OHR.MtBaldoSantuario_ZH-CN2301293454_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AdansoniaGrandidieri_ZH-CN1154912052_1920x1080.jpg) 20200625 [download 4k](https://www.bing.com/th?id=OHR.AdansoniaGrandidieri_ZH-CN1154912052_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.duanwu2020_ZH-CN0965379603_1920x1080.jpg) 20200624 [download 4k](https://www.bing.com/th?id=OHR.duanwu2020_ZH-CN0965379603_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RhodesIsland_ZH-CN0674840850_1920x1080.jpg) 20200623 [download 4k](https://www.bing.com/th?id=OHR.RhodesIsland_ZH-CN0674840850_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BullPoint_ZH-CN0520993795_1920x1080.jpg) 20200622 [download 4k](https://www.bing.com/th?id=OHR.BullPoint_ZH-CN0520993795_UHD.jpg) |

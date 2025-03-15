@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.CancaoDoExilio_ZH-CN1012675104_1920x1080.jpg) 20240601 [download 4k](https://www.bing.com/th?id=OHR.CancaoDoExilio_ZH-CN1012675104_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_ZH-CN0775378262_1920x1080.jpg) 20240531 [download 4k](https://www.bing.com/th?id=OHR.YorkshireDalesNP_ZH-CN0775378262_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Everglades90th_ZH-CN9853372570_1920x1080.jpg) 20240530 [download 4k](https://www.bing.com/th?id=OHR.Everglades90th_ZH-CN9853372570_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MullOtter_ZH-CN9691813587_1920x1080.jpg) 20240529 [download 4k](https://www.bing.com/th?id=OHR.MullOtter_ZH-CN9691813587_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MeteoraMonastery_ZH-CN9551991708_1920x1080.jpg) 20240528 [download 4k](https://www.bing.com/th?id=OHR.MeteoraMonastery_ZH-CN9551991708_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SestriLevante_ZH-CN9286254645_1920x1080.jpg) 20240527 [download 4k](https://www.bing.com/th?id=OHR.SestriLevante_ZH-CN9286254645_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MethowWildflowers_ZH-CN8926661958_1920x1080.jpg) 20240526 [download 4k](https://www.bing.com/th?id=OHR.MethowWildflowers_ZH-CN8926661958_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_ZH-CN8742267428_1920x1080.jpg) 20240525 [download 4k](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_ZH-CN8742267428_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OrdesaNationalPark_ZH-CN8545620273_1920x1080.jpg) 20240524 [download 4k](https://www.bing.com/th?id=OHR.OrdesaNationalPark_ZH-CN8545620273_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.Nebuta2024_JA-JP7778073736_1920x1080.jpg) 20240801 [download 4k](https://www.bing.com/th?id=OHR.Nebuta2024_JA-JP7778073736_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HoodoosBryce_JA-JP7560776836_1920x1080.jpg) 20240731 [download 4k](https://www.bing.com/th?id=OHR.HoodoosBryce_JA-JP7560776836_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GimignanoTuscany_JA-JP7399834117_1920x1080.jpg) 20240730 [download 4k](https://www.bing.com/th?id=OHR.GimignanoTuscany_JA-JP7399834117_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CorbettTigers_JA-JP7161301838_1920x1080.jpg) 20240729 [download 4k](https://www.bing.com/th?id=OHR.CorbettTigers_JA-JP7161301838_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BeachHutsSweden_JA-JP6949327574_1920x1080.jpg) 20240728 [download 4k](https://www.bing.com/th?id=OHR.BeachHutsSweden_JA-JP6949327574_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RhinelandVineyards_JA-JP6772337865_1920x1080.jpg) 20240727 [download 4k](https://www.bing.com/th?id=OHR.RhinelandVineyards_JA-JP6772337865_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PontNeuf_JA-JP6539297380_1920x1080.jpg) 20240726 [download 4k](https://www.bing.com/th?id=OHR.PontNeuf_JA-JP6539297380_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SmokyMountainTrail_JA-JP3526148027_1920x1080.jpg) 20240725 [download 4k](https://www.bing.com/th?id=OHR.SmokyMountainTrail_JA-JP3526148027_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WindBell2024_JA-JP3427351394_1920x1080.jpg) 20240724 [download 4k](https://www.bing.com/th?id=OHR.WindBell2024_JA-JP3427351394_UHD.jpg) |

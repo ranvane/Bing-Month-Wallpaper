@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_1920x1080.jpg) 20241201 [download 4k](https://www.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KilchurnAutumn_ZH-CN2547959725_1920x1080.jpg) 20241130 [download 4k](https://www.bing.com/th?id=OHR.KilchurnAutumn_ZH-CN2547959725_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtStMichel_ZH-CN1232662142_1920x1080.jpg) 20241129 [download 4k](https://www.bing.com/th?id=OHR.MtStMichel_ZH-CN1232662142_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AssiniboineTS_ZH-CN9936042562_1920x1080.jpg) 20241128 [download 4k](https://www.bing.com/th?id=OHR.AssiniboineTS_ZH-CN9936042562_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_1920x1080.jpg) 20241127 [download 4k](https://www.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TrulliGrove_ZH-CN9519400567_1920x1080.jpg) 20241126 [download 4k](https://www.bing.com/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_1920x1080.jpg) 20241125 [download 4k](https://www.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_1920x1080.jpg) 20241124 [download 4k](https://www.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FibonacciAloe_ZH-CN8974137481_1920x1080.jpg) 20241123 [download 4k](https://www.bing.com/th?id=OHR.FibonacciAloe_ZH-CN8974137481_UHD.jpg) |

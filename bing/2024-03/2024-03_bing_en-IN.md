@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-IN6555201202_1920x1080.jpg) 20240401 [download 4k](https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-IN6555201202_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HungarianEggs_EN-IN6319733019_1920x1080.jpg) 20240331 [download 4k](https://www.bing.com/th?id=OHR.HungarianEggs_EN-IN6319733019_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SleepySloth_EN-IN4281443663_1920x1080.jpg) 20240330 [download 4k](https://www.bing.com/th?id=OHR.SleepySloth_EN-IN4281443663_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SouthStackLight_EN-IN3270278933_1920x1080.jpg) 20240329 [download 4k](https://www.bing.com/th?id=OHR.SouthStackLight_EN-IN3270278933_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-IN2648888544_1920x1080.jpg) 20240328 [download 4k](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-IN2648888544_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AmerFortJaipur_EN-IN2082526909_1920x1080.jpg) 20240327 [download 4k](https://www.bing.com/th?id=OHR.AmerFortJaipur_EN-IN2082526909_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HangRaiVietnam_EN-IN1740946404_1920x1080.jpg) 20240326 [download 4k](https://www.bing.com/th?id=OHR.HangRaiVietnam_EN-IN1740946404_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ColorfulHoli_EN-IN1408702608_1920x1080.jpg) 20240325 [download 4k](https://www.bing.com/th?id=OHR.ColorfulHoli_EN-IN1408702608_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WhiteEyes_EN-IN1161324930_1920x1080.jpg) 20240324 [download 4k](https://www.bing.com/th?id=OHR.WhiteEyes_EN-IN1161324930_UHD.jpg) |

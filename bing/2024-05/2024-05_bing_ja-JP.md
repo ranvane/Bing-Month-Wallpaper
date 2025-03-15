@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PrideMonthSF_JA-JP2832342132_1920x1080.jpg) 20240601 [download 4k](https://www.bing.com/th?id=OHR.PrideMonthSF_JA-JP2832342132_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_JA-JP2753526222_1920x1080.jpg) 20240531 [download 4k](https://www.bing.com/th?id=OHR.YorkshireDalesNP_JA-JP2753526222_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Everglades90th_JA-JP3090725626_1920x1080.jpg) 20240530 [download 4k](https://www.bing.com/th?id=OHR.Everglades90th_JA-JP3090725626_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MullOtter_JA-JP2913567009_1920x1080.jpg) 20240529 [download 4k](https://www.bing.com/th?id=OHR.MullOtter_JA-JP2913567009_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MeteoraMonastery_JA-JP2717990749_1920x1080.jpg) 20240528 [download 4k](https://www.bing.com/th?id=OHR.MeteoraMonastery_JA-JP2717990749_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HedgehogMeadow_JA-JP0023153078_1920x1080.jpg) 20240527 [download 4k](https://www.bing.com/th?id=OHR.HedgehogMeadow_JA-JP0023153078_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MethowWildflowers_JA-JP2117575252_1920x1080.jpg) 20240526 [download 4k](https://www.bing.com/th?id=OHR.MethowWildflowers_JA-JP2117575252_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_JA-JP1858999164_1920x1080.jpg) 20240525 [download 4k](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_JA-JP1858999164_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OrdesaNationalPark_JA-JP1484731643_1920x1080.jpg) 20240524 [download 4k](https://www.bing.com/th?id=OHR.OrdesaNationalPark_JA-JP1484731643_UHD.jpg) |

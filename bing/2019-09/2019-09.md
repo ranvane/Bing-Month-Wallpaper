@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.NationalDay70_ZH-CN1636316274_1920x1080.jpg) 20190930 [download 4k](https://www.bing.com/th?id=OHR.NationalDay70_ZH-CN1636316274_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CrimsonRosella_ZH-CN1581892400_1920x1080.jpg) 20190929 [download 4k](https://www.bing.com/th?id=OHR.CrimsonRosella_ZH-CN1581892400_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ClavijoLandscape_ZH-CN1525245124_1920x1080.jpg) 20190928 [download 4k](https://www.bing.com/th?id=OHR.ClavijoLandscape_ZH-CN1525245124_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BloomingJacaranda_ZH-CN1456780313_1920x1080.jpg) 20190927 [download 4k](https://www.bing.com/th?id=OHR.BloomingJacaranda_ZH-CN1456780313_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BardenasDesert_ZH-CN1357611840_1920x1080.jpg) 20190926 [download 4k](https://www.bing.com/th?id=OHR.BardenasDesert_ZH-CN1357611840_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ThePando_ZH-CN5991870639_1920x1080.jpg) 20190925 [download 4k](https://www.bing.com/th?id=OHR.ThePando_ZH-CN5991870639_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.LofotenSurfing_ZH-CN5901239545_1920x1080.jpg) 20190924 [download 4k](https://www.bing.com/th?id=OHR.LofotenSurfing_ZH-CN5901239545_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.UgandaGorilla_ZH-CN5826117482_1920x1080.jpg) 20190923 [download 4k](https://www.bing.com/th?id=OHR.UgandaGorilla_ZH-CN5826117482_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FeatherSerpent_ZH-CN5706017355_1920x1080.jpg) 20190922 [download 4k](https://www.bing.com/th?id=OHR.FeatherSerpent_ZH-CN5706017355_UHD.jpg) |

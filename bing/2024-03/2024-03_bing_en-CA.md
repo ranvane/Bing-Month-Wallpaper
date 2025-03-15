@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HungarianEggs_EN-CA7704543588_1920x1080.jpg) 20240401 [download 4k](https://www.bing.com/th?id=OHR.HungarianEggs_EN-CA7704543588_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SleepySloth_EN-CA8767906433_1920x1080.jpg) 20240331 [download 4k](https://www.bing.com/th?id=OHR.SleepySloth_EN-CA8767906433_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SouthStackLight_EN-CA7056549595_1920x1080.jpg) 20240330 [download 4k](https://www.bing.com/th?id=OHR.SouthStackLight_EN-CA7056549595_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-CA6737374745_1920x1080.jpg) 20240329 [download 4k](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-CA6737374745_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TeatroColon_EN-CA3441577861_1920x1080.jpg) 20240328 [download 4k](https://www.bing.com/th?id=OHR.TeatroColon_EN-CA3441577861_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HangRaiVietnam_EN-CA5331953765_1920x1080.jpg) 20240327 [download 4k](https://www.bing.com/th?id=OHR.HangRaiVietnam_EN-CA5331953765_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ColorfulHoli_EN-CA4586969756_1920x1080.jpg) 20240326 [download 4k](https://www.bing.com/th?id=OHR.ColorfulHoli_EN-CA4586969756_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WhiteEyes_EN-CA4348567130_1920x1080.jpg) 20240325 [download 4k](https://www.bing.com/th?id=OHR.WhiteEyes_EN-CA4348567130_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AmazonClouds_EN-CA3850474208_1920x1080.jpg) 20240324 [download 4k](https://www.bing.com/th?id=OHR.AmazonClouds_EN-CA3850474208_UHD.jpg) |

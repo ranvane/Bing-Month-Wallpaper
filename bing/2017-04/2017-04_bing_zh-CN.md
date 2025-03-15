@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-04)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/NHMElephants_ZH-CN9810396474_1920x1080.jpg) 20170430 [download 4k](https://www.bing.com/az/hprichbg/rb/NHMElephants_ZH-CN9810396474_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SouthMoravian_ZH-CN13384331455_1920x1080.jpg) 20170429 [download 4k](https://www.bing.com/az/hprichbg/rb/SouthMoravian_ZH-CN13384331455_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SoundSuits_ZH-CN11561095548_1920x1080.jpg) 20170428 [download 4k](https://www.bing.com/az/hprichbg/rb/SoundSuits_ZH-CN11561095548_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/SproutVideo_ZH-CN11890393462_1920x1080.jpg) 20170427 [download 4k](https://www.bing.com/az/hprichbg/rb/SproutVideo_ZH-CN11890393462_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SaronicGulf_ZH-CN8379891695_1920x1080.jpg) 20170426 [download 4k](https://www.bing.com/az/hprichbg/rb/SaronicGulf_ZH-CN8379891695_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/CivitadiBagnoregio_ZH-CN12942138675_1920x1080.jpg) 20170425 [download 4k](https://www.bing.com/az/hprichbg/rb/CivitadiBagnoregio_ZH-CN12942138675_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/AfricaWeaverbirds_ZH-CN9479498858_1920x1080.jpg) 20170424 [download 4k](https://www.bing.com/az/hprichbg/rb/AfricaWeaverbirds_ZH-CN9479498858_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/AlbertaTeepee_ZH-CN11572775476_1920x1080.jpg) 20170423 [download 4k](https://www.bing.com/az/hprichbg/rb/AlbertaTeepee_ZH-CN11572775476_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MirrorBeach_ZH-CN12835554220_1920x1080.jpg) 20170422 [download 4k](https://www.bing.com/az/hprichbg/rb/MirrorBeach_ZH-CN12835554220_UHD.jpg) |

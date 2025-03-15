@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.NationalDay2022_ZH-CN3861603311_1920x1080.jpg) 20221001 [download 4k](https://www.bing.com/th?id=OHR.NationalDay2022_ZH-CN3861603311_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_1920x1080.jpg) 20220930 [download 4k](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.JohnstonWater_ZH-CN3121890365_1920x1080.jpg) 20220929 [download 4k](https://www.bing.com/th?id=OHR.JohnstonWater_ZH-CN3121890365_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_1920x1080.jpg) 20220928 [download 4k](https://www.bing.com/th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YellowstoneUGB_ZH-CN2518690319_1920x1080.jpg) 20220927 [download 4k](https://www.bing.com/th?id=OHR.YellowstoneUGB_ZH-CN2518690319_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SusitnaRiver_ZH-CN2317772890_1920x1080.jpg) 20220926 [download 4k](https://www.bing.com/th?id=OHR.SusitnaRiver_ZH-CN2317772890_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AmazonMangroves_ZH-CN2154443859_1920x1080.jpg) 20220925 [download 4k](https://www.bing.com/th?id=OHR.AmazonMangroves_ZH-CN2154443859_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_1920x1080.jpg) 20220924 [download 4k](https://www.bing.com/th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LastDollarRoad_ZH-CN1462265798_1920x1080.jpg) 20220923 [download 4k](https://www.bing.com/th?id=OHR.LastDollarRoad_ZH-CN1462265798_UHD.jpg) |

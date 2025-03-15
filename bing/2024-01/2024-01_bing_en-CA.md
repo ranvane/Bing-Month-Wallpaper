@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ZebraMother_EN-CA5020659638_1920x1080.jpg) 20240201 [download 4k](https://www.bing.com/th?id=OHR.ZebraMother_EN-CA5020659638_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-CA6620755478_1920x1080.jpg) 20240131 [download 4k](https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-CA6620755478_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GollingerFalls_EN-CA5492770721_1920x1080.jpg) 20240130 [download 4k](https://www.bing.com/th?id=OHR.GollingerFalls_EN-CA5492770721_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ChannelOutback_EN-CA2352335616_1920x1080.jpg) 20240129 [download 4k](https://www.bing.com/th?id=OHR.ChannelOutback_EN-CA2352335616_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WinterCarnival_EN-CA1750388118_1920x1080.jpg) 20240128 [download 4k](https://www.bing.com/th?id=OHR.WinterCarnival_EN-CA1750388118_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HawkOwl_EN-CA9957367188_1920x1080.jpg) 20240127 [download 4k](https://www.bing.com/th?id=OHR.HawkOwl_EN-CA9957367188_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SnowyOwlQuebec_EN-CA1326772856_1920x1080.jpg) 20240126 [download 4k](https://www.bing.com/th?id=OHR.SnowyOwlQuebec_EN-CA1326772856_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IcelandBeach_EN-CA0939804104_1920x1080.jpg) 20240125 [download 4k](https://www.bing.com/th?id=OHR.IcelandBeach_EN-CA0939804104_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-CA0649098426_1920x1080.jpg) 20240124 [download 4k](https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-CA0649098426_UHD.jpg) |

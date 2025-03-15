@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.GreyLady_EN-US0986534396_1920x1080.jpg) 20201031 [download 4k](https://www.bing.com/th?id=OHR.GreyLady_EN-US0986534396_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FishOwl_EN-US0921851280_1920x1080.jpg) 20201030 [download 4k](https://www.bing.com/th?id=OHR.FishOwl_EN-US0921851280_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Mazezilla_EN-US0859018469_1920x1080.jpg) 20201029 [download 4k](https://www.bing.com/th?id=OHR.Mazezilla_EN-US0859018469_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BasilicaVoto_EN-US0798981928_1920x1080.jpg) 20201028 [download 4k](https://www.bing.com/th?id=OHR.BasilicaVoto_EN-US0798981928_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CambronBridge_EN-US0717455259_1920x1080.jpg) 20201027 [download 4k](https://www.bing.com/th?id=OHR.CambronBridge_EN-US0717455259_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CorfeDorset_EN-US9572315101_1920x1080.jpg) 20201026 [download 4k](https://www.bing.com/th?id=OHR.CorfeDorset_EN-US9572315101_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BCPumpkins_EN-US0587350936_1920x1080.jpg) 20201025 [download 4k](https://www.bing.com/th?id=OHR.BCPumpkins_EN-US0587350936_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.UNBuilding_EN-US0522265387_1920x1080.jpg) 20201024 [download 4k](https://www.bing.com/th?id=OHR.UNBuilding_EN-US0522265387_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BentsGeneral_EN-US0472253814_1920x1080.jpg) 20201023 [download 4k](https://www.bing.com/th?id=OHR.BentsGeneral_EN-US0472253814_UHD.jpg) |

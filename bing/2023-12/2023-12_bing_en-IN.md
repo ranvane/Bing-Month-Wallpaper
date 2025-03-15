@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.SleepingFox_EN-IN4256691389_1920x1080.jpg) 20240101 [download 4k](https://www.bing.com/th?id=OHR.SleepingFox_EN-IN4256691389_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-IN4004784311_1920x1080.jpg) 20231231 [download 4k](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-IN4004784311_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TadamiWinter_EN-IN3654080004_1920x1080.jpg) 20231230 [download 4k](https://www.bing.com/th?id=OHR.TadamiWinter_EN-IN3654080004_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BlueAmsterdam_EN-IN3729532166_1920x1080.jpg) 20231229 [download 4k](https://www.bing.com/th?id=OHR.BlueAmsterdam_EN-IN3729532166_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GreenlandHumpback_EN-IN1483671844_1920x1080.jpg) 20231228 [download 4k](https://www.bing.com/th?id=OHR.GreenlandHumpback_EN-IN1483671844_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KirkjufellAurora_EN-IN0930050121_1920x1080.jpg) 20231227 [download 4k](https://www.bing.com/th?id=OHR.KirkjufellAurora_EN-IN0930050121_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SanchiStupaMP_EN-IN0719147985_1920x1080.jpg) 20231226 [download 4k](https://www.bing.com/th?id=OHR.SanchiStupaMP_EN-IN0719147985_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CaribouChristmas_EN-IN0496241827_1920x1080.jpg) 20231225 [download 4k](https://www.bing.com/th?id=OHR.CaribouChristmas_EN-IN0496241827_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EstoniaXmasEve_EN-IN6293418304_1920x1080.jpg) 20231224 [download 4k](https://www.bing.com/th?id=OHR.EstoniaXmasEve_EN-IN6293418304_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ZebraTrio_EN-US4742257683_1920x1080.jpg) 20230201 [download 4k](https://www.bing.com/th?id=OHR.ZebraTrio_EN-US4742257683_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_1920x1080.jpg) 20230131 [download 4k](https://www.bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BlackbirdDay_EN-US2693700478_1920x1080.jpg) 20230130 [download 4k](https://www.bing.com/th?id=OHR.BlackbirdDay_EN-US2693700478_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BlueBahamas_EN-US2634514272_1920x1080.jpg) 20230129 [download 4k](https://www.bing.com/th?id=OHR.BlueBahamas_EN-US2634514272_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RedMangrove_EN-US2559915803_1920x1080.jpg) 20230128 [download 4k](https://www.bing.com/th?id=OHR.RedMangrove_EN-US2559915803_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HighArchChina_EN-US3519227219_1920x1080.jpg) 20230127 [download 4k](https://www.bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_1920x1080.jpg) 20230126 [download 4k](https://www.bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_1920x1080.jpg) 20230125 [download 4k](https://www.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SunriseMoai_EN-US2278287529_1920x1080.jpg) 20230124 [download 4k](https://www.bing.com/th?id=OHR.SunriseMoai_EN-US2278287529_UHD.jpg) |

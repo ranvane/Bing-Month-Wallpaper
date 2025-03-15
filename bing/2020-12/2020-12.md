@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LoonyDook_ZH-CN1879420705_1920x1080.jpg) 20201231 [download 4k](https://www.bing.com/th?id=OHR.LoonyDook_ZH-CN1879420705_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ZaragozaSpain_ZH-CN8995859415_1920x1080.jpg) 20201230 [download 4k](https://www.bing.com/th?id=OHR.ZaragozaSpain_ZH-CN8995859415_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WinterBryce_ZH-CN8874624326_1920x1080.jpg) 20201229 [download 4k](https://www.bing.com/th?id=OHR.WinterBryce_ZH-CN8874624326_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.LucerneHoliday_ZH-CN8762232954_1920x1080.jpg) 20201228 [download 4k](https://www.bing.com/th?id=OHR.LucerneHoliday_ZH-CN8762232954_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CanadaLynx_ZH-CN8645816958_1920x1080.jpg) 20201227 [download 4k](https://www.bing.com/th?id=OHR.CanadaLynx_ZH-CN8645816958_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IbonPlan_ZH-CN8564017247_1920x1080.jpg) 20201226 [download 4k](https://www.bing.com/th?id=OHR.IbonPlan_ZH-CN8564017247_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BarnettsDemesne_ZH-CN8484261440_1920x1080.jpg) 20201225 [download 4k](https://www.bing.com/th?id=OHR.BarnettsDemesne_ZH-CN8484261440_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FRbluebirds_ZH-CN3972483010_1920x1080.jpg) 20201224 [download 4k](https://www.bing.com/th?id=OHR.FRbluebirds_ZH-CN3972483010_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WildReindeer_ZH-CN8301029606_1920x1080.jpg) 20201223 [download 4k](https://www.bing.com/th?id=OHR.WildReindeer_ZH-CN8301029606_UHD.jpg) |

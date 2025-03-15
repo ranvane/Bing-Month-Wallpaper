@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/MtTamVideo_EN-US10798436683_1920x1080.jpg) 20170531 [download 4k](https://www.bing.com/az/hprichbg/rb/MtTamVideo_EN-US10798436683_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TempleStreet_EN-US6964048300_1920x1080.jpg) 20170530 [download 4k](https://www.bing.com/az/hprichbg/rb/TempleStreet_EN-US6964048300_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ArlingtonDrone_EN-US12840808174_1920x1080.jpg) 20170529 [download 4k](https://www.bing.com/az/hprichbg/rb/ArlingtonDrone_EN-US12840808174_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/MataderoBridge_EN-US9215461155_1920x1080.jpg) 20170528 [download 4k](https://www.bing.com/az/hprichbg/rb/MataderoBridge_EN-US9215461155_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BromoJava_EN-US13327758529_1920x1080.jpg) 20170527 [download 4k](https://www.bing.com/az/hprichbg/rb/BromoJava_EN-US13327758529_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Fiddleheads_EN-US12581425191_1920x1080.jpg) 20170526 [download 4k](https://www.bing.com/az/hprichbg/rb/Fiddleheads_EN-US12581425191_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/PyramidsOfMeroe_EN-US10074354144_1920x1080.jpg) 20170525 [download 4k](https://www.bing.com/az/hprichbg/rb/PyramidsOfMeroe_EN-US10074354144_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BB1883_EN-US15158286681_1920x1080.jpg) 20170524 [download 4k](https://www.bing.com/az/hprichbg/rb/BB1883_EN-US15158286681_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Dipper_EN-US11520051960_1920x1080.jpg) 20170523 [download 4k](https://www.bing.com/az/hprichbg/rb/Dipper_EN-US11520051960_UHD.jpg) |

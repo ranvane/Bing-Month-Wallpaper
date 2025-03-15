@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1920x1080.jpg) 20230301 [download 4k](https://www.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg) 20230228 [download 4k](https://www.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_1920x1080.jpg) 20230227 [download 4k](https://www.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_1920x1080.jpg) 20230226 [download 4k](https://www.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_1920x1080.jpg) 20230225 [download 4k](https://www.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_1920x1080.jpg) 20230224 [download 4k](https://www.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_1920x1080.jpg) 20230223 [download 4k](https://www.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_1920x1080.jpg) 20230222 [download 4k](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_1920x1080.jpg) 20230221 [download 4k](https://www.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.MarrakechMarket_EN-US9766644565_1920x1080.jpg) 20191130 [download 4k](https://www.bing.com/th?id=OHR.MarrakechMarket_EN-US9766644565_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AspenHiking_EN-US9667132806_1920x1080.jpg) 20191129 [download 4k](https://www.bing.com/th?id=OHR.AspenHiking_EN-US9667132806_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WildTurkeys_EN-US9389941389_1920x1080.jpg) 20191128 [download 4k](https://www.bing.com/th?id=OHR.WildTurkeys_EN-US9389941389_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PhoenixAirport_EN-US9282919502_1920x1080.jpg) 20191127 [download 4k](https://www.bing.com/th?id=OHR.PhoenixAirport_EN-US9282919502_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HairyHighlanders_EN-US9166386626_1920x1080.jpg) 20191126 [download 4k](https://www.bing.com/th?id=OHR.HairyHighlanders_EN-US9166386626_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OverwinteringMonarchs_EN-US9077881827_1920x1080.jpg) 20191125 [download 4k](https://www.bing.com/th?id=OHR.OverwinteringMonarchs_EN-US9077881827_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AtchafalayaCypress_EN-US8995276008_1920x1080.jpg) 20191124 [download 4k](https://www.bing.com/th?id=OHR.AtchafalayaCypress_EN-US8995276008_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.QueenVictoriaAgave_EN-US8690321294_1920x1080.jpg) 20191123 [download 4k](https://www.bing.com/th?id=OHR.QueenVictoriaAgave_EN-US8690321294_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CuttySark150_EN-US8574386630_1920x1080.jpg) 20191122 [download 4k](https://www.bing.com/th?id=OHR.CuttySark150_EN-US8574386630_UHD.jpg) |

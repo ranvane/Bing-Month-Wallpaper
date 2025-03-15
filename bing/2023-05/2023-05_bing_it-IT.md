@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ReefAwareness_IT-IT7365437503_1920x1080.jpg) 20230601 [download 4k](https://www.bing.com/th?id=OHR.ReefAwareness_IT-IT7365437503_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WorldOtterDay_IT-IT6594215443_1920x1080.jpg) 20230531 [download 4k](https://www.bing.com/th?id=OHR.WorldOtterDay_IT-IT6594215443_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HiddenBeach_IT-IT5182417860_1920x1080.jpg) 20230530 [download 4k](https://www.bing.com/th?id=OHR.HiddenBeach_IT-IT5182417860_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Antilles_IT-IT7910228854_1920x1080.jpg) 20230529 [download 4k](https://www.bing.com/th?id=OHR.Antilles_IT-IT7910228854_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TegallalangTerrace_IT-IT1569351575_1920x1080.jpg) 20230528 [download 4k](https://www.bing.com/th?id=OHR.TegallalangTerrace_IT-IT1569351575_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AloeDichotomum_IT-IT2593431941_1920x1080.jpg) 20230527 [download 4k](https://www.bing.com/th?id=OHR.AloeDichotomum_IT-IT2593431941_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ItalyCinqueTerre_IT-IT2256387382_1920x1080.jpg) 20230526 [download 4k](https://www.bing.com/th?id=OHR.ItalyCinqueTerre_IT-IT2256387382_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OrvietoWell_IT-IT7164285597_1920x1080.jpg) 20230525 [download 4k](https://www.bing.com/th?id=OHR.OrvietoWell_IT-IT7164285597_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OldFortress_IT-IT2107671514_1920x1080.jpg) 20230524 [download 4k](https://www.bing.com/th?id=OHR.OldFortress_IT-IT2107671514_UHD.jpg) |

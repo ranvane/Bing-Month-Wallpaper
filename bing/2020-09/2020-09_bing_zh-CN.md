@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.SingaporeLanterns_ZH-CN2176251534_1920x1080.jpg) 20200930 [download 4k](https://www.bing.com/th?id=OHR.SingaporeLanterns_ZH-CN2176251534_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LaragangaMoth_ZH-CN2013788793_1920x1080.jpg) 20200929 [download 4k](https://www.bing.com/th?id=OHR.LaragangaMoth_ZH-CN2013788793_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Lavaux_ZH-CN1891785892_1920x1080.jpg) 20200928 [download 4k](https://www.bing.com/th?id=OHR.Lavaux_ZH-CN1891785892_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GreatBlueShark_ZH-CN1757082635_1920x1080.jpg) 20200927 [download 4k](https://www.bing.com/th?id=OHR.GreatBlueShark_ZH-CN1757082635_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FraserRiver_ZH-CN1625992097_1920x1080.jpg) 20200926 [download 4k](https://www.bing.com/th?id=OHR.FraserRiver_ZH-CN1625992097_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WatkinsGlen_ZH-CN1271268069_1920x1080.jpg) 20200925 [download 4k](https://www.bing.com/th?id=OHR.WatkinsGlen_ZH-CN1271268069_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.LoarreCastle_ZH-CN1136982025_1920x1080.jpg) 20200924 [download 4k](https://www.bing.com/th?id=OHR.LoarreCastle_ZH-CN1136982025_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Almabtrieb_ZH-CN8639425400_1920x1080.jpg) 20200923 [download 4k](https://www.bing.com/th?id=OHR.Almabtrieb_ZH-CN8639425400_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GoldenGinkgo_ZH-CN8507013452_1920x1080.jpg) 20200922 [download 4k](https://www.bing.com/th?id=OHR.GoldenGinkgo_ZH-CN8507013452_UHD.jpg) |

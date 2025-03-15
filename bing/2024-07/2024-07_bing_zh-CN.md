@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.KaptaiLake_ZH-CN9085738832_1920x1080.jpg) 20240801 [download 4k](https://www.bing.com/th?id=OHR.KaptaiLake_ZH-CN9085738832_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HoodoosBryce_ZH-CN8398575172_1920x1080.jpg) 20240731 [download 4k](https://www.bing.com/th?id=OHR.HoodoosBryce_ZH-CN8398575172_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GimignanoTuscany_ZH-CN8059318824_1920x1080.jpg) 20240730 [download 4k](https://www.bing.com/th?id=OHR.GimignanoTuscany_ZH-CN8059318824_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CorbettTigers_ZH-CN6927569938_1920x1080.jpg) 20240729 [download 4k](https://www.bing.com/th?id=OHR.CorbettTigers_ZH-CN6927569938_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_1920x1080.jpg) 20240728 [download 4k](https://www.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_1920x1080.jpg) 20240727 [download 4k](https://www.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PontNeuf_ZH-CN3158359446_1920x1080.jpg) 20240726 [download 4k](https://www.bing.com/th?id=OHR.PontNeuf_ZH-CN3158359446_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SmokyMountainTrail_ZH-CN4691667074_1920x1080.jpg) 20240725 [download 4k](https://www.bing.com/th?id=OHR.SmokyMountainTrail_ZH-CN4691667074_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SheepCousins_ZH-CN4262132476_1920x1080.jpg) 20240724 [download 4k](https://www.bing.com/th?id=OHR.SheepCousins_ZH-CN4262132476_UHD.jpg) |

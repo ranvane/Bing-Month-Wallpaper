@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-CA3966319675_1920x1080.jpg) 20241201 [download 4k](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-CA3966319675_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtStMichel_EN-CA3538100784_1920x1080.jpg) 20241130 [download 4k](https://www.bing.com/th?id=OHR.MtStMichel_EN-CA3538100784_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AssiniboineTS_EN-CA8487090970_1920x1080.jpg) 20241129 [download 4k](https://www.bing.com/th?id=OHR.AssiniboineTS_EN-CA8487090970_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SemoisRiver_EN-CA3031671072_1920x1080.jpg) 20241128 [download 4k](https://www.bing.com/th?id=OHR.SemoisRiver_EN-CA3031671072_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TrulliGrove_EN-CA2657782141_1920x1080.jpg) 20241127 [download 4k](https://www.bing.com/th?id=OHR.TrulliGrove_EN-CA2657782141_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-CA6129428319_1920x1080.jpg) 20241126 [download 4k](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-CA6129428319_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SonomaCoast_EN-CA2154911568_1920x1080.jpg) 20241125 [download 4k](https://www.bing.com/th?id=OHR.SonomaCoast_EN-CA2154911568_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FibonacciAloe_EN-CA1929331075_1920x1080.jpg) 20241124 [download 4k](https://www.bing.com/th?id=OHR.FibonacciAloe_EN-CA1929331075_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ZafraCastle_EN-CA3608705054_1920x1080.jpg) 20241123 [download 4k](https://www.bing.com/th?id=OHR.ZafraCastle_EN-CA3608705054_UHD.jpg) |

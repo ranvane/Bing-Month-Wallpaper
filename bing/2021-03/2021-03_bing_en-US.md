@@ -1,7 +1,7 @@
 # Bing Wallpaper (2021-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.RajaAmpat_EN-US7737563013_1920x1080.jpg) 20210331 [download 4k](https://www.bing.com/th?id=OHR.RajaAmpat_EN-US7737563013_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SwordFern_EN-US7523587413_1920x1080.jpg) 20210330 [download 4k](https://www.bing.com/th?id=OHR.SwordFern_EN-US7523587413_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Reynisfjara_EN-US7429542895_1920x1080.jpg) 20210329 [download 4k](https://www.bing.com/th?id=OHR.Reynisfjara_EN-US7429542895_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.JeffersonCherries_EN-US7147255858_1920x1080.jpg) 20210328 [download 4k](https://www.bing.com/th?id=OHR.JeffersonCherries_EN-US7147255858_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MadHares_EN-US7045432576_1920x1080.jpg) 20210327 [download 4k](https://www.bing.com/th?id=OHR.MadHares_EN-US7045432576_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MTCradle_EN-US6777988781_1920x1080.jpg) 20210326 [download 4k](https://www.bing.com/th?id=OHR.MTCradle_EN-US6777988781_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GoldMine_EN-US9932494168_1920x1080.jpg) 20210325 [download 4k](https://www.bing.com/th?id=OHR.GoldMine_EN-US9932494168_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HumpbackMom_EN-US9862782184_1920x1080.jpg) 20210324 [download 4k](https://www.bing.com/th?id=OHR.HumpbackMom_EN-US9862782184_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LoftedMadagascar_EN-US9720623596_1920x1080.jpg) 20210323 [download 4k](https://www.bing.com/th?id=OHR.LoftedMadagascar_EN-US9720623596_UHD.jpg) |

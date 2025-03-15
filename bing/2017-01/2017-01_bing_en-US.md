@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/GentooPenguinVideo_EN-US9979103072_1920x1080.jpg) 20170131 [download 4k](https://www.bing.com/az/hprichbg/rb/GentooPenguinVideo_EN-US9979103072_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/DovrefjellMuskox_EN-US13957674933_1920x1080.jpg) 20170130 [download 4k](https://www.bing.com/az/hprichbg/rb/DovrefjellMuskox_EN-US13957674933_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BarrelCactus_EN-US10497409936_1920x1080.jpg) 20170129 [download 4k](https://www.bing.com/az/hprichbg/rb/BarrelCactus_EN-US10497409936_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/FireChicken_EN-US8632578869_1920x1080.jpg) 20170128 [download 4k](https://www.bing.com/az/hprichbg/rb/FireChicken_EN-US8632578869_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/VillersAbbey_EN-US10350783163_1920x1080.jpg) 20170127 [download 4k](https://www.bing.com/az/hprichbg/rb/VillersAbbey_EN-US10350783163_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/GBRISS_EN-US8432887380_1920x1080.jpg) 20170126 [download 4k](https://www.bing.com/az/hprichbg/rb/GBRISS_EN-US8432887380_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/FlameTowers_EN-US9574086092_1920x1080.jpg) 20170125 [download 4k](https://www.bing.com/az/hprichbg/rb/FlameTowers_EN-US9574086092_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/LuciolaCruciata_EN-US9083936689_1920x1080.jpg) 20170124 [download 4k](https://www.bing.com/az/hprichbg/rb/LuciolaCruciata_EN-US9083936689_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TrailingAzalea_EN-US12063932354_1920x1080.jpg) 20170123 [download 4k](https://www.bing.com/az/hprichbg/rb/TrailingAzalea_EN-US12063932354_UHD.jpg) |

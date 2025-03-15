@@ -1,7 +1,7 @@
 # Bing Wallpaper (2025-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.BhutanMonastery_PT-BR9663296659_1920x1080.jpg) 20250301 [download 4k](https://www.bing.com/th?id=OHR.BhutanMonastery_PT-BR9663296659_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarCub_PT-BR7907251443_1920x1080.jpg) 20250228 [download 4k](https://www.bing.com/th?id=OHR.PolarCub_PT-BR7907251443_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ArgyllStalker_PT-BR7662239404_1920x1080.jpg) 20250227 [download 4k](https://www.bing.com/th?id=OHR.ArgyllStalker_PT-BR7662239404_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BryceHoodoos_PT-BR6923982183_1920x1080.jpg) 20250226 [download 4k](https://www.bing.com/th?id=OHR.BryceHoodoos_PT-BR6923982183_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GiantCuttlefish_PT-BR7956763969_1920x1080.jpg) 20250225 [download 4k](https://www.bing.com/th?id=OHR.GiantCuttlefish_PT-BR7956763969_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtFujiSunrise_PT-BR7467420125_1920x1080.jpg) 20250224 [download 4k](https://www.bing.com/th?id=OHR.MtFujiSunrise_PT-BR7467420125_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PalaciodeCristalCuritiba_PT-BR6693947310_1920x1080.jpg) 20250223 [download 4k](https://www.bing.com/th?id=OHR.PalaciodeCristalCuritiba_PT-BR6693947310_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChampakaSarasi_PT-BR6994277285_1920x1080.jpg) 20250222 [download 4k](https://www.bing.com/th?id=OHR.ChampakaSarasi_PT-BR6994277285_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CanadaDeer_PT-BR4320223616_1920x1080.jpg) 20250221 [download 4k](https://www.bing.com/th?id=OHR.CanadaDeer_PT-BR4320223616_UHD.jpg) |

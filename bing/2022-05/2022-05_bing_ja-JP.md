@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PeritoMorenoArgentina_JA-JP3549571296_1920x1080.jpg) 20220601 [download 4k](https://www.bing.com/th?id=OHR.PeritoMorenoArgentina_JA-JP3549571296_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TravertineTurkey_JA-JP3795774010_1920x1080.jpg) 20220531 [download 4k](https://www.bing.com/th?id=OHR.TravertineTurkey_JA-JP3795774010_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MountFryatt_JA-JP3437127662_1920x1080.jpg) 20220530 [download 4k](https://www.bing.com/th?id=OHR.MountFryatt_JA-JP3437127662_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HyaliteCreek_JA-JP2936448562_1920x1080.jpg) 20220529 [download 4k](https://www.bing.com/th?id=OHR.HyaliteCreek_JA-JP2936448562_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PurnululuNP_JA-JP2891821904_1920x1080.jpg) 20220528 [download 4k](https://www.bing.com/th?id=OHR.PurnululuNP_JA-JP2891821904_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MarinHeadlands_JA-JP2813101408_1920x1080.jpg) 20220527 [download 4k](https://www.bing.com/th?id=OHR.MarinHeadlands_JA-JP2813101408_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Monteverde_JA-JP2546682757_1920x1080.jpg) 20220526 [download 4k](https://www.bing.com/th?id=OHR.Monteverde_JA-JP2546682757_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Alhambra_JA-JP2494766612_1920x1080.jpg) 20220525 [download 4k](https://www.bing.com/th?id=OHR.Alhambra_JA-JP2494766612_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KornatiNP_JA-JP2419801397_1920x1080.jpg) 20220524 [download 4k](https://www.bing.com/th?id=OHR.KornatiNP_JA-JP2419801397_UHD.jpg) |

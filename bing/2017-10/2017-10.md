@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/Uummannaq_ZH-CN11265049839_1920x1080.jpg) 20171031 [download 4k](https://www.bing.com/az/hprichbg/rb/Uummannaq_ZH-CN11265049839_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/HauntedGallery_ZH-CN7884856477_1920x1080.jpg) 20171030 [download 4k](https://www.bing.com/az/hprichbg/rb/HauntedGallery_ZH-CN7884856477_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/InspirationPoint_ZH-CN7836594587_1920x1080.jpg) 20171029 [download 4k](https://www.bing.com/az/hprichbg/rb/InspirationPoint_ZH-CN7836594587_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/KyrgyzstanCat_ZH-CN10422392512_1920x1080.jpg) 20171028 [download 4k](https://www.bing.com/az/hprichbg/rb/KyrgyzstanCat_ZH-CN10422392512_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Cotoneaster_ZH-CN13904488642_1920x1080.jpg) 20171027 [download 4k](https://www.bing.com/az/hprichbg/rb/Cotoneaster_ZH-CN13904488642_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/KemeriBog_ZH-CN10588444178_1920x1080.jpg) 20171026 [download 4k](https://www.bing.com/az/hprichbg/rb/KemeriBog_ZH-CN10588444178_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/HallstattAustria_ZH-CN10534000934_1920x1080.jpg) 20171025 [download 4k](https://www.bing.com/az/hprichbg/rb/HallstattAustria_ZH-CN10534000934_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TahquamenonFalls_ZH-CN9860471458_1920x1080.jpg) 20171024 [download 4k](https://www.bing.com/az/hprichbg/rb/TahquamenonFalls_ZH-CN9860471458_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/CatBaBoats_ZH-CN10815977512_1920x1080.jpg) 20171023 [download 4k](https://www.bing.com/az/hprichbg/rb/CatBaBoats_ZH-CN10815977512_UHD.jpg) |

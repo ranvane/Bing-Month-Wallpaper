@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.Schmetterlingswiese_ZH-CN3740804088_1920x1080.jpg) 20240301 [download 4k](https://www.bing.com/th?id=OHR.Schmetterlingswiese_ZH-CN3740804088_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_1920x1080.jpg) 20240229 [download 4k](https://www.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BamburghCastleUK_ZH-CN3201531782_1920x1080.jpg) 20240228 [download 4k](https://www.bing.com/th?id=OHR.BamburghCastleUK_ZH-CN3201531782_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PolarBearCubs_ZH-CN2913942257_1920x1080.jpg) 20240227 [download 4k](https://www.bing.com/th?id=OHR.PolarBearCubs_ZH-CN2913942257_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GrandCanyonWinter_ZH-CN2640803517_1920x1080.jpg) 20240226 [download 4k](https://www.bing.com/th?id=OHR.GrandCanyonWinter_ZH-CN2640803517_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtPrevostDuncan_ZH-CN2333619635_1920x1080.jpg) 20240225 [download 4k](https://www.bing.com/th?id=OHR.MtPrevostDuncan_ZH-CN2333619635_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.LaternFestival2024_ZH-CN8050981828_1920x1080.jpg) 20240224 [download 4k](https://www.bing.com/th?id=OHR.LaternFestival2024_ZH-CN8050981828_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_1920x1080.jpg) 20240223 [download 4k](https://www.bing.com/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_1920x1080.jpg) 20240222 [download 4k](https://www.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_UHD.jpg) |
