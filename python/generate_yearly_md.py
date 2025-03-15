@@ -97,11 +97,11 @@ def generate_md_file(json_file_path, template_path, output_file_path):
             current_row = []  # 重置行缓存
 
     # 补全最后未满3个的单元格
-    # if current_row:
-    #     while len(current_row) < 3:
-    #         current_row.append('')  # 空单元格占位
-    #     row = f"| {current_row[0]} | {current_row[1]} | {current_row[2]} |"
-    #     table_rows.append(row)
+    if current_row:
+        while len(current_row) < 3:
+            current_row.append('')  # 空单元格占位
+        row = f"| {current_row[0]} | {current_row[1]} | {current_row[2]} |"
+        table_rows.append(row)
 
     # 从输出路径中提取年月信息（如从 "bing/2023-10/2023-10.md" 中提取 "2023-10"）
     year_month = os.path.basename(os.path.dirname(output_file_path))
