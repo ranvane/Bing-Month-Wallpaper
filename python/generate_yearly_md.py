@@ -4,6 +4,7 @@ import os
 import re
 from string import Template
 import logging
+
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s | %(levelname)-5s | %(filename)s | %(funcName)s | %(lineno)d | %(message)s',
@@ -69,7 +70,8 @@ def generate_md_file(json_file_path, template_path, output_file_path):
     template = Template(template_content)  # 创建字符串模板
 
     # 获取全站归档目录链接
-    archive_table = get_year_month_links(bing_dir)
+    current_folder = os.path.basename(os.path.dirname(output_file_path))
+    archive_table = get_year_month_links(bing_dir, current_folder=current_folder)
 
     # 构建图片表格内容
     table_rows = []
@@ -183,14 +185,16 @@ def process_index_template_folder():
             process_year_month_folder(item_path, index_template_path)
 
 
-def get_year_month_links(bing_dir, nums=10):
+def get_year_month_links(bing_dir, nums=10, current_folder=None):
     """
     生成按年月分组的Markdown超链接表格
 
     参数:
     bing_dir (str): 包含年月文件夹的根目录
     nums (int): 控制每行显示链接数量（默认10个/行）
+    current_folder (str): 当前所在的年月文件夹，用于调整相对路径
     """
+    # 筛选并排序年月文件夹（格式：YYYY-MM）
     # 筛选并排序年月文件夹（格式：YYYY-MM）
     year_month_folders = sorted(
         [f for f in os.listdir(bing_dir)
@@ -203,13 +207,14 @@ def get_year_month_links(bing_dir, nums=10):
         # 检查目标md文件是否存在（如2023-10/2023-10.md）
         md_file = os.path.join(bing_dir, folder, f"{folder}.md")
         if os.path.exists(md_file):
-            # 生成相对路径链接（格式：[2023-10](../2023-10/2023-10.md)）
-            # relative_path = os.path.relpath(md_file, start=os.path.dirname(bing_dir))
-            # 生成相对路径链接，设置起始路径为bing_dir
-            relative_path = os.path.relpath(md_file, start=bing_dir)
+            if current_folder:
+                # 生成相对路径链接，设置起始路径为当前文件夹
+                relative_path = os.path.relpath(md_file, start=os.path.join(bing_dir, current_folder))
+            else:
+                # 生成相对路径链接，设置起始路径为bing_dir
+                relative_path = os.path.relpath(md_file, start=bing_dir)
             logging.info(f"Relative Path: {relative_path}")
             links.append(f"[{folder}](/{relative_path})")
-
 
             # 每满nums个链接插入换行（生成表格换行符）
             if i % nums == 0:
