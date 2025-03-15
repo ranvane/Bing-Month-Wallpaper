@@ -97,18 +97,18 @@ jobs:
 
 
 
-#  # 此作业用于触发另一个工作流 deploy_pages.yml
-#  trigger_deploy_pages:
-#    # 表示该作业依赖于 download_and_push 作业，只有当 download_and_push 作业成功完成后才会执行
-#    needs: download_and_push
-#    # 指定作业运行的环境，这里同样使用最新的 Ubuntu 系统
-#    runs-on: ubuntu-latest
-#    steps:
-#      - name: 触发其他工作流:deploy_pages.yml
-#        # 使用 benc-uk/workflow-dispatch@v1 这个 Action 来触发其他工作流
-#        uses: benc-uk/workflow-dispatch@v1
-#        with:
-#          # 指定要触发的工作流名称
-#          workflow: Deploy to GitHub Pages
-#          # 使用 GitHub 令牌进行身份验证，确保有足够的权限触发目标工作流
-#          token: ${{ secrets.GITHUB_TOKEN }}
+  # 此作业用于触发另一个工作流 deploy_pages.yml
+  trigger_deploy_pages:
+    # 表示该作业依赖于 download_and_push 作业，只有当 download_and_push 作业成功完成后才会执行
+    needs: Deploy Jekyll with GitHub Pages
+    # 指定作业运行的环境，这里同样使用最新的 Ubuntu 系统
+    runs-on: ubuntu-latest
+    steps:
+      - name: 触发其他工作流:jekyll-gh-pages.yml
+        # 使用 benc-uk/workflow-dispatch@v1 这个 Action 来触发其他工作流
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          # 指定要触发的工作流名称
+          workflow: Deploy to GitHub Pages
+          # 使用 GitHub 令牌进行身份验证，确保有足够的权限触发目标工作流
+          token: ${{ secrets.GITHUB_TOKEN }}
