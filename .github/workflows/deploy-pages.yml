@@ -40,8 +40,18 @@ jobs:
               fi
             done
           fi
-
-      # 第五步：部署到 GitHub Pages
+      # 第五步：清空目标分支的文件
+      - name: 清空gh-pages 分支的文件
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages  # 假设 GitHub Pages 使用的是 gh-pages 分支
+          path: gh-pages
+      - name: 删除目标分支的所有文件
+        run: |
+          cd gh-pages
+          rm -rf *
+          cd ..
+      # 第六步：部署到 GitHub Pages
       - name: 部署到 GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
