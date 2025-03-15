@@ -205,7 +205,9 @@ def get_year_month_links(bing_dir, nums=10):
         if os.path.exists(md_file):
             # 生成相对路径链接（格式：[2023-10](../2023-10/2023-10.md)）
             # relative_path = os.path.relpath(md_file, start=os.path.dirname(bing_dir))
-            relative_path = os.path.relpath(md_file)
+            # 生成相对路径链接，设置起始路径为bing_dir
+            relative_path = os.path.relpath(md_file, start=bing_dir)
+            # logging.info(f"Relative Path: {relative_path}")
             links.append(f"[{folder}]({relative_path})")
 
 
@@ -219,7 +221,7 @@ def get_year_month_links(bing_dir, nums=10):
 
 def generate_index_md(nums=10):
     """
-    生成Bing壁纸归档索引文件
+    生成静态网站的首页，即Bing壁纸归档索引文件
 
     功能流程：
     1. 在bing目录下创建index.md
