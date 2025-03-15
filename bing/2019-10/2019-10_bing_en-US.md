@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.VampireCastle_EN-US6679168218_1920x1080.jpg) 20191031 [download 4k](https://www.bing.com/th?id=OHR.VampireCastle_EN-US6679168218_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CharlesNight_EN-US6584049116_1920x1080.jpg) 20191030 [download 4k](https://www.bing.com/th?id=OHR.CharlesNight_EN-US6584049116_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EidolonHelvum_EN-US6513918726_1920x1080.jpg) 20191029 [download 4k](https://www.bing.com/th?id=OHR.EidolonHelvum_EN-US6513918726_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FortRockHomestead_EN-US6451383681_1920x1080.jpg) 20191028 [download 4k](https://www.bing.com/th?id=OHR.FortRockHomestead_EN-US6451383681_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SaryuRiverDiyas_EN-US6395385901_1920x1080.jpg) 20191027 [download 4k](https://www.bing.com/th?id=OHR.SaryuRiverDiyas_EN-US6395385901_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.UnendingAttraction_EN-US6298041317_1920x1080.jpg) 20191026 [download 4k](https://www.bing.com/th?id=OHR.UnendingAttraction_EN-US6298041317_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.WorldLemurDay_EN-US6189039852_1920x1080.jpg) 20191025 [download 4k](https://www.bing.com/th?id=OHR.WorldLemurDay_EN-US6189039852_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CountyBridge_EN-US2194353575_1920x1080.jpg) 20191024 [download 4k](https://www.bing.com/th?id=OHR.CountyBridge_EN-US2194353575_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChurchillPolarBear_EN-US1965888858_1920x1080.jpg) 20191023 [download 4k](https://www.bing.com/th?id=OHR.ChurchillPolarBear_EN-US1965888858_UHD.jpg) |

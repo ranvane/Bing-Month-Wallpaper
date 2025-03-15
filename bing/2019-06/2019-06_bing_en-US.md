@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.Pride2019_EN-US5957966998_1920x1080.jpg) 20190630 [download 4k](https://www.bing.com/th?id=OHR.Pride2019_EN-US5957966998_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BurrowingOwlet_EN-US5825222069_1920x1080.jpg) 20190629 [download 4k](https://www.bing.com/th?id=OHR.BurrowingOwlet_EN-US5825222069_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Montreux_EN-US5652122855_1920x1080.jpg) 20190628 [download 4k](https://www.bing.com/th?id=OHR.Montreux_EN-US5652122855_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.RootBridge_EN-US5546496960_1920x1080.jpg) 20190627 [download 4k](https://www.bing.com/th?id=OHR.RootBridge_EN-US5546496960_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GlastonburyTor_EN-US5410294627_1920x1080.jpg) 20190626 [download 4k](https://www.bing.com/th?id=OHR.GlastonburyTor_EN-US5410294627_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SutherlandFalls_EN-US5254268111_1920x1080.jpg) 20190625 [download 4k](https://www.bing.com/th?id=OHR.SutherlandFalls_EN-US5254268111_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PhilippinesFirefly_EN-US5113207566_1920x1080.jpg) 20190624 [download 4k](https://www.bing.com/th?id=OHR.PhilippinesFirefly_EN-US5113207566_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Gnomesville_EN-US4972983987_1920x1080.jpg) 20190623 [download 4k](https://www.bing.com/th?id=OHR.Gnomesville_EN-US4972983987_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ManausBasin_EN-US4418838752_1920x1080.jpg) 20190622 [download 4k](https://www.bing.com/th?id=OHR.ManausBasin_EN-US4418838752_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LencoisMaranhao_JA-JP9337793324_1920x1080.jpg) 20241101 [download 4k](https://www.bing.com/th?id=OHR.LencoisMaranhao_JA-JP9337793324_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Halloween2024_JA-JP6692896772_1920x1080.jpg) 20241031 [download 4k](https://www.bing.com/th?id=OHR.Halloween2024_JA-JP6692896772_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HauntedEdinburgh_JA-JP6454143527_1920x1080.jpg) 20241030 [download 4k](https://www.bing.com/th?id=OHR.HauntedEdinburgh_JA-JP6454143527_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GreatOwl_JA-JP6299309375_1920x1080.jpg) 20241029 [download 4k](https://www.bing.com/th?id=OHR.GreatOwl_JA-JP6299309375_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PumpkinMist_JA-JP6129439723_1920x1080.jpg) 20241028 [download 4k](https://www.bing.com/th?id=OHR.PumpkinMist_JA-JP6129439723_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarBearHug_JA-JP5883977862_1920x1080.jpg) 20241027 [download 4k](https://www.bing.com/th?id=OHR.PolarBearHug_JA-JP5883977862_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GhostForest_JA-JP5609597853_1920x1080.jpg) 20241026 [download 4k](https://www.bing.com/th?id=OHR.GhostForest_JA-JP5609597853_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MontBlancMassif_JA-JP5454742573_1920x1080.jpg) 20241025 [download 4k](https://www.bing.com/th?id=OHR.MontBlancMassif_JA-JP5454742573_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BodieCalifornia_JA-JP5239125800_1920x1080.jpg) 20241024 [download 4k](https://www.bing.com/th?id=OHR.BodieCalifornia_JA-JP5239125800_UHD.jpg) |

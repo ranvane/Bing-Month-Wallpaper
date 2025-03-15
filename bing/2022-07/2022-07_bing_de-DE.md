@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LavaTube_DE-DE9734805886_1920x1080.jpg) 20220801 [download 4k](https://www.bing.com/th?id=OHR.LavaTube_DE-DE9734805886_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NoctilucentClouds_DE-DE9555871466_1920x1080.jpg) 20220731 [download 4k](https://www.bing.com/th?id=OHR.NoctilucentClouds_DE-DE9555871466_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FiordlandRainforest_DE-DE9424455836_1920x1080.jpg) 20220730 [download 4k](https://www.bing.com/th?id=OHR.FiordlandRainforest_DE-DE9424455836_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FourTigresses_DE-DE9170804873_1920x1080.jpg) 20220729 [download 4k](https://www.bing.com/th?id=OHR.FourTigresses_DE-DE9170804873_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RapsEichen_DE-DE7481390720_1920x1080.jpg) 20220728 [download 4k](https://www.bing.com/th?id=OHR.RapsEichen_DE-DE7481390720_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NabateanTomb_DE-DE7214514482_1920x1080.jpg) 20220727 [download 4k](https://www.bing.com/th?id=OHR.NabateanTomb_DE-DE7214514482_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MangroveDay_DE-DE7034733972_1920x1080.jpg) 20220726 [download 4k](https://www.bing.com/th?id=OHR.MangroveDay_DE-DE7034733972_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MGRBrighton_DE-DE6897720731_1920x1080.jpg) 20220725 [download 4k](https://www.bing.com/th?id=OHR.MGRBrighton_DE-DE6897720731_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AmeliaEarhart_DE-DE6764072881_1920x1080.jpg) 20220724 [download 4k](https://www.bing.com/th?id=OHR.AmeliaEarhart_DE-DE6764072881_UHD.jpg) |

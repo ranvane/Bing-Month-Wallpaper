@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HauntedEdinburgh_ROW5659836156_1920x1080.jpg) 20241101 [download 4k](https://www.bing.com/th?id=OHR.HauntedEdinburgh_ROW5659836156_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ValleAostaGranParadiso_ROW5529148067_1920x1080.jpg) 20241031 [download 4k](https://www.bing.com/th?id=OHR.ValleAostaGranParadiso_ROW5529148067_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GreatOwl_ROW5336296654_1920x1080.jpg) 20241030 [download 4k](https://www.bing.com/th?id=OHR.GreatOwl_ROW5336296654_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PumpkinMist_ROW0565251733_1920x1080.jpg) 20241029 [download 4k](https://www.bing.com/th?id=OHR.PumpkinMist_ROW0565251733_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarBearHug_ROW4148039931_1920x1080.jpg) 20241028 [download 4k](https://www.bing.com/th?id=OHR.PolarBearHug_ROW4148039931_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GhostForest_ROW3674085851_1920x1080.jpg) 20241027 [download 4k](https://www.bing.com/th?id=OHR.GhostForest_ROW3674085851_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MontBlancMassif_ROW3509551140_1920x1080.jpg) 20241026 [download 4k](https://www.bing.com/th?id=OHR.MontBlancMassif_ROW3509551140_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BodieCalifornia_ROW2634514963_1920x1080.jpg) 20241025 [download 4k](https://www.bing.com/th?id=OHR.BodieCalifornia_ROW2634514963_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MadameSherriCastle_ROW2980735079_1920x1080.jpg) 20241024 [download 4k](https://www.bing.com/th?id=OHR.MadameSherriCastle_ROW2980735079_UHD.jpg) |

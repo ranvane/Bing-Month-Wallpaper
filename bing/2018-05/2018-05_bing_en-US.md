@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/MooseLakeGrass_EN-US11940305772_1920x1080.jpg) 20180531 [download 4k](https://www.bing.com/az/hprichbg/rb/MooseLakeGrass_EN-US11940305772_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SunsetLincoln_EN-US10983688040_1920x1080.jpg) 20180530 [download 4k](https://www.bing.com/az/hprichbg/rb/SunsetLincoln_EN-US10983688040_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/KhumbuTents_EN-US5075782050_1920x1080.jpg) 20180529 [download 4k](https://www.bing.com/az/hprichbg/rb/KhumbuTents_EN-US5075782050_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/OldGuard_EN-US6442946687_1920x1080.jpg) 20180528 [download 4k](https://www.bing.com/az/hprichbg/rb/OldGuard_EN-US6442946687_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TSSSF_EN-US11485959337_1920x1080.jpg) 20180527 [download 4k](https://www.bing.com/az/hprichbg/rb/TSSSF_EN-US11485959337_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SallyRideEarthKAM_EN-US12501145178_1920x1080.jpg) 20180526 [download 4k](https://www.bing.com/az/hprichbg/rb/SallyRideEarthKAM_EN-US12501145178_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/WineDay_EN-US9984225481_1920x1080.jpg) 20180525 [download 4k](https://www.bing.com/az/hprichbg/rb/WineDay_EN-US9984225481_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BklynBrdge_EN-US13217737928_1920x1080.jpg) 20180524 [download 4k](https://www.bing.com/az/hprichbg/rb/BklynBrdge_EN-US13217737928_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TurtleTears_EN-US7942276596_1920x1080.jpg) 20180523 [download 4k](https://www.bing.com/az/hprichbg/rb/TurtleTears_EN-US7942276596_UHD.jpg) |

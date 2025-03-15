@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.Castelbouc_ZH-CN1475157551_1920x1080.jpg) 20190831 [download 4k](https://www.bing.com/th?id=OHR.Castelbouc_ZH-CN1475157551_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Slackers_ZH-CN1408656264_1920x1080.jpg) 20190830 [download 4k](https://www.bing.com/th?id=OHR.Slackers_ZH-CN1408656264_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AsburyParkNJ_ZH-CN1353073841_1920x1080.jpg) 20190829 [download 4k](https://www.bing.com/th?id=OHR.AsburyParkNJ_ZH-CN1353073841_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HardeeCoFair_ZH-CN8647295545_1920x1080.jpg) 20190828 [download 4k](https://www.bing.com/th?id=OHR.HardeeCoFair_ZH-CN8647295545_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CorsiniGardens_ZH-CN8547012221_1920x1080.jpg) 20190827 [download 4k](https://www.bing.com/th?id=OHR.CorsiniGardens_ZH-CN8547012221_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Krakatoa_ZH-CN8471800710_1920x1080.jpg) 20190826 [download 4k](https://www.bing.com/th?id=OHR.Krakatoa_ZH-CN8471800710_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ParrotsIndia_ZH-CN8386276023_1920x1080.jpg) 20190825 [download 4k](https://www.bing.com/th?id=OHR.ParrotsIndia_ZH-CN8386276023_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WinnatsPass_ZH-CN8251326840_1920x1080.jpg) 20190824 [download 4k](https://www.bing.com/th?id=OHR.WinnatsPass_ZH-CN8251326840_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AugustBears_ZH-CN8159736622_1920x1080.jpg) 20190823 [download 4k](https://www.bing.com/th?id=OHR.AugustBears_ZH-CN8159736622_UHD.jpg) |

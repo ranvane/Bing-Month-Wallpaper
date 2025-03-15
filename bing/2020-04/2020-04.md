@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-04)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.BurgAltdahn_ZH-CN8281669977_1920x1080.jpg) 20200430 [download 4k](https://www.bing.com/th?id=OHR.BurgAltdahn_ZH-CN8281669977_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ArcticRedpoll_ZH-CN7968973967_1920x1080.jpg) 20200429 [download 4k](https://www.bing.com/th?id=OHR.ArcticRedpoll_ZH-CN7968973967_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PalouseSpring_ZH-CN6803103328_1920x1080.jpg) 20200428 [download 4k](https://www.bing.com/th?id=OHR.PalouseSpring_ZH-CN6803103328_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SalisburyCathedral_ZH-CN6366350896_1920x1080.jpg) 20200427 [download 4k](https://www.bing.com/th?id=OHR.SalisburyCathedral_ZH-CN6366350896_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SouthAmericanTapir_ZH-CN6151058361_1920x1080.jpg) 20200426 [download 4k](https://www.bing.com/th?id=OHR.SouthAmericanTapir_ZH-CN6151058361_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RubySunset_ZH-CN5544596519_1920x1080.jpg) 20200425 [download 4k](https://www.bing.com/th?id=OHR.RubySunset_ZH-CN5544596519_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FalklandRockhoppers_ZH-CN5370686595_1920x1080.jpg) 20200424 [download 4k](https://www.bing.com/th?id=OHR.FalklandRockhoppers_ZH-CN5370686595_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MegellanicCloud_ZH-CN5132305226_1920x1080.jpg) 20200423 [download 4k](https://www.bing.com/th?id=OHR.MegellanicCloud_ZH-CN5132305226_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KingEider_ZH-CN3559595357_1920x1080.jpg) 20200422 [download 4k](https://www.bing.com/th?id=OHR.KingEider_ZH-CN3559595357_UHD.jpg) |

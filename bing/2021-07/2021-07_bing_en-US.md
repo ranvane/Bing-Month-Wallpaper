@@ -1,7 +1,7 @@
 # Bing Wallpaper (2021-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.TanzaniaBeeEater_EN-US6785378427_1920x1080.jpg) 20210731 [download 4k](https://www.bing.com/th?id=OHR.TanzaniaBeeEater_EN-US6785378427_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OtterCliff_EN-US6679872579_1920x1080.jpg) 20210730 [download 4k](https://www.bing.com/th?id=OHR.OtterCliff_EN-US6679872579_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PantheraTigris_EN-US9729163497_1920x1080.jpg) 20210729 [download 4k](https://www.bing.com/th?id=OHR.PantheraTigris_EN-US9729163497_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SeaGoldie_EN-US9625167980_1920x1080.jpg) 20210728 [download 4k](https://www.bing.com/th?id=OHR.SeaGoldie_EN-US9625167980_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AdlerPlanetarium_EN-US9558785232_1920x1080.jpg) 20210727 [download 4k](https://www.bing.com/th?id=OHR.AdlerPlanetarium_EN-US9558785232_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DancingTrees_EN-US9480266344_1920x1080.jpg) 20210726 [download 4k](https://www.bing.com/th?id=OHR.DancingTrees_EN-US9480266344_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BruceMunroUluru_EN-US9286495835_1920x1080.jpg) 20210725 [download 4k](https://www.bing.com/th?id=OHR.BruceMunroUluru_EN-US9286495835_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.JavanCousins_EN-US9214957907_1920x1080.jpg) 20210724 [download 4k](https://www.bing.com/th?id=OHR.JavanCousins_EN-US9214957907_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TokyoMetropolis_EN-US9112375652_1920x1080.jpg) 20210723 [download 4k](https://www.bing.com/th?id=OHR.TokyoMetropolis_EN-US9112375652_UHD.jpg) |

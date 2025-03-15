@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.DenaliClimber_EN-IN8763043099_1920x1080.jpg) 20230801 [download 4k](https://www.bing.com/th?id=OHR.DenaliClimber_EN-IN8763043099_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RockHouse_EN-IN6324813643_1920x1080.jpg) 20230731 [download 4k](https://www.bing.com/th?id=OHR.RockHouse_EN-IN6324813643_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PalouseHills_EN-IN2524496030_1920x1080.jpg) 20230730 [download 4k](https://www.bing.com/th?id=OHR.PalouseHills_EN-IN2524496030_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.TigerIndia_EN-IN2198312831_1920x1080.jpg) 20230729 [download 4k](https://www.bing.com/th?id=OHR.TigerIndia_EN-IN2198312831_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SanBlasIslands_EN-IN1833598197_1920x1080.jpg) 20230728 [download 4k](https://www.bing.com/th?id=OHR.SanBlasIslands_EN-IN1833598197_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ParisLouvre_EN-IN3403483883_1920x1080.jpg) 20230727 [download 4k](https://www.bing.com/th?id=OHR.ParisLouvre_EN-IN3403483883_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MangrovePark_EN-IN3215461598_1920x1080.jpg) 20230726 [download 4k](https://www.bing.com/th?id=OHR.MangrovePark_EN-IN3215461598_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LasLagunas_EN-IN3040053242_1920x1080.jpg) 20230725 [download 4k](https://www.bing.com/th?id=OHR.LasLagunas_EN-IN3040053242_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ZebraCousins_EN-IN2862144930_1920x1080.jpg) 20230724 [download 4k](https://www.bing.com/th?id=OHR.ZebraCousins_EN-IN2862144930_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ReddishEgret_EN-US2958831498_1920x1080.jpg) 20200131 [download 4k](https://www.bing.com/th?id=OHR.ReddishEgret_EN-US2958831498_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LakeBaikal_EN-US8692095269_1920x1080.jpg) 20200130 [download 4k](https://www.bing.com/th?id=OHR.LakeBaikal_EN-US8692095269_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SemucChampey_EN-US8613323076_1920x1080.jpg) 20200129 [download 4k](https://www.bing.com/th?id=OHR.SemucChampey_EN-US8613323076_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CapeDisappointment_EN-US8548904341_1920x1080.jpg) 20200128 [download 4k](https://www.bing.com/th?id=OHR.CapeDisappointment_EN-US8548904341_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NYCLitUp_EN-US8462661548_1920x1080.jpg) 20200127 [download 4k](https://www.bing.com/th?id=OHR.NYCLitUp_EN-US8462661548_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TajRepublic_EN-US8399320805_1920x1080.jpg) 20200126 [download 4k](https://www.bing.com/th?id=OHR.TajRepublic_EN-US8399320805_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SouthernGate_EN-US8348473546_1920x1080.jpg) 20200125 [download 4k](https://www.bing.com/th?id=OHR.SouthernGate_EN-US8348473546_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SunlitScree_EN-US8210223982_1920x1080.jpg) 20200124 [download 4k](https://www.bing.com/th?id=OHR.SunlitScree_EN-US8210223982_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SafariSavannah_EN-US8123928986_1920x1080.jpg) 20200123 [download 4k](https://www.bing.com/th?id=OHR.SafariSavannah_EN-US8123928986_UHD.jpg) |

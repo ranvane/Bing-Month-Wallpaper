@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ShirahigeSunrise2024_JA-JP6695296609_1920x1080.jpg) 20250101 [download 4k](https://www.bing.com/th?id=OHR.ShirahigeSunrise2024_JA-JP6695296609_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Omisoka2024_JA-JP6408751475_1920x1080.jpg) 20241231 [download 4k](https://www.bing.com/th?id=OHR.Omisoka2024_JA-JP6408751475_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MountFieldNP_JA-JP6160592179_1920x1080.jpg) 20241230 [download 4k](https://www.bing.com/th?id=OHR.MountFieldNP_JA-JP6160592179_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BorobudurBells_JA-JP5888220367_1920x1080.jpg) 20241229 [download 4k](https://www.bing.com/th?id=OHR.BorobudurBells_JA-JP5888220367_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CoralTurtle_JA-JP5618879842_1920x1080.jpg) 20241228 [download 4k](https://www.bing.com/th?id=OHR.CoralTurtle_JA-JP5618879842_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LakeBledSnow_JA-JP5075131023_1920x1080.jpg) 20241227 [download 4k](https://www.bing.com/th?id=OHR.LakeBledSnow_JA-JP5075131023_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MouseholeXmas_JA-JP0779815955_1920x1080.jpg) 20241226 [download 4k](https://www.bing.com/th?id=OHR.MouseholeXmas_JA-JP0779815955_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ReindeerTrio_JA-JP0425560339_1920x1080.jpg) 20241225 [download 4k](https://www.bing.com/th?id=OHR.ReindeerTrio_JA-JP0425560339_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SantaSnowglobe_JA-JP0084831582_1920x1080.jpg) 20241224 [download 4k](https://www.bing.com/th?id=OHR.SantaSnowglobe_JA-JP0084831582_UHD.jpg) |

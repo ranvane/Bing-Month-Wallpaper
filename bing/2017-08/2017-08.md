@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/StorkCliffs_ZH-CN11006532238_1920x1080.jpg) 20170831 [download 4k](https://www.bing.com/az/hprichbg/rb/StorkCliffs_ZH-CN11006532238_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ChamonixClouds_ZH-CN7700889231_1920x1080.jpg) 20170830 [download 4k](https://www.bing.com/az/hprichbg/rb/ChamonixClouds_ZH-CN7700889231_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/GoldenTrevally_ZH-CN8976794546_1920x1080.jpg) 20170829 [download 4k](https://www.bing.com/az/hprichbg/rb/GoldenTrevally_ZH-CN8976794546_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/OregonPainted_ZH-CN8553728911_1920x1080.jpg) 20170828 [download 4k](https://www.bing.com/az/hprichbg/rb/OregonPainted_ZH-CN8553728911_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BotallackCornwall_ZH-CN11396172846_1920x1080.jpg) 20170827 [download 4k](https://www.bing.com/az/hprichbg/rb/BotallackCornwall_ZH-CN11396172846_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BasongcuoNP_ZH-CN9819436811_1920x1080.jpg) 20170826 [download 4k](https://www.bing.com/az/hprichbg/rb/BasongcuoNP_ZH-CN9819436811_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/BatEaredFox_ZH-CN12456670113_1920x1080.jpg) 20170825 [download 4k](https://www.bing.com/az/hprichbg/rb/BatEaredFox_ZH-CN12456670113_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/GustavAntiquities_ZH-CN9624291648_1920x1080.jpg) 20170824 [download 4k](https://www.bing.com/az/hprichbg/rb/GustavAntiquities_ZH-CN9624291648_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TubeAnemone_ZH-CN8077113499_1920x1080.jpg) 20170823 [download 4k](https://www.bing.com/az/hprichbg/rb/TubeAnemone_ZH-CN8077113499_UHD.jpg) |

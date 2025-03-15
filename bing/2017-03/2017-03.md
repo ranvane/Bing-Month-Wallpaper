@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/MeerkatAmuck_ZH-CN5734433814_1920x1080.jpg) 20170331 [download 4k](https://www.bing.com/az/hprichbg/rb/MeerkatAmuck_ZH-CN5734433814_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/EarthArt_ZH-CN7715783871_1920x1080.jpg) 20170330 [download 4k](https://www.bing.com/az/hprichbg/rb/EarthArt_ZH-CN7715783871_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/CMLSCNP_ZH-CN12089840072_1920x1080.jpg) 20170329 [download 4k](https://www.bing.com/az/hprichbg/rb/CMLSCNP_ZH-CN12089840072_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/BellasArtes_ZH-CN9573521567_1920x1080.jpg) 20170328 [download 4k](https://www.bing.com/az/hprichbg/rb/BellasArtes_ZH-CN9573521567_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/CommonRosefinch_ZH-CN10986839201_1920x1080.jpg) 20170327 [download 4k](https://www.bing.com/az/hprichbg/rb/CommonRosefinch_ZH-CN10986839201_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Hveravellir_ZH-CN12673758963_1920x1080.jpg) 20170326 [download 4k](https://www.bing.com/az/hprichbg/rb/Hveravellir_ZH-CN12673758963_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/WildfireSapling_ZH-CN10766255059_1920x1080.jpg) 20170325 [download 4k](https://www.bing.com/az/hprichbg/rb/WildfireSapling_ZH-CN10766255059_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SpainSpring_ZH-CN9613370360_1920x1080.jpg) 20170324 [download 4k](https://www.bing.com/az/hprichbg/rb/SpainSpring_ZH-CN9613370360_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/NoronhaTwoBrothers_ZH-CN10642407566_1920x1080.jpg) 20170323 [download 4k](https://www.bing.com/az/hprichbg/rb/NoronhaTwoBrothers_ZH-CN10642407566_UHD.jpg) |

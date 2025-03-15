@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.TurkeyTailMush_EN-GB2359636986_1920x1080.jpg) 20230901 [download 4k](https://www.bing.com/th?id=OHR.TurkeyTailMush_EN-GB2359636986_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IronwoodCactus_EN-GB2435607805_1920x1080.jpg) 20230831 [download 4k](https://www.bing.com/th?id=OHR.IronwoodCactus_EN-GB2435607805_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NingalooShark_EN-GB2488880393_1920x1080.jpg) 20230830 [download 4k](https://www.bing.com/th?id=OHR.NingalooShark_EN-GB2488880393_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MangrovePark_EN-GB9980790677_1920x1080.jpg) 20230829 [download 4k](https://www.bing.com/th?id=OHR.MangrovePark_EN-GB9980790677_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DubrovnikHarbor_EN-GB2595523896_1920x1080.jpg) 20230828 [download 4k](https://www.bing.com/th?id=OHR.DubrovnikHarbor_EN-GB2595523896_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NottingHillCarnivalUK_EN-GB4084408815_1920x1080.jpg) 20230827 [download 4k](https://www.bing.com/th?id=OHR.NottingHillCarnivalUK_EN-GB4084408815_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MuseumIsland_EN-GB2659579604_1920x1080.jpg) 20230826 [download 4k](https://www.bing.com/th?id=OHR.MuseumIsland_EN-GB2659579604_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YellowstoneFalls_EN-GB2715423091_1920x1080.jpg) 20230825 [download 4k](https://www.bing.com/th?id=OHR.YellowstoneFalls_EN-GB2715423091_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SharkFinCove_EN-GB1405629426_1920x1080.jpg) 20230824 [download 4k](https://www.bing.com/th?id=OHR.SharkFinCove_EN-GB1405629426_UHD.jpg) |

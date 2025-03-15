@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.KaptaiLake_EN-IN2191483743_1920x1080.jpg) 20240801 [download 4k](https://www.bing.com/th?id=OHR.KaptaiLake_EN-IN2191483743_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-IN0026851942_1920x1080.jpg) 20240731 [download 4k](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-IN0026851942_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-IN4247147407_1920x1080.jpg) 20240730 [download 4k](https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-IN4247147407_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CorbettTigers_EN-IN5057550276_1920x1080.jpg) 20240729 [download 4k](https://www.bing.com/th?id=OHR.CorbettTigers_EN-IN5057550276_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BeachHutsSweden_EN-IN3846650845_1920x1080.jpg) 20240728 [download 4k](https://www.bing.com/th?id=OHR.BeachHutsSweden_EN-IN3846650845_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RhinelandVineyards_EN-IN4193963890_1920x1080.jpg) 20240727 [download 4k](https://www.bing.com/th?id=OHR.RhinelandVineyards_EN-IN4193963890_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.KargilMemorial_EN-IN8142573327_1920x1080.jpg) 20240726 [download 4k](https://www.bing.com/th?id=OHR.KargilMemorial_EN-IN8142573327_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SmokyMountainTrail_EN-IN0121082113_1920x1080.jpg) 20240725 [download 4k](https://www.bing.com/th?id=OHR.SmokyMountainTrail_EN-IN0121082113_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SheepCousins_EN-IN5841559829_1920x1080.jpg) 20240724 [download 4k](https://www.bing.com/th?id=OHR.SheepCousins_EN-IN5841559829_UHD.jpg) |

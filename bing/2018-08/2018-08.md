@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/HighlandDancers_ZH-CN10588013331_1920x1080.jpg) 20180831 [download 4k](https://www.bing.com/az/hprichbg/rb/HighlandDancers_ZH-CN10588013331_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/LawnBowling_ZH-CN10492037230_1920x1080.jpg) 20180830 [download 4k](https://www.bing.com/az/hprichbg/rb/LawnBowling_ZH-CN10492037230_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/CastleFrankenstein_ZH-CN8604017330_1920x1080.jpg) 20180829 [download 4k](https://www.bing.com/az/hprichbg/rb/CastleFrankenstein_ZH-CN8604017330_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/MasaiWildebeest_ZH-CN9807199192_1920x1080.jpg) 20180828 [download 4k](https://www.bing.com/az/hprichbg/rb/MasaiWildebeest_ZH-CN9807199192_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Number2_ZH-CN12009255937_1920x1080.jpg) 20180827 [download 4k](https://www.bing.com/az/hprichbg/rb/Number2_ZH-CN12009255937_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Unisphere_ZH-CN7027287379_1920x1080.jpg) 20180826 [download 4k](https://www.bing.com/az/hprichbg/rb/Unisphere_ZH-CN7027287379_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/JeanLafitte_ZH-CN11969195990_1920x1080.jpg) 20180825 [download 4k](https://www.bing.com/az/hprichbg/rb/JeanLafitte_ZH-CN11969195990_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ZHONGYUAN_ZH-CN11622221601_1920x1080.jpg) 20180824 [download 4k](https://www.bing.com/az/hprichbg/rb/ZHONGYUAN_ZH-CN11622221601_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/FranceMenton_ZH-CN8996032014_1920x1080.jpg) 20180823 [download 4k](https://www.bing.com/az/hprichbg/rb/FranceMenton_ZH-CN8996032014_UHD.jpg) |

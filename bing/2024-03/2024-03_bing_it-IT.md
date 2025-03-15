@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PalazzoFarnese_IT-IT8737632028_1920x1080.jpg) 20240401 [download 4k](https://www.bing.com/th?id=OHR.PalazzoFarnese_IT-IT8737632028_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HungarianEggs_IT-IT8993577928_1920x1080.jpg) 20240331 [download 4k](https://www.bing.com/th?id=OHR.HungarianEggs_IT-IT8993577928_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SleepySloth_IT-IT7892909153_1920x1080.jpg) 20240330 [download 4k](https://www.bing.com/th?id=OHR.SleepySloth_IT-IT7892909153_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SouthStackLight_IT-IT5123694912_1920x1080.jpg) 20240329 [download 4k](https://www.bing.com/th?id=OHR.SouthStackLight_IT-IT5123694912_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_IT-IT7775972818_1920x1080.jpg) 20240328 [download 4k](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_IT-IT7775972818_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TeatroColon_IT-IT6266704589_1920x1080.jpg) 20240327 [download 4k](https://www.bing.com/th?id=OHR.TeatroColon_IT-IT6266704589_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Milanbusinesscenter_IT-IT6797515629_1920x1080.jpg) 20240326 [download 4k](https://www.bing.com/th?id=OHR.Milanbusinesscenter_IT-IT6797515629_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ColorfulHoli_IT-IT7690011331_1920x1080.jpg) 20240325 [download 4k](https://www.bing.com/th?id=OHR.ColorfulHoli_IT-IT7690011331_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WhiteEyes_IT-IT2367465138_1920x1080.jpg) 20240324 [download 4k](https://www.bing.com/th?id=OHR.WhiteEyes_IT-IT2367465138_UHD.jpg) |

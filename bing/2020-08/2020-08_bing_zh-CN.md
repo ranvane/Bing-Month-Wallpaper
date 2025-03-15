@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.OysterMushroom_ZH-CN6265453153_1920x1080.jpg) 20200831 [download 4k](https://www.bing.com/th?id=OHR.OysterMushroom_ZH-CN6265453153_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Garajonay_ZH-CN6136090113_1920x1080.jpg) 20200830 [download 4k](https://www.bing.com/th?id=OHR.Garajonay_ZH-CN6136090113_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MakeHay_ZH-CN5759590757_1920x1080.jpg) 20200829 [download 4k](https://www.bing.com/th?id=OHR.MakeHay_ZH-CN5759590757_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CorsicaFort_ZH-CN4696260710_1920x1080.jpg) 20200828 [download 4k](https://www.bing.com/th?id=OHR.CorsicaFort_ZH-CN4696260710_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MonteCristo_ZH-CN4343811693_1920x1080.jpg) 20200827 [download 4k](https://www.bing.com/th?id=OHR.MonteCristo_ZH-CN4343811693_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SailingStone_ZH-CN1020921437_1920x1080.jpg) 20200826 [download 4k](https://www.bing.com/th?id=OHR.SailingStone_ZH-CN1020921437_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.OkanaganSpots_ZH-CN0873231776_1920x1080.jpg) 20200825 [download 4k](https://www.bing.com/th?id=OHR.OkanaganSpots_ZH-CN0873231776_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Qixi2020_ZH-CN0736974777_1920x1080.jpg) 20200824 [download 4k](https://www.bing.com/th?id=OHR.Qixi2020_ZH-CN0736974777_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CrystalRiver_ZH-CN0516566745_1920x1080.jpg) 20200823 [download 4k](https://www.bing.com/th?id=OHR.CrystalRiver_ZH-CN0516566745_UHD.jpg) |

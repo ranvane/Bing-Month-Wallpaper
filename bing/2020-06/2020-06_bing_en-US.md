@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.JabiruStork_EN-US3292555889_1920x1080.jpg) 20200630 [download 4k](https://www.bing.com/th?id=OHR.JabiruStork_EN-US3292555889_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ArganGoats_EN-US6644922648_1920x1080.jpg) 20200629 [download 4k](https://www.bing.com/th?id=OHR.ArganGoats_EN-US6644922648_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PrideEmpire_EN-US6567530966_1920x1080.jpg) 20200628 [download 4k](https://www.bing.com/th?id=OHR.PrideEmpire_EN-US6567530966_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MtBaldoSantuario_EN-US6460114986_1920x1080.jpg) 20200627 [download 4k](https://www.bing.com/th?id=OHR.MtBaldoSantuario_EN-US6460114986_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AdansoniaGrandidieri_EN-US6269745972_1920x1080.jpg) 20200626 [download 4k](https://www.bing.com/th?id=OHR.AdansoniaGrandidieri_EN-US6269745972_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GorchFock_EN-US6157323134_1920x1080.jpg) 20200625 [download 4k](https://www.bing.com/th?id=OHR.GorchFock_EN-US6157323134_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MidsummerEve_EN-US0497687586_1920x1080.jpg) 20200624 [download 4k](https://www.bing.com/th?id=OHR.MidsummerEve_EN-US0497687586_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BullPoint_EN-US5814716721_1920x1080.jpg) 20200623 [download 4k](https://www.bing.com/th?id=OHR.BullPoint_EN-US5814716721_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SouthernSunbird_EN-US5701754937_1920x1080.jpg) 20200622 [download 4k](https://www.bing.com/th?id=OHR.SouthernSunbird_EN-US5701754937_UHD.jpg) |

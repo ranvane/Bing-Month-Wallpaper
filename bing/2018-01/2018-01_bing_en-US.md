@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/TartumaaEstonia_EN-US13836445539_1920x1080.jpg) 20180131 [download 4k](https://www.bing.com/az/hprichbg/rb/TartumaaEstonia_EN-US13836445539_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/GraniteDells_EN-US10224185236_1920x1080.jpg) 20180130 [download 4k](https://www.bing.com/az/hprichbg/rb/GraniteDells_EN-US10224185236_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/VF5NASA_EN-US11160261487_1920x1080.jpg) 20180129 [download 4k](https://www.bing.com/az/hprichbg/rb/VF5NASA_EN-US11160261487_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/KuhmoLapland_EN-US8543807282_1920x1080.jpg) 20180128 [download 4k](https://www.bing.com/az/hprichbg/rb/KuhmoLapland_EN-US8543807282_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BluePlankton_EN-US9721339029_1920x1080.jpg) 20180127 [download 4k](https://www.bing.com/az/hprichbg/rb/BluePlankton_EN-US9721339029_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/EasternGrey_EN-US11765734343_1920x1080.jpg) 20180126 [download 4k](https://www.bing.com/az/hprichbg/rb/EasternGrey_EN-US11765734343_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/SamiLavvu_EN-US10473316482_1920x1080.jpg) 20180125 [download 4k](https://www.bing.com/az/hprichbg/rb/SamiLavvu_EN-US10473316482_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Fontainhas_EN-US10738104828_1920x1080.jpg) 20180124 [download 4k](https://www.bing.com/az/hprichbg/rb/Fontainhas_EN-US10738104828_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/LMNP_EN-US10863507594_1920x1080.jpg) 20180123 [download 4k](https://www.bing.com/az/hprichbg/rb/LMNP_EN-US10863507594_UHD.jpg) |

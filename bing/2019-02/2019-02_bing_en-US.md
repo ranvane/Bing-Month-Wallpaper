@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/HZMB_EN-US5552546476_1920x1080.jpg) 20190228 [download 4k](https://www.bing.com/az/hprichbg/rb/HZMB_EN-US5552546476_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/PolarBearDay_EN-US4843695148_1920x1080.jpg) 20190227 [download 4k](https://www.bing.com/az/hprichbg/rb/PolarBearDay_EN-US4843695148_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/WinterGrand_EN-US4797319119_1920x1080.jpg) 20190226 [download 4k](https://www.bing.com/az/hprichbg/rb/WinterGrand_EN-US4797319119_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/CumulusCaribbean_EN-US4741959519_1920x1080.jpg) 20190225 [download 4k](https://www.bing.com/az/hprichbg/rb/CumulusCaribbean_EN-US4741959519_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OldTownTallinn_EN-US4682886396_1920x1080.jpg) 20190224 [download 4k](https://www.bing.com/th?id=OHR.OldTownTallinn_EN-US4682886396_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ChamonixWalkway_EN-US4624018055_1920x1080.jpg) 20190223 [download 4k](https://www.bing.com/az/hprichbg/rb/ChamonixWalkway_EN-US4624018055_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/PlatteRiver_EN-US4569107551_1920x1080.jpg) 20190222 [download 4k](https://www.bing.com/az/hprichbg/rb/PlatteRiver_EN-US4569107551_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BathBach_EN-US4522882386_1920x1080.jpg) 20190221 [download 4k](https://www.bing.com/az/hprichbg/rb/BathBach_EN-US4522882386_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/RavenWolf_EN-US4433795745_1920x1080.jpg) 20190220 [download 4k](https://www.bing.com/az/hprichbg/rb/RavenWolf_EN-US4433795745_UHD.jpg) |

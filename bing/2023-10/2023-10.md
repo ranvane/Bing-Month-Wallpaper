@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HautBarr_ZH-CN8274813404_1920x1080.jpg) 20231101 [download 4k](https://www.bing.com/th?id=OHR.HautBarr_ZH-CN8274813404_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_1920x1080.jpg) 20231031 [download 4k](https://www.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AutumnRaven_ZH-CN7897841947_1920x1080.jpg) 20231030 [download 4k](https://www.bing.com/th?id=OHR.AutumnRaven_ZH-CN7897841947_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SavannahSculpture_ZH-CN7663694208_1920x1080.jpg) 20231029 [download 4k](https://www.bing.com/th?id=OHR.SavannahSculpture_ZH-CN7663694208_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FiveWinds_ZH-CN7503464049_1920x1080.jpg) 20231028 [download 4k](https://www.bing.com/th?id=OHR.FiveWinds_ZH-CN7503464049_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OldBridgeSkye_ZH-CN7228411986_1920x1080.jpg) 20231027 [download 4k](https://www.bing.com/th?id=OHR.OldBridgeSkye_ZH-CN7228411986_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ViennaAutumn_ZH-CN7011999199_1920x1080.jpg) 20231026 [download 4k](https://www.bing.com/th?id=OHR.ViennaAutumn_ZH-CN7011999199_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GrandStaircase_ZH-CN5928937512_1920x1080.jpg) 20231025 [download 4k](https://www.bing.com/th?id=OHR.GrandStaircase_ZH-CN5928937512_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_1920x1080.jpg) 20231024 [download 4k](https://www.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_UHD.jpg) |

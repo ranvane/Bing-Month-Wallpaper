@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/guoqing_ZH-CN10903461145_1920x1080.jpg) 20180930 [download 4k](https://www.bing.com/az/hprichbg/rb/guoqing_ZH-CN10903461145_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TheLongWalk_ZH-CN11094733779_1920x1080.jpg) 20180929 [download 4k](https://www.bing.com/az/hprichbg/rb/TheLongWalk_ZH-CN11094733779_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/GoldBridge_ZH-CN5579326717_1920x1080.jpg) 20180928 [download 4k](https://www.bing.com/az/hprichbg/rb/GoldBridge_ZH-CN5579326717_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/SouthernRightFlukes_ZH-CN11723769399_1920x1080.jpg) 20180927 [download 4k](https://www.bing.com/az/hprichbg/rb/SouthernRightFlukes_ZH-CN11723769399_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Shipyard_ZH-CN13183467490_1920x1080.jpg) 20180926 [download 4k](https://www.bing.com/az/hprichbg/rb/Shipyard_ZH-CN13183467490_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/JacobHashimoto_ZH-CN8083666733_1920x1080.jpg) 20180925 [download 4k](https://www.bing.com/az/hprichbg/rb/JacobHashimoto_ZH-CN8083666733_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/GiantSequoia_ZH-CN12159357875_1920x1080.jpg) 20180924 [download 4k](https://www.bing.com/az/hprichbg/rb/GiantSequoia_ZH-CN12159357875_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/QinhuaiRiver_ZH-CN10131273425_1920x1080.jpg) 20180923 [download 4k](https://www.bing.com/az/hprichbg/rb/QinhuaiRiver_ZH-CN10131273425_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ShenandoahAutumn_ZH-CN12756614363_1920x1080.jpg) 20180922 [download 4k](https://www.bing.com/az/hprichbg/rb/ShenandoahAutumn_ZH-CN12756614363_UHD.jpg) |

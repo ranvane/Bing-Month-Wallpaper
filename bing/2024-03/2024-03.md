@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_1920x1080.jpg) 20240401 [download 4k](https://www.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_1920x1080.jpg) 20240331 [download 4k](https://www.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SleepySloth_ZH-CN6084460583_1920x1080.jpg) 20240330 [download 4k](https://www.bing.com/th?id=OHR.SleepySloth_ZH-CN6084460583_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SouthStackLight_ZH-CN5932471774_1920x1080.jpg) 20240329 [download 4k](https://www.bing.com/th?id=OHR.SouthStackLight_ZH-CN5932471774_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_ZH-CN5594677517_1920x1080.jpg) 20240328 [download 4k](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_ZH-CN5594677517_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TeatroColon_ZH-CN5378730986_1920x1080.jpg) 20240327 [download 4k](https://www.bing.com/th?id=OHR.TeatroColon_ZH-CN5378730986_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HangRaiVietnam_ZH-CN1601428109_1920x1080.jpg) 20240326 [download 4k](https://www.bing.com/th?id=OHR.HangRaiVietnam_ZH-CN1601428109_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TulipAbbotsford_ZH-CN1401627293_1920x1080.jpg) 20240325 [download 4k](https://www.bing.com/th?id=OHR.TulipAbbotsford_ZH-CN1401627293_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WhiteEyes_ZH-CN1130380430_1920x1080.jpg) 20240324 [download 4k](https://www.bing.com/th?id=OHR.WhiteEyes_ZH-CN1130380430_UHD.jpg) |

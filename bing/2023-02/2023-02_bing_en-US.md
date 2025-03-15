@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_1920x1080.jpg) 20230301 [download 4k](https://www.bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_1920x1080.jpg) 20230228 [download 4k](https://www.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_1920x1080.jpg) 20230227 [download 4k](https://www.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_1920x1080.jpg) 20230226 [download 4k](https://www.bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RichmondParkDuck_EN-US9381974155_1920x1080.jpg) 20230225 [download 4k](https://www.bing.com/th?id=OHR.RichmondParkDuck_EN-US9381974155_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BlueWinterParis_EN-US2358774284_1920x1080.jpg) 20230224 [download 4k](https://www.bing.com/th?id=OHR.BlueWinterParis_EN-US2358774284_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_1920x1080.jpg) 20230223 [download 4k](https://www.bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_1920x1080.jpg) 20230222 [download 4k](https://www.bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PresDayDC_EN-US2054662773_1920x1080.jpg) 20230221 [download 4k](https://www.bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg) |

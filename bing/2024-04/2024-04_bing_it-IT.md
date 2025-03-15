@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-04)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HawaiianLei_IT-IT8543155647_1920x1080.jpg) 20240501 [download 4k](https://www.bing.com/th?id=OHR.HawaiianLei_IT-IT8543155647_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CheetahRain_IT-IT8393286525_1920x1080.jpg) 20240430 [download 4k](https://www.bing.com/th?id=OHR.CheetahRain_IT-IT8393286525_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TulouFujian_IT-IT7939512907_1920x1080.jpg) 20240429 [download 4k](https://www.bing.com/th?id=OHR.TulouFujian_IT-IT7939512907_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GuadalupeTexas_IT-IT7610169822_1920x1080.jpg) 20240428 [download 4k](https://www.bing.com/th?id=OHR.GuadalupeTexas_IT-IT7610169822_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LeucisticHummingbird_IT-IT7331627780_1920x1080.jpg) 20240427 [download 4k](https://www.bing.com/th?id=OHR.LeucisticHummingbird_IT-IT7331627780_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KalalochTree_IT-IT7011475645_1920x1080.jpg) 20240426 [download 4k](https://www.bing.com/th?id=OHR.KalalochTree_IT-IT7011475645_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.LiberationOfItaly_IT-IT5702803658_1920x1080.jpg) 20240425 [download 4k](https://www.bing.com/th?id=OHR.LiberationOfItaly_IT-IT5702803658_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TrilliumOntario_IT-IT6051725546_1920x1080.jpg) 20240424 [download 4k](https://www.bing.com/th?id=OHR.TrilliumOntario_IT-IT6051725546_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TrinityDublin_IT-IT5100279268_1920x1080.jpg) 20240423 [download 4k](https://www.bing.com/th?id=OHR.TrinityDublin_IT-IT5100279268_UHD.jpg) |

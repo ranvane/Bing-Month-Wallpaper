@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PrideMonthSF_EN-GB6271318842_1920x1080.jpg) 20240601 [download 4k](https://www.bing.com/th?id=OHR.PrideMonthSF_EN-GB6271318842_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-GB1861917445_1920x1080.jpg) 20240531 [download 4k](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-GB1861917445_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Everglades90th_EN-GB0429923413_1920x1080.jpg) 20240530 [download 4k](https://www.bing.com/th?id=OHR.Everglades90th_EN-GB0429923413_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MullOtter_EN-GB2549170693_1920x1080.jpg) 20240529 [download 4k](https://www.bing.com/th?id=OHR.MullOtter_EN-GB2549170693_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MeteoraMonastery_EN-GB1630086453_1920x1080.jpg) 20240528 [download 4k](https://www.bing.com/th?id=OHR.MeteoraMonastery_EN-GB1630086453_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HayFestival2024_EN-GB9332975021_1920x1080.jpg) 20240527 [download 4k](https://www.bing.com/th?id=OHR.HayFestival2024_EN-GB9332975021_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-GB8398636525_1920x1080.jpg) 20240526 [download 4k](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-GB8398636525_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-GB8113662497_1920x1080.jpg) 20240525 [download 4k](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-GB8113662497_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OrdesaNationalPark_EN-GB0404903199_1920x1080.jpg) 20240524 [download 4k](https://www.bing.com/th?id=OHR.OrdesaNationalPark_EN-GB0404903199_UHD.jpg) |

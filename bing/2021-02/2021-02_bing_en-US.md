@@ -1,7 +1,7 @@
 # Bing Wallpaper (2021-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.TurfHouse_EN-US9990506269_1920x1080.jpg) 20210228 [download 4k](https://www.bing.com/th?id=OHR.TurfHouse_EN-US9990506269_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TwinsDenning_EN-US9910127756_1920x1080.jpg) 20210227 [download 4k](https://www.bing.com/th?id=OHR.TwinsDenning_EN-US9910127756_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.JinliStreet_EN-US9813774321_1920x1080.jpg) 20210226 [download 4k](https://www.bing.com/th?id=OHR.JinliStreet_EN-US9813774321_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Trevi_EN-US7298856463_1920x1080.jpg) 20210225 [download 4k](https://www.bing.com/th?id=OHR.Trevi_EN-US7298856463_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LeMorneBrabant_EN-US7199520186_1920x1080.jpg) 20210224 [download 4k](https://www.bing.com/th?id=OHR.LeMorneBrabant_EN-US7199520186_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DalmatianPelicans_EN-US7089551223_1920x1080.jpg) 20210223 [download 4k](https://www.bing.com/th?id=OHR.DalmatianPelicans_EN-US7089551223_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.InvisibleMan_EN-US6967873703_1920x1080.jpg) 20210222 [download 4k](https://www.bing.com/th?id=OHR.InvisibleMan_EN-US6967873703_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Porto_EN-US6858177103_1920x1080.jpg) 20210221 [download 4k](https://www.bing.com/th?id=OHR.Porto_EN-US6858177103_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AABday_EN-US6703996640_1920x1080.jpg) 20210220 [download 4k](https://www.bing.com/th?id=OHR.AABday_EN-US6703996640_UHD.jpg) |

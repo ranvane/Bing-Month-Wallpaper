@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.Gantan2023_JA-JP0780615179_1920x1080.jpg) 20230101 [download 4k](https://www.bing.com/th?id=OHR.Gantan2023_JA-JP0780615179_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Nara_TodaijiBell2022_JA-JP0129080752_1920x1080.jpg) 20221231 [download 4k](https://www.bing.com/th?id=OHR.Nara_TodaijiBell2022_JA-JP0129080752_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChalkRock_JA-JP9713256399_1920x1080.jpg) 20221230 [download 4k](https://www.bing.com/th?id=OHR.ChalkRock_JA-JP9713256399_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ButterflyEffect_JA-JP5566136636_1920x1080.jpg) 20221229 [download 4k](https://www.bing.com/th?id=OHR.ButterflyEffect_JA-JP5566136636_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChiesaBianca_JA-JP5162517168_1920x1080.jpg) 20221228 [download 4k](https://www.bing.com/th?id=OHR.ChiesaBianca_JA-JP5162517168_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BlueLagoon_JA-JP4946711917_1920x1080.jpg) 20221227 [download 4k](https://www.bing.com/th?id=OHR.BlueLagoon_JA-JP4946711917_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BeverleyWestwood_JA-JP4358160111_1920x1080.jpg) 20221226 [download 4k](https://www.bing.com/th?id=OHR.BeverleyWestwood_JA-JP4358160111_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChristmasSouvenir_JA-JP8534643006_1920x1080.jpg) 20221225 [download 4k](https://www.bing.com/th?id=OHR.ChristmasSouvenir_JA-JP8534643006_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AmalgaTree_JA-JP3864422935_1920x1080.jpg) 20221224 [download 4k](https://www.bing.com/th?id=OHR.AmalgaTree_JA-JP3864422935_UHD.jpg) |

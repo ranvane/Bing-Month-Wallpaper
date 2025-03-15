@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/Newyear_ZH-CN7704868471_1920x1080.jpg) 20181231 [download 4k](https://www.bing.com/az/hprichbg/rb/Newyear_ZH-CN7704868471_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/EyeFireworks_ZH-CN1712859531_1920x1080.jpg) 20181230 [download 4k](https://www.bing.com/az/hprichbg/rb/EyeFireworks_ZH-CN1712859531_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Shaun_ZH-CN1664802755_1920x1080.jpg) 20181229 [download 4k](https://www.bing.com/az/hprichbg/rb/Shaun_ZH-CN1664802755_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/NLNorway_ZH-CN3295729777_1920x1080.jpg) 20181228 [download 4k](https://www.bing.com/az/hprichbg/rb/NLNorway_ZH-CN3295729777_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/WYBaldEagle_ZH-CN3186832628_1920x1080.jpg) 20181227 [download 4k](https://www.bing.com/az/hprichbg/rb/WYBaldEagle_ZH-CN3186832628_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BethesdaSnow_ZH-CN3087618718_1920x1080.jpg) 20181226 [download 4k](https://www.bing.com/az/hprichbg/rb/BethesdaSnow_ZH-CN3087618718_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/OxfordBoxing_ZH-CN2854964515_1920x1080.jpg) 20181225 [download 4k](https://www.bing.com/az/hprichbg/rb/OxfordBoxing_ZH-CN2854964515_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ToyXmasTree_ZH-CN7495694130_1920x1080.jpg) 20181224 [download 4k](https://www.bing.com/az/hprichbg/rb/ToyXmasTree_ZH-CN7495694130_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SilentNight_ZH-CN6692349673_1920x1080.jpg) 20181223 [download 4k](https://www.bing.com/az/hprichbg/rb/SilentNight_ZH-CN6692349673_UHD.jpg) |

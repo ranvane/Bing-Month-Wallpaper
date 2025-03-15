@@ -1,7 +1,7 @@
 # Bing Wallpaper (2021-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.BlueTitDaffs_ZH-CN3333224685_1920x1080.jpg) 20210228 [download 4k](https://www.bing.com/th?id=OHR.BlueTitDaffs_ZH-CN3333224685_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TurfHouse_ZH-CN3250210711_1920x1080.jpg) 20210227 [download 4k](https://www.bing.com/th?id=OHR.TurfHouse_ZH-CN3250210711_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SchneebergOchsenkopf_ZH-CN3115679592_1920x1080.jpg) 20210226 [download 4k](https://www.bing.com/th?id=OHR.SchneebergOchsenkopf_ZH-CN3115679592_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.JinliStreet_ZH-CN3020276206_1920x1080.jpg) 20210225 [download 4k](https://www.bing.com/th?id=OHR.JinliStreet_ZH-CN3020276206_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Trevi_ZH-CN9831666780_1920x1080.jpg) 20210224 [download 4k](https://www.bing.com/th?id=OHR.Trevi_ZH-CN9831666780_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LeMorneBrabant_ZH-CN9699020288_1920x1080.jpg) 20210223 [download 4k](https://www.bing.com/th?id=OHR.LeMorneBrabant_ZH-CN9699020288_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.DalmatianPelicans_ZH-CN9611080858_1920x1080.jpg) 20210222 [download 4k](https://www.bing.com/th?id=OHR.DalmatianPelicans_ZH-CN9611080858_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TheCobb_ZH-CN9310074102_1920x1080.jpg) 20210221 [download 4k](https://www.bing.com/th?id=OHR.TheCobb_ZH-CN9310074102_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Porto_ZH-CN9117852684_1920x1080.jpg) 20210220 [download 4k](https://www.bing.com/th?id=OHR.Porto_ZH-CN9117852684_UHD.jpg) |

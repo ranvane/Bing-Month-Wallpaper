@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-04)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/SouthMoravian_EN-US11652881532_1920x1080.jpg) 20170430 [download 4k](https://www.bing.com/az/hprichbg/rb/SouthMoravian_EN-US11652881532_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SoundSuits_EN-US11561095548_1920x1080.jpg) 20170429 [download 4k](https://www.bing.com/az/hprichbg/rb/SoundSuits_EN-US11561095548_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SproutVideo_EN-US11890393462_1920x1080.jpg) 20170428 [download 4k](https://www.bing.com/az/hprichbg/rb/SproutVideo_EN-US11890393462_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/SaronicGulf_EN-US8379891695_1920x1080.jpg) 20170427 [download 4k](https://www.bing.com/az/hprichbg/rb/SaronicGulf_EN-US8379891695_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/CivitadiBagnoregio_EN-US13033336798_1920x1080.jpg) 20170426 [download 4k](https://www.bing.com/az/hprichbg/rb/CivitadiBagnoregio_EN-US13033336798_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/AfricaWeaverbirds_EN-US9680293413_1920x1080.jpg) 20170425 [download 4k](https://www.bing.com/az/hprichbg/rb/AfricaWeaverbirds_EN-US9680293413_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/ReadingRoom_EN-US11897070182_1920x1080.jpg) 20170424 [download 4k](https://www.bing.com/az/hprichbg/rb/ReadingRoom_EN-US11897070182_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SolDucValley_EN-US10774187238_1920x1080.jpg) 20170423 [download 4k](https://www.bing.com/az/hprichbg/rb/SolDucValley_EN-US10774187238_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ZoomOut_EN-US4471982075_1920x1080.jpg) 20170422 [download 4k](https://www.bing.com/az/hprichbg/rb/ZoomOut_EN-US4471982075_UHD.jpg) |

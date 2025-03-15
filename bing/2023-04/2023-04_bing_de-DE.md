@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-04)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.SunflowerBee_DE-DE9415817741_1920x1080.jpg) 20230501 [download 4k](https://www.bing.com/th?id=OHR.SunflowerBee_DE-DE9415817741_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_DE-DE8207516768_1920x1080.jpg) 20230430 [download 4k](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_DE-DE8207516768_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.JTNPMilkyWay_DE-DE7405272282_1920x1080.jpg) 20230429 [download 4k](https://www.bing.com/th?id=OHR.JTNPMilkyWay_DE-DE7405272282_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MariposaGrove_DE-DE6502000556_1920x1080.jpg) 20230428 [download 4k](https://www.bing.com/th?id=OHR.MariposaGrove_DE-DE6502000556_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SouthPadre_DE-DE5975626528_1920x1080.jpg) 20230427 [download 4k](https://www.bing.com/th?id=OHR.SouthPadre_DE-DE5975626528_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GHOAudubonDay_DE-DE4254094306_1920x1080.jpg) 20230426 [download 4k](https://www.bing.com/th?id=OHR.GHOAudubonDay_DE-DE4254094306_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.NaturalHeritageCenter_DE-DE0230268232_1920x1080.jpg) 20230425 [download 4k](https://www.bing.com/th?id=OHR.NaturalHeritageCenter_DE-DE0230268232_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FranconianWineCellar_DE-DE9737589595_1920x1080.jpg) 20230424 [download 4k](https://www.bing.com/th?id=OHR.FranconianWineCellar_DE-DE9737589595_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.StuttgartPublicLibrary_DE-DE9376836854_1920x1080.jpg) 20230423 [download 4k](https://www.bing.com/th?id=OHR.StuttgartPublicLibrary_DE-DE9376836854_UHD.jpg) |

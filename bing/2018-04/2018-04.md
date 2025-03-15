@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-04)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/SONC_ZH-CN9822965309_1920x1080.jpg) 20180430 [download 4k](https://www.bing.com/az/hprichbg/rb/SONC_ZH-CN9822965309_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MaryLouWilliams_ZH-CN11937645356_1920x1080.jpg) 20180429 [download 4k](https://www.bing.com/az/hprichbg/rb/MaryLouWilliams_ZH-CN11937645356_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/RubyBeach_ZH-CN9208446641_1920x1080.jpg) 20180428 [download 4k](https://www.bing.com/az/hprichbg/rb/RubyBeach_ZH-CN9208446641_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/GreatGhost_ZH-CN8881294926_1920x1080.jpg) 20180427 [download 4k](https://www.bing.com/az/hprichbg/rb/GreatGhost_ZH-CN8881294926_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/YosemiteFog_ZH-CN8174427528_1920x1080.jpg) 20180426 [download 4k](https://www.bing.com/az/hprichbg/rb/YosemiteFog_ZH-CN8174427528_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ClaretCup_ZH-CN12198280078_1920x1080.jpg) 20180425 [download 4k](https://www.bing.com/az/hprichbg/rb/ClaretCup_ZH-CN12198280078_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/WindCaveBison_ZH-CN9135908894_1920x1080.jpg) 20180424 [download 4k](https://www.bing.com/az/hprichbg/rb/WindCaveBison_ZH-CN9135908894_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SatelliteGlades_ZH-CN11389308210_1920x1080.jpg) 20180423 [download 4k](https://www.bing.com/az/hprichbg/rb/SatelliteGlades_ZH-CN11389308210_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/HNPVisitors_ZH-CN13484945239_1920x1080.jpg) 20180422 [download 4k](https://www.bing.com/az/hprichbg/rb/HNPVisitors_ZH-CN13484945239_UHD.jpg) |

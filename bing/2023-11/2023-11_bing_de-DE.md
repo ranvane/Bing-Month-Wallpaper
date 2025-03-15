@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.IcebergAntarctica_DE-DE5154867444_1920x1080.jpg) 20231201 [download 4k](https://www.bing.com/th?id=OHR.IcebergAntarctica_DE-DE5154867444_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TrotternishStorr_DE-DE5333891461_1920x1080.jpg) 20231130 [download 4k](https://www.bing.com/th?id=OHR.TrotternishStorr_DE-DE5333891461_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TreeLighting_DE-DE4918543732_1920x1080.jpg) 20231129 [download 4k](https://www.bing.com/th?id=OHR.TreeLighting_DE-DE4918543732_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HumanKindness_DE-DE4505100231_1920x1080.jpg) 20231128 [download 4k](https://www.bing.com/th?id=OHR.HumanKindness_DE-DE4505100231_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FrankfurtChristmasMarket_DE-DE3743491951_1920x1080.jpg) 20231127 [download 4k](https://www.bing.com/th?id=OHR.FrankfurtChristmasMarket_DE-DE3743491951_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BradgateFallow_DE-DE3588733634_1920x1080.jpg) 20231126 [download 4k](https://www.bing.com/th?id=OHR.BradgateFallow_DE-DE3588733634_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.TajoRiver_DE-DE3120502310_1920x1080.jpg) 20231125 [download 4k](https://www.bing.com/th?id=OHR.TajoRiver_DE-DE3120502310_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HallofMosses_DE-DE2487418746_1920x1080.jpg) 20231124 [download 4k](https://www.bing.com/th?id=OHR.HallofMosses_DE-DE2487418746_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TeideNational_DE-DE1766890549_1920x1080.jpg) 20231123 [download 4k](https://www.bing.com/th?id=OHR.TeideNational_DE-DE1766890549_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.CinqueTorriCortina_IT-IT1456925506_1920x1080.jpg) 20240301 [download 4k](https://www.bing.com/th?id=OHR.CinqueTorriCortina_IT-IT1456925506_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LeapingSquirrel_IT-IT0733873049_1920x1080.jpg) 20240229 [download 4k](https://www.bing.com/th?id=OHR.LeapingSquirrel_IT-IT0733873049_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BamburghCastleUK_IT-IT5518925488_1920x1080.jpg) 20240228 [download 4k](https://www.bing.com/th?id=OHR.BamburghCastleUK_IT-IT5518925488_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PolarBearCubs_IT-IT9998741209_1920x1080.jpg) 20240227 [download 4k](https://www.bing.com/th?id=OHR.PolarBearCubs_IT-IT9998741209_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GrandCanyonWinter_IT-IT9629342558_1920x1080.jpg) 20240226 [download 4k](https://www.bing.com/th?id=OHR.GrandCanyonWinter_IT-IT9629342558_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtPrevostDuncan_IT-IT3250174651_1920x1080.jpg) 20240225 [download 4k](https://www.bing.com/th?id=OHR.MtPrevostDuncan_IT-IT3250174651_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GreenfinchesBattle_IT-IT1304906662_1920x1080.jpg) 20240224 [download 4k](https://www.bing.com/th?id=OHR.GreenfinchesBattle_IT-IT1304906662_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HaghartsinMonastery_IT-IT8194609337_1920x1080.jpg) 20240223 [download 4k](https://www.bing.com/th?id=OHR.HaghartsinMonastery_IT-IT8194609337_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BrightonBoxes_IT-IT6630946422_1920x1080.jpg) 20240222 [download 4k](https://www.bing.com/th?id=OHR.BrightonBoxes_IT-IT6630946422_UHD.jpg) |

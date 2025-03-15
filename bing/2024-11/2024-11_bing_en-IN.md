@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-IN1897026898_1920x1080.jpg) 20241201 [download 4k](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-IN1897026898_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RhinosKenya_EN-IN6639992420_1920x1080.jpg) 20241130 [download 4k](https://www.bing.com/th?id=OHR.RhinosKenya_EN-IN6639992420_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtStMichel_EN-IN3221435828_1920x1080.jpg) 20241129 [download 4k](https://www.bing.com/th?id=OHR.MtStMichel_EN-IN3221435828_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MurdeshwarTemple_EN-IN3830652229_1920x1080.jpg) 20241128 [download 4k](https://www.bing.com/th?id=OHR.MurdeshwarTemple_EN-IN3830652229_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SemoisRiver_EN-IN2471885756_1920x1080.jpg) 20241127 [download 4k](https://www.bing.com/th?id=OHR.SemoisRiver_EN-IN2471885756_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ConstitutionDay_EN-IN3100148262_1920x1080.jpg) 20241126 [download 4k](https://www.bing.com/th?id=OHR.ConstitutionDay_EN-IN3100148262_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-IN2702242576_1920x1080.jpg) 20241125 [download 4k](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-IN2702242576_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SonomaCoast_EN-IN1867491074_1920x1080.jpg) 20241124 [download 4k](https://www.bing.com/th?id=OHR.SonomaCoast_EN-IN1867491074_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FibonacciAloe_EN-IN9508407386_1920x1080.jpg) 20241123 [download 4k](https://www.bing.com/th?id=OHR.FibonacciAloe_EN-IN9508407386_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ReefAwareness_DE-DE8258767284_1920x1080.jpg) 20230601 [download 4k](https://www.bing.com/th?id=OHR.ReefAwareness_DE-DE8258767284_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WorldOtterDay_DE-DE7818224728_1920x1080.jpg) 20230531 [download 4k](https://www.bing.com/th?id=OHR.WorldOtterDay_DE-DE7818224728_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HiddenBeach_DE-DE7094795169_1920x1080.jpg) 20230530 [download 4k](https://www.bing.com/th?id=OHR.HiddenBeach_DE-DE7094795169_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HistoricWindmill_DE-DE6549232529_1920x1080.jpg) 20230529 [download 4k](https://www.bing.com/th?id=OHR.HistoricWindmill_DE-DE6549232529_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TegallalangTerrace_DE-DE5316253421_1920x1080.jpg) 20230528 [download 4k](https://www.bing.com/th?id=OHR.TegallalangTerrace_DE-DE5316253421_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AloeDichotomum_DE-DE4474224527_1920x1080.jpg) 20230527 [download 4k](https://www.bing.com/th?id=OHR.AloeDichotomum_DE-DE4474224527_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.WatSriSawai_DE-DE3655938171_1920x1080.jpg) 20230526 [download 4k](https://www.bing.com/th?id=OHR.WatSriSawai_DE-DE3655938171_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SaksunFaroe_DE-DE3088151760_1920x1080.jpg) 20230525 [download 4k](https://www.bing.com/th?id=OHR.SaksunFaroe_DE-DE3088151760_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OldFortress_DE-DE2608011846_1920x1080.jpg) 20230524 [download 4k](https://www.bing.com/th?id=OHR.OldFortress_DE-DE2608011846_UHD.jpg) |

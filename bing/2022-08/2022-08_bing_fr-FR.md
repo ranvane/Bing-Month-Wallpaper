@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LearningTime_FR-FR8827471524_1920x1080.jpg) 20220901 [download 4k](https://www.bing.com/th?id=OHR.LearningTime_FR-FR8827471524_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BlueLinckia_FR-FR4477595693_1920x1080.jpg) 20220831 [download 4k](https://www.bing.com/th?id=OHR.BlueLinckia_FR-FR4477595693_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Migliarino_FR-FR3986581198_1920x1080.jpg) 20220830 [download 4k](https://www.bing.com/th?id=OHR.Migliarino_FR-FR3986581198_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.EstoniaBaltic_FR-FR3464159501_1920x1080.jpg) 20220829 [download 4k](https://www.bing.com/th?id=OHR.EstoniaBaltic_FR-FR3464159501_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BeardedTit_FR-FR2957899120_1920x1080.jpg) 20220828 [download 4k](https://www.bing.com/th?id=OHR.BeardedTit_FR-FR2957899120_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MSHV_FR-FR2538696871_1920x1080.jpg) 20220827 [download 4k](https://www.bing.com/th?id=OHR.MSHV_FR-FR2538696871_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PeljesacWind_FR-FR2045265496_1920x1080.jpg) 20220826 [download 4k](https://www.bing.com/th?id=OHR.PeljesacWind_FR-FR2045265496_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RockenSeine_FR-FR6522638950_1920x1080.jpg) 20220825 [download 4k](https://www.bing.com/th?id=OHR.RockenSeine_FR-FR6522638950_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WheatField_FR-FR6330124183_1920x1080.jpg) 20220824 [download 4k](https://www.bing.com/th?id=OHR.WheatField_FR-FR6330124183_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/RosehipRobin_ZH-CN10943133314_1920x1080.jpg) 20171231 [download 4k](https://www.bing.com/az/hprichbg/rb/RosehipRobin_ZH-CN10943133314_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/NordketteNYE_ZH-CN12614598789_1920x1080.jpg) 20171230 [download 4k](https://www.bing.com/az/hprichbg/rb/NordketteNYE_ZH-CN12614598789_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/UKThamesBarrier_ZH-CN7996034899_1920x1080.jpg) 20171229 [download 4k](https://www.bing.com/az/hprichbg/rb/UKThamesBarrier_ZH-CN7996034899_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/PineZion_ZH-CN13789067332_1920x1080.jpg) 20171228 [download 4k](https://www.bing.com/az/hprichbg/rb/PineZion_ZH-CN13789067332_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/HawaiiGST_ZH-CN13537794612_1920x1080.jpg) 20171227 [download 4k](https://www.bing.com/az/hprichbg/rb/HawaiiGST_ZH-CN13537794612_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/CPNYSnow_ZH-CN13335620157_1920x1080.jpg) 20171226 [download 4k](https://www.bing.com/az/hprichbg/rb/CPNYSnow_ZH-CN13335620157_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/GlisGlis_ZH-CN12580308968_1920x1080.jpg) 20171225 [download 4k](https://www.bing.com/az/hprichbg/rb/GlisGlis_ZH-CN12580308968_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/LaplandAurora_ZH-CN13018939166_1920x1080.jpg) 20171224 [download 4k](https://www.bing.com/az/hprichbg/rb/LaplandAurora_ZH-CN13018939166_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/NorthPole_ZH-CN14730815128_1920x1080.jpg) 20171223 [download 4k](https://www.bing.com/az/hprichbg/rb/NorthPole_ZH-CN14730815128_UHD.jpg) |

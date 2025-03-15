@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.DiadoSaci_PT-BR3042315379_1920x1080.jpg) 20241101 [download 4k](https://www.bing.com/th?id=OHR.DiadoSaci_PT-BR3042315379_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HauntedEdinburgh_PT-BR5740528750_1920x1080.jpg) 20241031 [download 4k](https://www.bing.com/th?id=OHR.HauntedEdinburgh_PT-BR5740528750_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DiadoLivroRJ_PT-BR5813515082_1920x1080.jpg) 20241030 [download 4k](https://www.bing.com/th?id=OHR.DiadoLivroRJ_PT-BR5813515082_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PumpkinMist_PT-BR5900196998_1920x1080.jpg) 20241029 [download 4k](https://www.bing.com/th?id=OHR.PumpkinMist_PT-BR5900196998_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarBearHug_PT-BR5987210106_1920x1080.jpg) 20241028 [download 4k](https://www.bing.com/th?id=OHR.PolarBearHug_PT-BR5987210106_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GhostForest_PT-BR6077995597_1920x1080.jpg) 20241027 [download 4k](https://www.bing.com/th?id=OHR.GhostForest_PT-BR6077995597_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MontBlancMassif_PT-BR6216119824_1920x1080.jpg) 20241026 [download 4k](https://www.bing.com/th?id=OHR.MontBlancMassif_PT-BR6216119824_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GreatOwl_PT-BR6294923796_1920x1080.jpg) 20241025 [download 4k](https://www.bing.com/th?id=OHR.GreatOwl_PT-BR6294923796_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MadameSherriCastle_PT-BR6347507629_1920x1080.jpg) 20241024 [download 4k](https://www.bing.com/th?id=OHR.MadameSherriCastle_PT-BR6347507629_UHD.jpg) |

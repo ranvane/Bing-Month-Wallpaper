@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.QingmingCandle2020_ZH-CN6775701680_1920x1080.jpg) 20221201 [download 4k](https://www.bing.com/th?id=OHR.QingmingCandle2020_ZH-CN6775701680_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_1920x1080.jpg) 20221130 [download 4k](https://www.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_1920x1080.jpg) 20221129 [download 4k](https://www.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg) 20221128 [download 4k](https://www.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_1920x1080.jpg) 20221127 [download 4k](https://www.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OliveTreeDay_ZH-CN3960861965_1920x1080.jpg) 20221126 [download 4k](https://www.bing.com/th?id=OHR.OliveTreeDay_ZH-CN3960861965_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.TurenneSunrise_ZH-CN2357226217_1920x1080.jpg) 20221125 [download 4k](https://www.bing.com/th?id=OHR.TurenneSunrise_ZH-CN2357226217_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_1920x1080.jpg) 20221124 [download 4k](https://www.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_1920x1080.jpg) 20221123 [download 4k](https://www.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_UHD.jpg) |

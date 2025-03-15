@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/RedAntarctica_ZH-CN10525229225_1920x1080.jpg) 20181130 [download 4k](https://www.bing.com/az/hprichbg/rb/RedAntarctica_ZH-CN10525229225_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/KilchurnSky_ZH-CN9305096030_1920x1080.jpg) 20181129 [download 4k](https://www.bing.com/az/hprichbg/rb/KilchurnSky_ZH-CN9305096030_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/FrankfurtXmas_ZH-CN9289866662_1920x1080.jpg) 20181128 [download 4k](https://www.bing.com/az/hprichbg/rb/FrankfurtXmas_ZH-CN9289866662_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/GodrevyLighthouse_ZH-CN10749942094_1920x1080.jpg) 20181127 [download 4k](https://www.bing.com/az/hprichbg/rb/GodrevyLighthouse_ZH-CN10749942094_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/FoxMolt_ZH-CN7917304192_1920x1080.jpg) 20181126 [download 4k](https://www.bing.com/az/hprichbg/rb/FoxMolt_ZH-CN7917304192_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/AliceCentralPark_ZH-CN9031006021_1920x1080.jpg) 20181125 [download 4k](https://www.bing.com/az/hprichbg/rb/AliceCentralPark_ZH-CN9031006021_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/NorsteadLights_ZH-CN9558383357_1920x1080.jpg) 20181124 [download 4k](https://www.bing.com/az/hprichbg/rb/NorsteadLights_ZH-CN9558383357_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/DarwinOrigin_ZH-CN13549933105_1920x1080.jpg) 20181123 [download 4k](https://www.bing.com/az/hprichbg/rb/DarwinOrigin_ZH-CN13549933105_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/VarennaSnow_ZH-CN7673479242_1920x1080.jpg) 20181122 [download 4k](https://www.bing.com/az/hprichbg/rb/VarennaSnow_ZH-CN7673479242_UHD.jpg) |

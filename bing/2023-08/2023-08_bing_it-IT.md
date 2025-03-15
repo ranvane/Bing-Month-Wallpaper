@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.TurkeyTailMush_IT-IT6836911122_1920x1080.jpg) 20230901 [download 4k](https://www.bing.com/th?id=OHR.TurkeyTailMush_IT-IT6836911122_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IronwoodCactus_IT-IT9614113737_1920x1080.jpg) 20230831 [download 4k](https://www.bing.com/th?id=OHR.IronwoodCactus_IT-IT9614113737_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NingalooShark_IT-IT4786204671_1920x1080.jpg) 20230830 [download 4k](https://www.bing.com/th?id=OHR.NingalooShark_IT-IT4786204671_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CrescentLake_IT-IT9118936365_1920x1080.jpg) 20230829 [download 4k](https://www.bing.com/th?id=OHR.CrescentLake_IT-IT9118936365_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DubrovnikHarbor_IT-IT2167312556_1920x1080.jpg) 20230828 [download 4k](https://www.bing.com/th?id=OHR.DubrovnikHarbor_IT-IT2167312556_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RagusaIbla_IT-IT6191963185_1920x1080.jpg) 20230827 [download 4k](https://www.bing.com/th?id=OHR.RagusaIbla_IT-IT6191963185_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MuseumIsland_IT-IT1593981985_1920x1080.jpg) 20230826 [download 4k](https://www.bing.com/th?id=OHR.MuseumIsland_IT-IT1593981985_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YellowstoneFalls_IT-IT0133423333_1920x1080.jpg) 20230825 [download 4k](https://www.bing.com/th?id=OHR.YellowstoneFalls_IT-IT0133423333_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SharkFinCove_IT-IT2584929275_1920x1080.jpg) 20230824 [download 4k](https://www.bing.com/th?id=OHR.SharkFinCove_IT-IT2584929275_UHD.jpg) |

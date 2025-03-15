@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-04)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.KlostersSerneus_JA-JP1346156954_1920x1080.jpg) 20230501 [download 4k](https://www.bing.com/th?id=OHR.KlostersSerneus_JA-JP1346156954_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_JA-JP1094294616_1920x1080.jpg) 20230430 [download 4k](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_JA-JP1094294616_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.JTNPMilkyWay_JA-JP0040708702_1920x1080.jpg) 20230429 [download 4k](https://www.bing.com/th?id=OHR.JTNPMilkyWay_JA-JP0040708702_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MariposaGrove_JA-JP1724100743_1920x1080.jpg) 20230428 [download 4k](https://www.bing.com/th?id=OHR.MariposaGrove_JA-JP1724100743_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SouthPadre_JA-JP8678119712_1920x1080.jpg) 20230427 [download 4k](https://www.bing.com/th?id=OHR.SouthPadre_JA-JP8678119712_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GHOAudubonDay_JA-JP8134912758_1920x1080.jpg) 20230426 [download 4k](https://www.bing.com/th?id=OHR.GHOAudubonDay_JA-JP8134912758_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AdelieWPD_JA-JP7318498181_1920x1080.jpg) 20230425 [download 4k](https://www.bing.com/th?id=OHR.AdelieWPD_JA-JP7318498181_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ThreeWildebeest_JA-JP2908704390_1920x1080.jpg) 20230424 [download 4k](https://www.bing.com/th?id=OHR.ThreeWildebeest_JA-JP2908704390_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.StuttgartPublicLibrary_JA-JP1364154542_1920x1080.jpg) 20230423 [download 4k](https://www.bing.com/th?id=OHR.StuttgartPublicLibrary_JA-JP1364154542_UHD.jpg) |

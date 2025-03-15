@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PrideMonthSF_IT-IT0189244856_1920x1080.jpg) 20240601 [download 4k](https://www.bing.com/th?id=OHR.PrideMonthSF_IT-IT0189244856_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_IT-IT9821537287_1920x1080.jpg) 20240531 [download 4k](https://www.bing.com/th?id=OHR.YorkshireDalesNP_IT-IT9821537287_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Everglades90th_IT-IT9833292741_1920x1080.jpg) 20240530 [download 4k](https://www.bing.com/th?id=OHR.Everglades90th_IT-IT9833292741_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MullOtter_IT-IT5835725538_1920x1080.jpg) 20240529 [download 4k](https://www.bing.com/th?id=OHR.MullOtter_IT-IT5835725538_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MeteoraMonastery_IT-IT6224656516_1920x1080.jpg) 20240528 [download 4k](https://www.bing.com/th?id=OHR.MeteoraMonastery_IT-IT6224656516_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SestriLevante_IT-IT7994211355_1920x1080.jpg) 20240527 [download 4k](https://www.bing.com/th?id=OHR.SestriLevante_IT-IT7994211355_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MethowWildflowers_IT-IT7261352417_1920x1080.jpg) 20240526 [download 4k](https://www.bing.com/th?id=OHR.MethowWildflowers_IT-IT7261352417_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_IT-IT7804111538_1920x1080.jpg) 20240525 [download 4k](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_IT-IT7804111538_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OrdesaNationalPark_IT-IT5681157201_1920x1080.jpg) 20240524 [download 4k](https://www.bing.com/th?id=OHR.OrdesaNationalPark_IT-IT5681157201_UHD.jpg) |

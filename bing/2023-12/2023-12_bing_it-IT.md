@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.SleepingFox_IT-IT1479703607_1920x1080.jpg) 20240101 [download 4k](https://www.bing.com/th?id=OHR.SleepingFox_IT-IT1479703607_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SantaMariaVenice_1185725818_IT-IT0984119913_1920x1080.jpg) 20231231 [download 4k](https://www.bing.com/th?id=OHR.SantaMariaVenice_1185725818_IT-IT0984119913_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TadamiWinter_IT-IT9712600092_1920x1080.jpg) 20231230 [download 4k](https://www.bing.com/th?id=OHR.TadamiWinter_IT-IT9712600092_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BlueAmsterdam_IT-IT8956401026_1920x1080.jpg) 20231229 [download 4k](https://www.bing.com/th?id=OHR.BlueAmsterdam_IT-IT8956401026_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GreenlandHumpback_IT-IT6047849263_1920x1080.jpg) 20231228 [download 4k](https://www.bing.com/th?id=OHR.GreenlandHumpback_IT-IT6047849263_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KirkjufellAurora_IT-IT8493036808_1920x1080.jpg) 20231227 [download 4k](https://www.bing.com/th?id=OHR.KirkjufellAurora_IT-IT8493036808_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BoxingDaySunrise_IT-IT0476849181_1920x1080.jpg) 20231226 [download 4k](https://www.bing.com/th?id=OHR.BoxingDaySunrise_IT-IT0476849181_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CaribouChristmas_IT-IT1422624453_1920x1080.jpg) 20231225 [download 4k](https://www.bing.com/th?id=OHR.CaribouChristmas_IT-IT1422624453_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MilanXmasTree_IT-IT2035512778_1920x1080.jpg) 20231224 [download 4k](https://www.bing.com/th?id=OHR.MilanXmasTree_IT-IT2035512778_UHD.jpg) |

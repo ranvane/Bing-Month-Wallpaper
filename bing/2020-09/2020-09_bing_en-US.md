@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LaragangaMoth_EN-US2112895555_1920x1080.jpg) 20200930 [download 4k](https://www.bing.com/th?id=OHR.LaragangaMoth_EN-US2112895555_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Lavaux_EN-US2058068352_1920x1080.jpg) 20200929 [download 4k](https://www.bing.com/th?id=OHR.Lavaux_EN-US2058068352_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GreatBlueShark_EN-US2007599182_1920x1080.jpg) 20200928 [download 4k](https://www.bing.com/th?id=OHR.GreatBlueShark_EN-US2007599182_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FraserRiver_EN-US1907103451_1920x1080.jpg) 20200927 [download 4k](https://www.bing.com/th?id=OHR.FraserRiver_EN-US1907103451_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WatkinsGlen_EN-US1837020817_1920x1080.jpg) 20200926 [download 4k](https://www.bing.com/th?id=OHR.WatkinsGlen_EN-US1837020817_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NatBookFest_EN-US1774393617_1920x1080.jpg) 20200925 [download 4k](https://www.bing.com/th?id=OHR.NatBookFest_EN-US1774393617_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Almabtrieb_EN-US4018816112_1920x1080.jpg) 20200924 [download 4k](https://www.bing.com/th?id=OHR.Almabtrieb_EN-US4018816112_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GoldenGinkgo_EN-US3839968097_1920x1080.jpg) 20200923 [download 4k](https://www.bing.com/th?id=OHR.GoldenGinkgo_EN-US3839968097_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Matamata_EN-US3735598473_1920x1080.jpg) 20200922 [download 4k](https://www.bing.com/th?id=OHR.Matamata_EN-US3735598473_UHD.jpg) |

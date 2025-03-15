@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HeidelbergCastle_DE-DE7111251205_1920x1080.jpg) 20240701 [download 4k](https://www.bing.com/th?id=OHR.HeidelbergCastle_DE-DE7111251205_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.UbudBali_DE-DE9291119795_1920x1080.jpg) 20240630 [download 4k](https://www.bing.com/th?id=OHR.UbudBali_DE-DE9291119795_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TourCorsica_DE-DE8597193744_1920x1080.jpg) 20240629 [download 4k](https://www.bing.com/th?id=OHR.TourCorsica_DE-DE8597193744_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AllianzArena_DE-DE5063263728_1920x1080.jpg) 20240628 [download 4k](https://www.bing.com/th?id=OHR.AllianzArena_DE-DE5063263728_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FlorenceDuomo_DE-DE5707653753_1920x1080.jpg) 20240627 [download 4k](https://www.bing.com/th?id=OHR.FlorenceDuomo_DE-DE5707653753_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CardinalfishAnemone_DE-DE5420606353_1920x1080.jpg) 20240626 [download 4k](https://www.bing.com/th?id=OHR.CardinalfishAnemone_DE-DE5420606353_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FireWave_DE-DE5152137899_1920x1080.jpg) 20240625 [download 4k](https://www.bing.com/th?id=OHR.FireWave_DE-DE5152137899_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FloresIsland_DE-DE4765362804_1920x1080.jpg) 20240624 [download 4k](https://www.bing.com/th?id=OHR.FloresIsland_DE-DE4765362804_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DhakaBangladesh_DE-DE1601087316_1920x1080.jpg) 20240623 [download 4k](https://www.bing.com/th?id=OHR.DhakaBangladesh_DE-DE1601087316_UHD.jpg) |

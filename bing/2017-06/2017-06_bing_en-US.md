@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/RanwuLake_EN-US10121024399_1920x1080.jpg) 20170630 [download 4k](https://www.bing.com/az/hprichbg/rb/RanwuLake_EN-US10121024399_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/NorddorfPath_EN-US10723559913_1920x1080.jpg) 20170629 [download 4k](https://www.bing.com/az/hprichbg/rb/NorddorfPath_EN-US10723559913_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/JoshuaTrees_EN-US10044021957_1920x1080.jpg) 20170628 [download 4k](https://www.bing.com/az/hprichbg/rb/JoshuaTrees_EN-US10044021957_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/CallanishSS_EN-US12690147391_1920x1080.jpg) 20170627 [download 4k](https://www.bing.com/az/hprichbg/rb/CallanishSS_EN-US12690147391_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MadagascarLemurs_EN-US6929042654_1920x1080.jpg) 20170626 [download 4k](https://www.bing.com/az/hprichbg/rb/MadagascarLemurs_EN-US6929042654_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SanLorenzo_EN-US8246045607_1920x1080.jpg) 20170625 [download 4k](https://www.bing.com/az/hprichbg/rb/SanLorenzo_EN-US8246045607_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/HawaiiSwim_EN-US7233619332_1920x1080.jpg) 20170624 [download 4k](https://www.bing.com/az/hprichbg/rb/HawaiiSwim_EN-US7233619332_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MooneyFalls_EN-US11568488094_1920x1080.jpg) 20170623 [download 4k](https://www.bing.com/az/hprichbg/rb/MooneyFalls_EN-US11568488094_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/AKFox_EN-US8586782340_1920x1080.jpg) 20170622 [download 4k](https://www.bing.com/az/hprichbg/rb/AKFox_EN-US8586782340_UHD.jpg) |

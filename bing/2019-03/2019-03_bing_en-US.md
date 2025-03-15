@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.EiffelBelow_EN-US6599490334_1920x1080.jpg) 20190331 [download 4k](https://www.bing.com/th?id=OHR.EiffelBelow_EN-US6599490334_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EarthHourNYC_EN-US6482203250_1920x1080.jpg) 20190330 [download 4k](https://www.bing.com/th?id=OHR.EarthHourNYC_EN-US6482203250_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AurovilleIndia_EN-US6353298531_1920x1080.jpg) 20190329 [download 4k](https://www.bing.com/th?id=OHR.AurovilleIndia_EN-US6353298531_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.RufousTailed_EN-US7607727290_1920x1080.jpg) 20190328 [download 4k](https://www.bing.com/th?id=OHR.RufousTailed_EN-US7607727290_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SapBuckets_EN-US7503591641_1920x1080.jpg) 20190327 [download 4k](https://www.bing.com/th?id=OHR.SapBuckets_EN-US7503591641_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SakuraFes_EN-US7463077645_1920x1080.jpg) 20190326 [download 4k](https://www.bing.com/th?id=OHR.SakuraFes_EN-US7463077645_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AthensNight_EN-US7424095982_1920x1080.jpg) 20190325 [download 4k](https://www.bing.com/th?id=OHR.AthensNight_EN-US7424095982_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PWSRecovery_EN-US7388925514_1920x1080.jpg) 20190324 [download 4k](https://www.bing.com/th?id=OHR.PWSRecovery_EN-US7388925514_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HolePunchClouds_EN-US7334198220_1920x1080.jpg) 20190323 [download 4k](https://www.bing.com/th?id=OHR.HolePunchClouds_EN-US7334198220_UHD.jpg) |

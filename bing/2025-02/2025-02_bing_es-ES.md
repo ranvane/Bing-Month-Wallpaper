@@ -1,7 +1,7 @@
 # Bing Wallpaper (2025-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.MaligneLakeJasper_ES-ES6288170690_1920x1080.jpg) 20250301 [download 4k](https://www.bing.com/th?id=OHR.MaligneLakeJasper_ES-ES6288170690_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AndalusianStreet_ES-ES6181340886_1920x1080.jpg) 20250228 [download 4k](https://www.bing.com/th?id=OHR.AndalusianStreet_ES-ES6181340886_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarCub_ES-ES6085095422_1920x1080.jpg) 20250227 [download 4k](https://www.bing.com/th?id=OHR.PolarCub_ES-ES6085095422_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ArgyllStalker_ES-ES5913378191_1920x1080.jpg) 20250226 [download 4k](https://www.bing.com/th?id=OHR.ArgyllStalker_ES-ES5913378191_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BryceHoodoos_ES-ES5738568418_1920x1080.jpg) 20250225 [download 4k](https://www.bing.com/th?id=OHR.BryceHoodoos_ES-ES5738568418_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GiantCuttlefish_ES-ES5593543587_1920x1080.jpg) 20250224 [download 4k](https://www.bing.com/th?id=OHR.GiantCuttlefish_ES-ES5593543587_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MtFujiSunrise_ES-ES5111934664_1920x1080.jpg) 20250223 [download 4k](https://www.bing.com/th?id=OHR.MtFujiSunrise_ES-ES5111934664_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SkiResortBaqueiraBeret_ES-ES4946875842_1920x1080.jpg) 20250222 [download 4k](https://www.bing.com/th?id=OHR.SkiResortBaqueiraBeret_ES-ES4946875842_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChampakaSarasi_ES-ES4842882086_1920x1080.jpg) 20250221 [download 4k](https://www.bing.com/th?id=OHR.ChampakaSarasi_ES-ES4842882086_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/SpiralSpain_ZH-CN12059815472_1920x1080.jpg) 20171130 [download 4k](https://www.bing.com/az/hprichbg/rb/SpiralSpain_ZH-CN12059815472_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Piraputanga_ZH-CN13303102627_1920x1080.jpg) 20171129 [download 4k](https://www.bing.com/az/hprichbg/rb/Piraputanga_ZH-CN13303102627_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/LAUnionStation_ZH-CN8034711319_1920x1080.jpg) 20171128 [download 4k](https://www.bing.com/az/hprichbg/rb/LAUnionStation_ZH-CN8034711319_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/RiceLights_ZH-CN7549259687_1920x1080.jpg) 20171127 [download 4k](https://www.bing.com/az/hprichbg/rb/RiceLights_ZH-CN7549259687_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BFBadger_ZH-CN8490916760_1920x1080.jpg) 20171126 [download 4k](https://www.bing.com/az/hprichbg/rb/BFBadger_ZH-CN8490916760_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/RRCNCA_ZH-CN8115353106_1920x1080.jpg) 20171125 [download 4k](https://www.bing.com/az/hprichbg/rb/RRCNCA_ZH-CN8115353106_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/RhoneRiverDusk_ZH-CN7956980058_1920x1080.jpg) 20171124 [download 4k](https://www.bing.com/az/hprichbg/rb/RhoneRiverDusk_ZH-CN7956980058_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/KatenaLuminarium_ZH-CN12074286571_1920x1080.jpg) 20171123 [download 4k](https://www.bing.com/az/hprichbg/rb/KatenaLuminarium_ZH-CN12074286571_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TurkeyTail_ZH-CN10425367061_1920x1080.jpg) 20171122 [download 4k](https://www.bing.com/az/hprichbg/rb/TurkeyTail_ZH-CN10425367061_UHD.jpg) |

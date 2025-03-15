@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_1920x1080.jpg) 20240201 [download 4k](https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ZebraMother_ZH-CN1947314869_1920x1080.jpg) 20240131 [download 4k](https://www.bing.com/th?id=OHR.ZebraMother_ZH-CN1947314869_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AlbaceteSpain_ZH-CN1597281896_1920x1080.jpg) 20240130 [download 4k](https://www.bing.com/th?id=OHR.AlbaceteSpain_ZH-CN1597281896_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GollingerFalls_ZH-CN1137680822_1920x1080.jpg) 20240129 [download 4k](https://www.bing.com/th?id=OHR.GollingerFalls_ZH-CN1137680822_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChannelOutback_ZH-CN0579687777_1920x1080.jpg) 20240128 [download 4k](https://www.bing.com/th?id=OHR.ChannelOutback_ZH-CN0579687777_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ToucanetEmpoleirado_ZH-CN8520861326_1920x1080.jpg) 20240127 [download 4k](https://www.bing.com/th?id=OHR.ToucanetEmpoleirado_ZH-CN8520861326_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HawkOwl_ZH-CN3401920167_1920x1080.jpg) 20240126 [download 4k](https://www.bing.com/th?id=OHR.HawkOwl_ZH-CN3401920167_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DwynwensDay_ZH-CN1768649253_1920x1080.jpg) 20240125 [download 4k](https://www.bing.com/th?id=OHR.DwynwensDay_ZH-CN1768649253_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IcelandBeach_ZH-CN1632329693_1920x1080.jpg) 20240124 [download 4k](https://www.bing.com/th?id=OHR.IcelandBeach_ZH-CN1632329693_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-04)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_EN-CA2845933344_1920x1080.jpg) 20230501 [download 4k](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_EN-CA2845933344_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.JTNPMilkyWay_EN-CA2545299911_1920x1080.jpg) 20230430 [download 4k](https://www.bing.com/th?id=OHR.JTNPMilkyWay_EN-CA2545299911_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MariposaGrove_EN-CA6831249585_1920x1080.jpg) 20230429 [download 4k](https://www.bing.com/th?id=OHR.MariposaGrove_EN-CA6831249585_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SouthPadre_EN-CA1260727750_1920x1080.jpg) 20230428 [download 4k](https://www.bing.com/th?id=OHR.SouthPadre_EN-CA1260727750_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SulphurMountain_EN-CA6114398245_1920x1080.jpg) 20230427 [download 4k](https://www.bing.com/th?id=OHR.SulphurMountain_EN-CA6114398245_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AdelieWPD_EN-CA9843813633_1920x1080.jpg) 20230426 [download 4k](https://www.bing.com/th?id=OHR.AdelieWPD_EN-CA9843813633_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FranconianWineCellar_EN-CA7671304444_1920x1080.jpg) 20230425 [download 4k](https://www.bing.com/th?id=OHR.FranconianWineCellar_EN-CA7671304444_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.StuttgartPublicLibrary_EN-CA7363462491_1920x1080.jpg) 20230424 [download 4k](https://www.bing.com/th?id=OHR.StuttgartPublicLibrary_EN-CA7363462491_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EarthDayFox_EN-CA7029456092_1920x1080.jpg) 20230423 [download 4k](https://www.bing.com/th?id=OHR.EarthDayFox_EN-CA7029456092_UHD.jpg) |

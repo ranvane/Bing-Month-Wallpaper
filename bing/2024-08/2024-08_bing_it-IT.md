@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877_1920x1080.jpg) 20240901 [download 4k](https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DjanetAlgeria_IT-IT6738833644_1920x1080.jpg) 20240831 [download 4k](https://www.bing.com/th?id=OHR.DjanetAlgeria_IT-IT6738833644_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WhaleSharkDay_IT-IT0919967624_1920x1080.jpg) 20240830 [download 4k](https://www.bing.com/th?id=OHR.WhaleSharkDay_IT-IT0919967624_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CastellfollitSpain_IT-IT5915189187_1920x1080.jpg) 20240829 [download 4k](https://www.bing.com/th?id=OHR.CastellfollitSpain_IT-IT5915189187_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ParalympicsParis_IT-IT4851305254_1920x1080.jpg) 20240828 [download 4k](https://www.bing.com/th?id=OHR.ParalympicsParis_IT-IT4851305254_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LagoMisurina_IT-IT4702658331_1920x1080.jpg) 20240827 [download 4k](https://www.bing.com/th?id=OHR.LagoMisurina_IT-IT4702658331_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PalmyraAtoll_IT-IT5623392573_1920x1080.jpg) 20240826 [download 4k](https://www.bing.com/th?id=OHR.PalmyraAtoll_IT-IT5623392573_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SwiftcurrentLake_IT-IT5489995070_1920x1080.jpg) 20240825 [download 4k](https://www.bing.com/th?id=OHR.SwiftcurrentLake_IT-IT5489995070_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KatahdinWoods_IT-IT5335389072_1920x1080.jpg) 20240824 [download 4k](https://www.bing.com/th?id=OHR.KatahdinWoods_IT-IT5335389072_UHD.jpg) |

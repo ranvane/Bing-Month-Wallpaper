@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/Nyala_ZH-CN13349334824_1920x1080.jpg) 20170731 [download 4k](https://www.bing.com/az/hprichbg/rb/Nyala_ZH-CN13349334824_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Mellieha_ZH-CN10970369201_1920x1080.jpg) 20170730 [download 4k](https://www.bing.com/az/hprichbg/rb/Mellieha_ZH-CN10970369201_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MineralCliffs_ZH-CN11986913181_1920x1080.jpg) 20170729 [download 4k](https://www.bing.com/az/hprichbg/rb/MineralCliffs_ZH-CN11986913181_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/WaSqPk_ZH-CN9988391968_1920x1080.jpg) 20170728 [download 4k](https://www.bing.com/az/hprichbg/rb/WaSqPk_ZH-CN9988391968_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TempleStreet_ZH-CN7471755280_1920x1080.jpg) 20170727 [download 4k](https://www.bing.com/az/hprichbg/rb/TempleStreet_ZH-CN7471755280_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/HuangshanClouds_ZH-CN11669699321_1920x1080.jpg) 20170726 [download 4k](https://www.bing.com/az/hprichbg/rb/HuangshanClouds_ZH-CN11669699321_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/WilsonPeakWindow_ZH-CN10363033426_1920x1080.jpg) 20170725 [download 4k](https://www.bing.com/az/hprichbg/rb/WilsonPeakWindow_ZH-CN10363033426_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ReinebringenRidge_ZH-CN9518224182_1920x1080.jpg) 20170724 [download 4k](https://www.bing.com/az/hprichbg/rb/ReinebringenRidge_ZH-CN9518224182_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/RainbowLorikeets_ZH-CN10796666125_1920x1080.jpg) 20170723 [download 4k](https://www.bing.com/az/hprichbg/rb/RainbowLorikeets_ZH-CN10796666125_UHD.jpg) |

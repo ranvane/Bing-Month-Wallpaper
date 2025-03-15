@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/NordketteNYE_EN-US12870487032_1920x1080.jpg) 20171231 [download 4k](https://www.bing.com/az/hprichbg/rb/NordketteNYE_EN-US12870487032_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/UKThamesBarrier_EN-US8901255344_1920x1080.jpg) 20171230 [download 4k](https://www.bing.com/az/hprichbg/rb/UKThamesBarrier_EN-US8901255344_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/PineZion_EN-US12909890750_1920x1080.jpg) 20171229 [download 4k](https://www.bing.com/az/hprichbg/rb/PineZion_EN-US12909890750_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/HawaiiGST_EN-US13793614204_1920x1080.jpg) 20171228 [download 4k](https://www.bing.com/az/hprichbg/rb/HawaiiGST_EN-US13793614204_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/CPNYSnow_EN-US14243356452_1920x1080.jpg) 20171227 [download 4k](https://www.bing.com/az/hprichbg/rb/CPNYSnow_EN-US14243356452_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/GlisGlis_EN-US11460364843_1920x1080.jpg) 20171226 [download 4k](https://www.bing.com/az/hprichbg/rb/GlisGlis_EN-US11460364843_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/LaplandAurora_EN-US12070884927_1920x1080.jpg) 20171225 [download 4k](https://www.bing.com/az/hprichbg/rb/LaplandAurora_EN-US12070884927_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/NorthPole_EN-US14115177583_1920x1080.jpg) 20171224 [download 4k](https://www.bing.com/az/hprichbg/rb/NorthPole_EN-US14115177583_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SFSantaCon_EN-US11072721713_1920x1080.jpg) 20171223 [download 4k](https://www.bing.com/az/hprichbg/rb/SFSantaCon_EN-US11072721713_UHD.jpg) |

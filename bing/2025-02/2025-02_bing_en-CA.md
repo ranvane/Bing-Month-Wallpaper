@@ -1,7 +1,7 @@
 # Bing Wallpaper (2025-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.NevadaBigHorns_EN-CA8281032097_1920x1080.jpg) 20250301 [download 4k](https://www.bing.com/th?id=OHR.NevadaBigHorns_EN-CA8281032097_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarCub_EN-CA8015894762_1920x1080.jpg) 20250228 [download 4k](https://www.bing.com/th?id=OHR.PolarCub_EN-CA8015894762_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-CA0781984286_1920x1080.jpg) 20250227 [download 4k](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-CA0781984286_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-CA7439537445_1920x1080.jpg) 20250226 [download 4k](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-CA7439537445_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GiantCuttlefish_EN-CA7282936990_1920x1080.jpg) 20250225 [download 4k](https://www.bing.com/th?id=OHR.GiantCuttlefish_EN-CA7282936990_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtFujiSunrise_EN-CA7120845966_1920x1080.jpg) 20250224 [download 4k](https://www.bing.com/th?id=OHR.MtFujiSunrise_EN-CA7120845966_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.StLouisArch_EN-CA6246210465_1920x1080.jpg) 20250223 [download 4k](https://www.bing.com/th?id=OHR.StLouisArch_EN-CA6246210465_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChampakaSarasi_EN-CA6048642265_1920x1080.jpg) 20250222 [download 4k](https://www.bing.com/th?id=OHR.ChampakaSarasi_EN-CA6048642265_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CanadaDeer_EN-CA2853783794_1920x1080.jpg) 20250221 [download 4k](https://www.bing.com/th?id=OHR.CanadaDeer_EN-CA2853783794_UHD.jpg) |

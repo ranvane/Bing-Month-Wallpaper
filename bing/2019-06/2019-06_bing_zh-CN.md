@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HKreuni_ZH-CN5683726370_1920x1080.jpg) 20190630 [download 4k](https://www.bing.com/th?id=OHR.HKreuni_ZH-CN5683726370_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RedAnthiasCoralMayotte_ZH-CN5646370533_1920x1080.jpg) 20190629 [download 4k](https://www.bing.com/th?id=OHR.RedAnthiasCoralMayotte_ZH-CN5646370533_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BurrowingOwlet_ZH-CN5583013899_1920x1080.jpg) 20190628 [download 4k](https://www.bing.com/th?id=OHR.BurrowingOwlet_ZH-CN5583013899_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Montreux_ZH-CN5485205583_1920x1080.jpg) 20190627 [download 4k](https://www.bing.com/th?id=OHR.Montreux_ZH-CN5485205583_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RootBridge_ZH-CN5173953292_1920x1080.jpg) 20190626 [download 4k](https://www.bing.com/th?id=OHR.RootBridge_ZH-CN5173953292_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GlastonburyTor_ZH-CN4673691420_1920x1080.jpg) 20190625 [download 4k](https://www.bing.com/th?id=OHR.GlastonburyTor_ZH-CN4673691420_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SutherlandFalls_ZH-CN4602884079_1920x1080.jpg) 20190624 [download 4k](https://www.bing.com/th?id=OHR.SutherlandFalls_ZH-CN4602884079_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PhilippinesFirefly_ZH-CN4519927697_1920x1080.jpg) 20190623 [download 4k](https://www.bing.com/th?id=OHR.PhilippinesFirefly_ZH-CN4519927697_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Gnomesville_ZH-CN4402652527_1920x1080.jpg) 20190622 [download 4k](https://www.bing.com/th?id=OHR.Gnomesville_ZH-CN4402652527_UHD.jpg) |

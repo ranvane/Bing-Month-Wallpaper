@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/Mellieha_EN-US9931288836_1920x1080.jpg) 20170731 [download 4k](https://www.bing.com/az/hprichbg/rb/Mellieha_EN-US9931288836_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MineralCliffs_EN-US10636449444_1920x1080.jpg) 20170730 [download 4k](https://www.bing.com/az/hprichbg/rb/MineralCliffs_EN-US10636449444_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/WaSqPk_EN-US9813692413_1920x1080.jpg) 20170729 [download 4k](https://www.bing.com/az/hprichbg/rb/WaSqPk_EN-US9813692413_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/FlowerFly_EN-US16170430882_1920x1080.jpg) 20170728 [download 4k](https://www.bing.com/az/hprichbg/rb/FlowerFly_EN-US16170430882_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TurkeyScuba_EN-US6680512944_1920x1080.jpg) 20170727 [download 4k](https://www.bing.com/az/hprichbg/rb/TurkeyScuba_EN-US6680512944_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/WilsonPeakWindow_EN-US10136791556_1920x1080.jpg) 20170726 [download 4k](https://www.bing.com/az/hprichbg/rb/WilsonPeakWindow_EN-US10136791556_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/ReinebringenRidge_EN-US10023256564_1920x1080.jpg) 20170725 [download 4k](https://www.bing.com/az/hprichbg/rb/ReinebringenRidge_EN-US10023256564_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/RainbowLorikeets_EN-US9196763566_1920x1080.jpg) 20170724 [download 4k](https://www.bing.com/az/hprichbg/rb/RainbowLorikeets_EN-US9196763566_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/LosMonegros_EN-US13545190344_1920x1080.jpg) 20170723 [download 4k](https://www.bing.com/az/hprichbg/rb/LosMonegros_EN-US13545190344_UHD.jpg) |

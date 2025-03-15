@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HalleyVI_ZH-CN6048621088_1920x1080.jpg) 20191130 [download 4k](https://www.bing.com/th?id=OHR.HalleyVI_ZH-CN6048621088_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MarrakechMarket_ZH-CN5880133555_1920x1080.jpg) 20191129 [download 4k](https://www.bing.com/th?id=OHR.MarrakechMarket_ZH-CN5880133555_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AspenHiking_ZH-CN5769117414_1920x1080.jpg) 20191128 [download 4k](https://www.bing.com/th?id=OHR.AspenHiking_ZH-CN5769117414_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.LasCatedralesBeach_ZH-CN5680206879_1920x1080.jpg) 20191127 [download 4k](https://www.bing.com/th?id=OHR.LasCatedralesBeach_ZH-CN5680206879_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PhoenixAirport_ZH-CN5615941904_1920x1080.jpg) 20191126 [download 4k](https://www.bing.com/th?id=OHR.PhoenixAirport_ZH-CN5615941904_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HairyHighlanders_ZH-CN5546635143_1920x1080.jpg) 20191125 [download 4k](https://www.bing.com/th?id=OHR.HairyHighlanders_ZH-CN5546635143_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.OverwinteringMonarchs_ZH-CN0248511586_1920x1080.jpg) 20191124 [download 4k](https://www.bing.com/th?id=OHR.OverwinteringMonarchs_ZH-CN0248511586_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AtchafalayaCypress_ZH-CN0183179230_1920x1080.jpg) 20191123 [download 4k](https://www.bing.com/th?id=OHR.AtchafalayaCypress_ZH-CN0183179230_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.QueenVictoriaAgave_ZH-CN0113999146_1920x1080.jpg) 20191122 [download 4k](https://www.bing.com/th?id=OHR.QueenVictoriaAgave_ZH-CN0113999146_UHD.jpg) |

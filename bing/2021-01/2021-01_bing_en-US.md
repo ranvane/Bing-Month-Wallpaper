@@ -1,7 +1,7 @@
 # Bing Wallpaper (2021-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.MittenwalderHut_EN-US9402205522_1920x1080.jpg) 20210131 [download 4k](https://www.bing.com/th?id=OHR.MittenwalderHut_EN-US9402205522_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SeedVault_EN-US9343000928_1920x1080.jpg) 20210130 [download 4k](https://www.bing.com/th?id=OHR.SeedVault_EN-US9343000928_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RedRobin_EN-US9299641141_1920x1080.jpg) 20210129 [download 4k](https://www.bing.com/th?id=OHR.RedRobin_EN-US9299641141_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ArcticWolf_EN-US5836595388_1920x1080.jpg) 20210128 [download 4k](https://www.bing.com/th?id=OHR.ArcticWolf_EN-US5836595388_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Taormina_EN-US5716711058_1920x1080.jpg) 20210127 [download 4k](https://www.bing.com/th?id=OHR.Taormina_EN-US5716711058_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HeartAustralia_EN-US5604456955_1920x1080.jpg) 20210126 [download 4k](https://www.bing.com/th?id=OHR.HeartAustralia_EN-US5604456955_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ChurchRock_EN-US5502658165_1920x1080.jpg) 20210125 [download 4k](https://www.bing.com/th?id=OHR.ChurchRock_EN-US5502658165_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Molas_EN-US5410137458_1920x1080.jpg) 20210124 [download 4k](https://www.bing.com/th?id=OHR.Molas_EN-US5410137458_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ChuDangYa_EN-US5293170065_1920x1080.jpg) 20210123 [download 4k](https://www.bing.com/th?id=OHR.ChuDangYa_EN-US5293170065_UHD.jpg) |

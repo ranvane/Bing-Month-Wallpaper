@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_JA-JP7385959905_1920x1080.jpg) 20241201 [download 4k](https://www.bing.com/th?id=OHR.IcebergsAntarctica_JA-JP7385959905_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KilchurnAutumn_JA-JP5172394807_1920x1080.jpg) 20241130 [download 4k](https://www.bing.com/th?id=OHR.KilchurnAutumn_JA-JP5172394807_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtStMichel_JA-JP4975687728_1920x1080.jpg) 20241129 [download 4k](https://www.bing.com/th?id=OHR.MtStMichel_JA-JP4975687728_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ZafraCastle_JA-JP6761146829_1920x1080.jpg) 20241128 [download 4k](https://www.bing.com/th?id=OHR.ZafraCastle_JA-JP6761146829_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SemoisRiver_JA-JP6578585711_1920x1080.jpg) 20241127 [download 4k](https://www.bing.com/th?id=OHR.SemoisRiver_JA-JP6578585711_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HotBathDay2024_JA-JP6338825094_1920x1080.jpg) 20241126 [download 4k](https://www.bing.com/th?id=OHR.HotBathDay2024_JA-JP6338825094_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_JA-JP2992203136_1920x1080.jpg) 20241125 [download 4k](https://www.bing.com/th?id=OHR.AmboseliGiraffes_JA-JP2992203136_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SonomaCoast_JA-JP5834035051_1920x1080.jpg) 20241124 [download 4k](https://www.bing.com/th?id=OHR.SonomaCoast_JA-JP5834035051_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FibonacciAloe_JA-JP5597690966_1920x1080.jpg) 20241123 [download 4k](https://www.bing.com/th?id=OHR.FibonacciAloe_JA-JP5597690966_UHD.jpg) |

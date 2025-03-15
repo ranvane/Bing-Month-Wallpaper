@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-04)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.QuebecCityBridge_IT-IT2390988840_1920x1080.jpg) 20230501 [download 4k](https://www.bing.com/th?id=OHR.QuebecCityBridge_IT-IT2390988840_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_IT-IT1147958461_1920x1080.jpg) 20230430 [download 4k](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_IT-IT1147958461_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.JTNPMilkyWay_IT-IT0241234588_1920x1080.jpg) 20230429 [download 4k](https://www.bing.com/th?id=OHR.JTNPMilkyWay_IT-IT0241234588_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MariposaGrove_IT-IT8703227587_1920x1080.jpg) 20230428 [download 4k](https://www.bing.com/th?id=OHR.MariposaGrove_IT-IT8703227587_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ItalyDolomitesSeiserAlm_IT-IT4289580227_1920x1080.jpg) 20230427 [download 4k](https://www.bing.com/th?id=OHR.ItalyDolomitesSeiserAlm_IT-IT4289580227_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GHOAudubonDay_IT-IT7709502144_1920x1080.jpg) 20230426 [download 4k](https://www.bing.com/th?id=OHR.GHOAudubonDay_IT-IT7709502144_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FrecceTricolori_IT-IT2306161494_1920x1080.jpg) 20230425 [download 4k](https://www.bing.com/th?id=OHR.FrecceTricolori_IT-IT2306161494_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FranconianWineCellar_IT-IT2051034569_1920x1080.jpg) 20230424 [download 4k](https://www.bing.com/th?id=OHR.FranconianWineCellar_IT-IT2051034569_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.StuttgartPublicLibrary_IT-IT6419135185_1920x1080.jpg) 20230423 [download 4k](https://www.bing.com/th?id=OHR.StuttgartPublicLibrary_IT-IT6419135185_UHD.jpg) |

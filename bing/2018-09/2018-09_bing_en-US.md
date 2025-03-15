@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/TheLongWalk_EN-US11094733779_1920x1080.jpg) 20180930 [download 4k](https://www.bing.com/az/hprichbg/rb/TheLongWalk_EN-US11094733779_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/GoldBridge_EN-US5579326717_1920x1080.jpg) 20180929 [download 4k](https://www.bing.com/az/hprichbg/rb/GoldBridge_EN-US5579326717_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SouthernRightFlukes_EN-US12069113412_1920x1080.jpg) 20180928 [download 4k](https://www.bing.com/az/hprichbg/rb/SouthernRightFlukes_EN-US12069113412_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/Shipyard_EN-US13402270249_1920x1080.jpg) 20180927 [download 4k](https://www.bing.com/az/hprichbg/rb/Shipyard_EN-US13402270249_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/JacobHashimoto_EN-US8083666733_1920x1080.jpg) 20180926 [download 4k](https://www.bing.com/az/hprichbg/rb/JacobHashimoto_EN-US8083666733_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/GiantSequoia_EN-US11110971924_1920x1080.jpg) 20180925 [download 4k](https://www.bing.com/az/hprichbg/rb/GiantSequoia_EN-US11110971924_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/QinhuaiRiver_EN-US9821103929_1920x1080.jpg) 20180924 [download 4k](https://www.bing.com/az/hprichbg/rb/QinhuaiRiver_EN-US9821103929_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ShenandoahAutumn_EN-US11784755049_1920x1080.jpg) 20180923 [download 4k](https://www.bing.com/az/hprichbg/rb/ShenandoahAutumn_EN-US11784755049_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MunichTuba_EN-US7797561799_1920x1080.jpg) 20180922 [download 4k](https://www.bing.com/az/hprichbg/rb/MunichTuba_EN-US7797561799_UHD.jpg) |

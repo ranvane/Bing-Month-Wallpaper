@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.Hogmanay2024_EN-GB1967612260_1920x1080.jpg) 20250101 [download 4k](https://www.bing.com/th?id=OHR.Hogmanay2024_EN-GB1967612260_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MountFieldNP_EN-GB1514220907_1920x1080.jpg) 20241231 [download 4k](https://www.bing.com/th?id=OHR.MountFieldNP_EN-GB1514220907_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BorobudurBells_EN-GB3331651821_1920x1080.jpg) 20241230 [download 4k](https://www.bing.com/th?id=OHR.BorobudurBells_EN-GB3331651821_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CoralTurtle_EN-GB3087704851_1920x1080.jpg) 20241229 [download 4k](https://www.bing.com/th?id=OHR.CoralTurtle_EN-GB3087704851_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LakeBledSnow_EN-GB9064661612_1920x1080.jpg) 20241228 [download 4k](https://www.bing.com/th?id=OHR.LakeBledSnow_EN-GB9064661612_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MouseholeXmas_EN-GB9459656621_1920x1080.jpg) 20241227 [download 4k](https://www.bing.com/th?id=OHR.MouseholeXmas_EN-GB9459656621_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ReindeerTrio_EN-GB9048626587_1920x1080.jpg) 20241226 [download 4k](https://www.bing.com/th?id=OHR.ReindeerTrio_EN-GB9048626587_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SantaSnowglobe_EN-GB8850390897_1920x1080.jpg) 20241225 [download 4k](https://www.bing.com/th?id=OHR.SantaSnowglobe_EN-GB8850390897_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FestivusCranes_EN-GB8631404413_1920x1080.jpg) 20241224 [download 4k](https://www.bing.com/th?id=OHR.FestivusCranes_EN-GB8631404413_UHD.jpg) |

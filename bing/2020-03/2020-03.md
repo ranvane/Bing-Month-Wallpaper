@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.ShyGuy_ZH-CN7391687938_1920x1080.jpg) 20200331 [download 4k](https://www.bing.com/th?id=OHR.ShyGuy_ZH-CN7391687938_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CarrickSpring_ZH-CN7085146237_1920x1080.jpg) 20200330 [download 4k](https://www.bing.com/th?id=OHR.CarrickSpring_ZH-CN7085146237_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WalkingCentral_ZH-CN6818231087_1920x1080.jpg) 20200329 [download 4k](https://www.bing.com/th?id=OHR.WalkingCentral_ZH-CN6818231087_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BorrowingDays_ZH-CN3558219803_1920x1080.jpg) 20200328 [download 4k](https://www.bing.com/th?id=OHR.BorrowingDays_ZH-CN3558219803_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FormentorHolidays_ZH-CN3392936755_1920x1080.jpg) 20200327 [download 4k](https://www.bing.com/th?id=OHR.FormentorHolidays_ZH-CN3392936755_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CharlestonAzaleas_ZH-CN3924268565_1920x1080.jpg) 20200326 [download 4k](https://www.bing.com/th?id=OHR.CharlestonAzaleas_ZH-CN3924268565_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.NoCaliCoast_ZH-CN2604627519_1920x1080.jpg) 20200325 [download 4k](https://www.bing.com/th?id=OHR.NoCaliCoast_ZH-CN2604627519_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RadcliffeCamera_ZH-CN2499323035_1920x1080.jpg) 20200324 [download 4k](https://www.bing.com/th?id=OHR.RadcliffeCamera_ZH-CN2499323035_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SpainBeeEaters_ZH-CN2414526119_1920x1080.jpg) 20200323 [download 4k](https://www.bing.com/th?id=OHR.SpainBeeEaters_ZH-CN2414526119_UHD.jpg) |

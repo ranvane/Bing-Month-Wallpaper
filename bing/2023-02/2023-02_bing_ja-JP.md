@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_JA-JP7896748071_1920x1080.jpg) 20230301 [download 4k](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_JA-JP7896748071_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AtraniAmalfi_JA-JP6744499353_1920x1080.jpg) 20230228 [download 4k](https://www.bing.com/th?id=OHR.AtraniAmalfi_JA-JP6744499353_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarBearFrost_JA-JP6183765831_1920x1080.jpg) 20230227 [download 4k](https://www.bing.com/th?id=OHR.PolarBearFrost_JA-JP6183765831_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CanopyPeru_JA-JP5592928967_1920x1080.jpg) 20230226 [download 4k](https://www.bing.com/th?id=OHR.CanopyPeru_JA-JP5592928967_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BryceAnniv_JA-JP4970037032_1920x1080.jpg) 20230225 [download 4k](https://www.bing.com/th?id=OHR.BryceAnniv_JA-JP4970037032_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RichmondParkDuck_JA-JP4769171194_1920x1080.jpg) 20230224 [download 4k](https://www.bing.com/th?id=OHR.RichmondParkDuck_JA-JP4769171194_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MtFuji2023_JA-JP4634811404_1920x1080.jpg) 20230223 [download 4k](https://www.bing.com/th?id=OHR.MtFuji2023_JA-JP4634811404_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ParisWinter_JA-JP7691412226_1920x1080.jpg) 20230222 [download 4k](https://www.bing.com/th?id=OHR.ParisWinter_JA-JP7691412226_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MardiGrasNOLA_JA-JP5656868488_1920x1080.jpg) 20230221 [download 4k](https://www.bing.com/th?id=OHR.MardiGrasNOLA_JA-JP5656868488_UHD.jpg) |

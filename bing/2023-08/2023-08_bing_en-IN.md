@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.KeralaBackwaters_EN-IN5839367689_1920x1080.jpg) 20230901 [download 4k](https://www.bing.com/th?id=OHR.KeralaBackwaters_EN-IN5839367689_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IronwoodCactus_EN-IN8431583743_1920x1080.jpg) 20230831 [download 4k](https://www.bing.com/th?id=OHR.IronwoodCactus_EN-IN8431583743_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FestivalofThreads_EN-IN8502750769_1920x1080.jpg) 20230830 [download 4k](https://www.bing.com/th?id=OHR.FestivalofThreads_EN-IN8502750769_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.TurkeyTailMush_EN-IN7925034915_1920x1080.jpg) 20230829 [download 4k](https://www.bing.com/th?id=OHR.TurkeyTailMush_EN-IN7925034915_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DubrovnikHarbor_EN-IN9410469914_1920x1080.jpg) 20230828 [download 4k](https://www.bing.com/th?id=OHR.DubrovnikHarbor_EN-IN9410469914_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.JejuIsland_EN-IN5213186206_1920x1080.jpg) 20230827 [download 4k](https://www.bing.com/th?id=OHR.JejuIsland_EN-IN5213186206_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MuseumIsland_EN-IN5070401270_1920x1080.jpg) 20230826 [download 4k](https://www.bing.com/th?id=OHR.MuseumIsland_EN-IN5070401270_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YellowstoneFalls_EN-IN5386770490_1920x1080.jpg) 20230825 [download 4k](https://www.bing.com/th?id=OHR.YellowstoneFalls_EN-IN5386770490_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SharkFinCove_EN-IN4396943567_1920x1080.jpg) 20230824 [download 4k](https://www.bing.com/th?id=OHR.SharkFinCove_EN-IN4396943567_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.DaxingPKX_EN-US3995932442_1920x1080.jpg) 20190930 [download 4k](https://www.bing.com/th?id=OHR.DaxingPKX_EN-US3995932442_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ClavijoLandscape_EN-US3832864269_1920x1080.jpg) 20190929 [download 4k](https://www.bing.com/th?id=OHR.ClavijoLandscape_EN-US3832864269_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HockingHills_EN-US3752812867_1920x1080.jpg) 20190928 [download 4k](https://www.bing.com/th?id=OHR.HockingHills_EN-US3752812867_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.NankoweapGranaries_EN-US3648853544_1920x1080.jpg) 20190927 [download 4k](https://www.bing.com/th?id=OHR.NankoweapGranaries_EN-US3648853544_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KelpKeepers_EN-US5470053461_1920x1080.jpg) 20190926 [download 4k](https://www.bing.com/th?id=OHR.KelpKeepers_EN-US5470053461_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LofotenSurfing_EN-US2786067859_1920x1080.jpg) 20190925 [download 4k](https://www.bing.com/th?id=OHR.LofotenSurfing_EN-US2786067859_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.UgandaGorilla_EN-US2620785147_1920x1080.jpg) 20190924 [download 4k](https://www.bing.com/th?id=OHR.UgandaGorilla_EN-US2620785147_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FeatherSerpent_EN-US2734435636_1920x1080.jpg) 20190923 [download 4k](https://www.bing.com/th?id=OHR.FeatherSerpent_EN-US2734435636_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LaMerceFireworks_EN-US2460264880_1920x1080.jpg) 20190922 [download 4k](https://www.bing.com/th?id=OHR.LaMerceFireworks_EN-US2460264880_UHD.jpg) |

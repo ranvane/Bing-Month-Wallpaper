@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.AmboseliBioshere_JA-JP8635683385_1920x1080.jpg) 20221101 [download 4k](https://www.bing.com/th?id=OHR.AmboseliBioshere_JA-JP8635683385_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_JA-JP8444611281_1920x1080.jpg) 20221031 [download 4k](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_JA-JP8444611281_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SealRiver_JA-JP8299200123_1920x1080.jpg) 20221030 [download 4k](https://www.bing.com/th?id=OHR.SealRiver_JA-JP8299200123_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Knobbelzwaan_JA-JP8189725543_1920x1080.jpg) 20221029 [download 4k](https://www.bing.com/th?id=OHR.Knobbelzwaan_JA-JP8189725543_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FrankensteinFriday_JA-JP8113582111_1920x1080.jpg) 20221028 [download 4k](https://www.bing.com/th?id=OHR.FrankensteinFriday_JA-JP8113582111_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BridgeofSighs_JA-JP7915922763_1920x1080.jpg) 20221027 [download 4k](https://www.bing.com/th?id=OHR.BridgeofSighs_JA-JP7915922763_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BrockenSpecter_JA-JP7829139116_1920x1080.jpg) 20221026 [download 4k](https://www.bing.com/th?id=OHR.BrockenSpecter_JA-JP7829139116_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OrcusMouth_JA-JP7671554385_1920x1080.jpg) 20221025 [download 4k](https://www.bing.com/th?id=OHR.OrcusMouth_JA-JP7671554385_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GuwahatiDiwali_JA-JP0301518111_1920x1080.jpg) 20221024 [download 4k](https://www.bing.com/th?id=OHR.GuwahatiDiwali_JA-JP0301518111_UHD.jpg) |

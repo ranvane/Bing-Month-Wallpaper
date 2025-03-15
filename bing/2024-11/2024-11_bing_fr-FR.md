@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_FR-FR7491065799_1920x1080.jpg) 20241201 [download 4k](https://www.bing.com/th?id=OHR.IcebergsAntarctica_FR-FR7491065799_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KilchurnAutumn_FR-FR7304840775_1920x1080.jpg) 20241130 [download 4k](https://www.bing.com/th?id=OHR.KilchurnAutumn_FR-FR7304840775_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MtStMichel_FR-FR7113909915_1920x1080.jpg) 20241129 [download 4k](https://www.bing.com/th?id=OHR.MtStMichel_FR-FR7113909915_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SemoisRiver_FR-FR4323889306_1920x1080.jpg) 20241128 [download 4k](https://www.bing.com/th?id=OHR.SemoisRiver_FR-FR4323889306_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RaidAlyzees_FR-FR4119370811_1920x1080.jpg) 20241127 [download 4k](https://www.bing.com/th?id=OHR.RaidAlyzees_FR-FR4119370811_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TrulliGrove_FR-FR3683617209_1920x1080.jpg) 20241126 [download 4k](https://www.bing.com/th?id=OHR.TrulliGrove_FR-FR3683617209_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AmboseliGiraffes_FR-FR8363811171_1920x1080.jpg) 20241125 [download 4k](https://www.bing.com/th?id=OHR.AmboseliGiraffes_FR-FR8363811171_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ParisAutumn_FR-FR3278291664_1920x1080.jpg) 20241124 [download 4k](https://www.bing.com/th?id=OHR.ParisAutumn_FR-FR3278291664_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FibonacciAloe_FR-FR2896003531_1920x1080.jpg) 20241123 [download 4k](https://www.bing.com/th?id=OHR.FibonacciAloe_FR-FR2896003531_UHD.jpg) |

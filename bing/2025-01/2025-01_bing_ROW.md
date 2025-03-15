@@ -1,7 +1,7 @@
 # Bing Wallpaper (2025-01)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PlainsZebra_ROW4908645936_1920x1080.jpg) 20250201 [download 4k](https://www.bing.com/th?id=OHR.PlainsZebra_ROW4908645936_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OrdesaSpain_ROW4837381586_1920x1080.jpg) 20250131 [download 4k](https://www.bing.com/th?id=OHR.OrdesaSpain_ROW4837381586_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PrioroWinter_ROW4745417070_1920x1080.jpg) 20250130 [download 4k](https://www.bing.com/th?id=OHR.PrioroWinter_ROW4745417070_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FlyingOwl_ROW4662526865_1920x1080.jpg) 20250129 [download 4k](https://www.bing.com/th?id=OHR.FlyingOwl_ROW4662526865_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CanyonSnow_ROW4589545580_1920x1080.jpg) 20250128 [download 4k](https://www.bing.com/th?id=OHR.CanyonSnow_ROW4589545580_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FrostedBeech_ROW4515394331_1920x1080.jpg) 20250127 [download 4k](https://www.bing.com/th?id=OHR.FrostedBeech_ROW4515394331_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PortoSunset_ROW4420815150_1920x1080.jpg) 20250126 [download 4k](https://www.bing.com/th?id=OHR.PortoSunset_ROW4420815150_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IcelandGeyser_ROW4318186607_1920x1080.jpg) 20250125 [download 4k](https://www.bing.com/th?id=OHR.IcelandGeyser_ROW4318186607_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DeerValley_ROW1914911028_1920x1080.jpg) 20250124 [download 4k](https://www.bing.com/th?id=OHR.DeerValley_ROW1914911028_UHD.jpg) |

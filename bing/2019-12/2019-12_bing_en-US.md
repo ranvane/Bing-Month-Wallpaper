@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.NYEBacknang_EN-US4252840326_1920x1080.jpg) 20191231 [download 4k](https://www.bing.com/th?id=OHR.NYEBacknang_EN-US4252840326_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SkyIslands_EN-US4150149691_1920x1080.jpg) 20191230 [download 4k](https://www.bing.com/th?id=OHR.SkyIslands_EN-US4150149691_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.InnsbruckSkiJump_EN-US4058119779_1920x1080.jpg) 20191229 [download 4k](https://www.bing.com/th?id=OHR.InnsbruckSkiJump_EN-US4058119779_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.TrumpeterWinter_EN-US3945298100_1920x1080.jpg) 20191228 [download 4k](https://www.bing.com/th?id=OHR.TrumpeterWinter_EN-US3945298100_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KinderdijkSkating_EN-US3881873172_1920x1080.jpg) 20191227 [download 4k](https://www.bing.com/th?id=OHR.KinderdijkSkating_EN-US3881873172_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SloveniaAlps_EN-US3700970842_1920x1080.jpg) 20191226 [download 4k](https://www.bing.com/th?id=OHR.SloveniaAlps_EN-US3700970842_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.WarsawXmas_EN-US3496666406_1920x1080.jpg) 20191225 [download 4k](https://www.bing.com/th?id=OHR.WarsawXmas_EN-US3496666406_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ReindeerNorway_EN-US3428455299_1920x1080.jpg) 20191224 [download 4k](https://www.bing.com/th?id=OHR.ReindeerNorway_EN-US3428455299_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AiringGrievances_EN-US3147113419_1920x1080.jpg) 20191223 [download 4k](https://www.bing.com/th?id=OHR.AiringGrievances_EN-US3147113419_UHD.jpg) |

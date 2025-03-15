@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-04)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.CheetahRain_EN-CA1487637998_1920x1080.jpg) 20240501 [download 4k](https://www.bing.com/th?id=OHR.CheetahRain_EN-CA1487637998_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TulouFujian_EN-CA1163338390_1920x1080.jpg) 20240430 [download 4k](https://www.bing.com/th?id=OHR.TulouFujian_EN-CA1163338390_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GuadalupeTexas_EN-CA8167364190_1920x1080.jpg) 20240429 [download 4k](https://www.bing.com/th?id=OHR.GuadalupeTexas_EN-CA8167364190_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.LeucisticHummingbird_EN-CA9003598564_1920x1080.jpg) 20240428 [download 4k](https://www.bing.com/th?id=OHR.LeucisticHummingbird_EN-CA9003598564_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ValDiFunes_EN-CA4828083931_1920x1080.jpg) 20240427 [download 4k](https://www.bing.com/th?id=OHR.ValDiFunes_EN-CA4828083931_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PenguinDirections_EN-CA6223375339_1920x1080.jpg) 20240426 [download 4k](https://www.bing.com/th?id=OHR.PenguinDirections_EN-CA6223375339_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.TrilliumOntario_EN-CA6497010654_1920x1080.jpg) 20240425 [download 4k](https://www.bing.com/th?id=OHR.TrilliumOntario_EN-CA6497010654_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TrinityDublin_EN-CA0477262723_1920x1080.jpg) 20240424 [download 4k](https://www.bing.com/th?id=OHR.TrinityDublin_EN-CA0477262723_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EarthDayTurtle_EN-CA2152023096_1920x1080.jpg) 20240423 [download 4k](https://www.bing.com/th?id=OHR.EarthDayTurtle_EN-CA2152023096_UHD.jpg) |

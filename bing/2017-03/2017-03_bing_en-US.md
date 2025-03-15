@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/EarthArt_EN-US7715783871_1920x1080.jpg) 20170331 [download 4k](https://www.bing.com/az/hprichbg/rb/EarthArt_EN-US7715783871_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/CMLSCNP_EN-US11697025373_1920x1080.jpg) 20170330 [download 4k](https://www.bing.com/az/hprichbg/rb/CMLSCNP_EN-US11697025373_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BellasArtes_EN-US10189612756_1920x1080.jpg) 20170329 [download 4k](https://www.bing.com/az/hprichbg/rb/BellasArtes_EN-US10189612756_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/CommonRosefinch_EN-US10986839201_1920x1080.jpg) 20170328 [download 4k](https://www.bing.com/az/hprichbg/rb/CommonRosefinch_EN-US10986839201_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Dongdaemun_EN-US10736487148_1920x1080.jpg) 20170327 [download 4k](https://www.bing.com/az/hprichbg/rb/Dongdaemun_EN-US10736487148_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/WildfireSapling_EN-US9682708303_1920x1080.jpg) 20170326 [download 4k](https://www.bing.com/az/hprichbg/rb/WildfireSapling_EN-US9682708303_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/SpainSpring_EN-US10177869898_1920x1080.jpg) 20170325 [download 4k](https://www.bing.com/az/hprichbg/rb/SpainSpring_EN-US10177869898_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/GrebesChick_EN-US11292928738_1920x1080.jpg) 20170324 [download 4k](https://www.bing.com/az/hprichbg/rb/GrebesChick_EN-US11292928738_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/LamarStorm_EN-US8537269096_1920x1080.jpg) 20170323 [download 4k](https://www.bing.com/az/hprichbg/rb/LamarStorm_EN-US8537269096_UHD.jpg) |

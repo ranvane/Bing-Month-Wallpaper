@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.NBP_FR-FR2587277972_1920x1080.jpg) 20221001 [download 4k](https://www.bing.com/th?id=OHR.NBP_FR-FR2587277972_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EubalaenaAustralis_FR-FR7459800196_1920x1080.jpg) 20220930 [download 4k](https://www.bing.com/th?id=OHR.EubalaenaAustralis_FR-FR7459800196_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.InfiniD_FR-FR7335727196_1920x1080.jpg) 20220929 [download 4k](https://www.bing.com/th?id=OHR.InfiniD_FR-FR7335727196_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GoldenJellyfish_FR-FR7195746290_1920x1080.jpg) 20220928 [download 4k](https://www.bing.com/th?id=OHR.GoldenJellyfish_FR-FR7195746290_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YellowstoneUGB_FR-FR7054176049_1920x1080.jpg) 20220927 [download 4k](https://www.bing.com/th?id=OHR.YellowstoneUGB_FR-FR7054176049_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SusitnaRiver_FR-FR6868315576_1920x1080.jpg) 20220926 [download 4k](https://www.bing.com/th?id=OHR.SusitnaRiver_FR-FR6868315576_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AmazonMangroves_FR-FR6535464372_1920x1080.jpg) 20220925 [download 4k](https://www.bing.com/th?id=OHR.AmazonMangroves_FR-FR6535464372_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DarkSkyAcadia_FR-FR6402642209_1920x1080.jpg) 20220924 [download 4k](https://www.bing.com/th?id=OHR.DarkSkyAcadia_FR-FR6402642209_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FirstDayFall_FR-FR6231172120_1920x1080.jpg) 20220923 [download 4k](https://www.bing.com/th?id=OHR.FirstDayFall_FR-FR6231172120_UHD.jpg) |

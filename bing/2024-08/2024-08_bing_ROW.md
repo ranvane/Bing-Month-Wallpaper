@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.DjanetAlgeria_ROW6327160471_1920x1080.jpg) 20240901 [download 4k](https://www.bing.com/th?id=OHR.DjanetAlgeria_ROW6327160471_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WhaleSharkDay_ROW6113482072_1920x1080.jpg) 20240831 [download 4k](https://www.bing.com/th?id=OHR.WhaleSharkDay_ROW6113482072_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CastellfollitSpain_ROW5434874664_1920x1080.jpg) 20240830 [download 4k](https://www.bing.com/th?id=OHR.CastellfollitSpain_ROW5434874664_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ParalympicsParis_ROW1372193453_1920x1080.jpg) 20240829 [download 4k](https://www.bing.com/th?id=OHR.ParalympicsParis_ROW1372193453_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YoungCaiman_ROW5014887226_1920x1080.jpg) 20240828 [download 4k](https://www.bing.com/th?id=OHR.YoungCaiman_ROW5014887226_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PalmyraAtoll_ROW4852915271_1920x1080.jpg) 20240827 [download 4k](https://www.bing.com/th?id=OHR.PalmyraAtoll_ROW4852915271_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SwiftcurrentLake_ROW4729110075_1920x1080.jpg) 20240826 [download 4k](https://www.bing.com/th?id=OHR.SwiftcurrentLake_ROW4729110075_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KatahdinWoods_ROW4600559064_1920x1080.jpg) 20240825 [download 4k](https://www.bing.com/th?id=OHR.KatahdinWoods_ROW4600559064_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PrasatPhanom_ROW3985058133_1920x1080.jpg) 20240824 [download 4k](https://www.bing.com/th?id=OHR.PrasatPhanom_ROW3985058133_UHD.jpg) |

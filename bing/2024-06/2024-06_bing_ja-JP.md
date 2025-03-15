@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.FisgardLighthouse_JA-JP9618708130_1920x1080.jpg) 20240701 [download 4k](https://www.bing.com/th?id=OHR.FisgardLighthouse_JA-JP9618708130_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.UbudBali_JA-JP9425870638_1920x1080.jpg) 20240630 [download 4k](https://www.bing.com/th?id=OHR.UbudBali_JA-JP9425870638_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TourCorsica_JA-JP9224507458_1920x1080.jpg) 20240629 [download 4k](https://www.bing.com/th?id=OHR.TourCorsica_JA-JP9224507458_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ChristopherPark_JA-JP8669771947_1920x1080.jpg) 20240628 [download 4k](https://www.bing.com/th?id=OHR.ChristopherPark_JA-JP8669771947_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Ayame2024_JA-JP3356201078_1920x1080.jpg) 20240627 [download 4k](https://www.bing.com/th?id=OHR.Ayame2024_JA-JP3356201078_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SpringCaveDale_JA-JP3237523322_1920x1080.jpg) 20240626 [download 4k](https://www.bing.com/th?id=OHR.SpringCaveDale_JA-JP3237523322_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FireWave_JA-JP3002445647_1920x1080.jpg) 20240625 [download 4k](https://www.bing.com/th?id=OHR.FireWave_JA-JP3002445647_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FloresIsland_JA-JP2788584919_1920x1080.jpg) 20240624 [download 4k](https://www.bing.com/th?id=OHR.FloresIsland_JA-JP2788584919_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Lavender2024_JA-JP2620797533_1920x1080.jpg) 20240623 [download 4k](https://www.bing.com/th?id=OHR.Lavender2024_JA-JP2620797533_UHD.jpg) |

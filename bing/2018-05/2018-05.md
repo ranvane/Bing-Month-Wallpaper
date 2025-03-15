@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-05)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/happychildday_ZH-CN9412524114_1920x1080.jpg) 20180531 [download 4k](https://www.bing.com/az/hprichbg/rb/happychildday_ZH-CN9412524114_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MooseLakeGrass_ZH-CN12424437234_1920x1080.jpg) 20180530 [download 4k](https://www.bing.com/az/hprichbg/rb/MooseLakeGrass_ZH-CN12424437234_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/AerialPantanal_ZH-CN7580811600_1920x1080.jpg) 20180529 [download 4k](https://www.bing.com/az/hprichbg/rb/AerialPantanal_ZH-CN7580811600_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/KhumbuTents_ZH-CN4978109685_1920x1080.jpg) 20180528 [download 4k](https://www.bing.com/az/hprichbg/rb/KhumbuTents_ZH-CN4978109685_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/AsiaticElephant_ZH-CN12232084520_1920x1080.jpg) 20180527 [download 4k](https://www.bing.com/az/hprichbg/rb/AsiaticElephant_ZH-CN12232084520_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TSSSF_ZH-CN12002715124_1920x1080.jpg) 20180526 [download 4k](https://www.bing.com/az/hprichbg/rb/TSSSF_ZH-CN12002715124_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/SallyRideEarthKAM_ZH-CN12897817240_1920x1080.jpg) 20180525 [download 4k](https://www.bing.com/az/hprichbg/rb/SallyRideEarthKAM_ZH-CN12897817240_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/WineDay_ZH-CN9852912150_1920x1080.jpg) 20180524 [download 4k](https://www.bing.com/az/hprichbg/rb/WineDay_ZH-CN9852912150_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BklynBrdge_ZH-CN13871214699_1920x1080.jpg) 20180523 [download 4k](https://www.bing.com/az/hprichbg/rb/BklynBrdge_ZH-CN13871214699_UHD.jpg) |

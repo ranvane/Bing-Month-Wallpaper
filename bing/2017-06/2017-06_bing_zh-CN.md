@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/SunwaptaFalls_ZH-CN10005625957_1920x1080.jpg) 20170630 [download 4k](https://www.bing.com/az/hprichbg/rb/SunwaptaFalls_ZH-CN10005625957_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/EuropeanFlamingo_ZH-CN10494194429_1920x1080.jpg) 20170629 [download 4k](https://www.bing.com/az/hprichbg/rb/EuropeanFlamingo_ZH-CN10494194429_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/NorddorfPath_ZH-CN10408895135_1920x1080.jpg) 20170628 [download 4k](https://www.bing.com/az/hprichbg/rb/NorddorfPath_ZH-CN10408895135_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/JoshuaTrees_ZH-CN10998673288_1920x1080.jpg) 20170627 [download 4k](https://www.bing.com/az/hprichbg/rb/JoshuaTrees_ZH-CN10998673288_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/CallanishSS_ZH-CN12559903397_1920x1080.jpg) 20170626 [download 4k](https://www.bing.com/az/hprichbg/rb/CallanishSS_ZH-CN12559903397_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MadagascarLemurs_ZH-CN7754035615_1920x1080.jpg) 20170625 [download 4k](https://www.bing.com/az/hprichbg/rb/MadagascarLemurs_ZH-CN7754035615_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/SanLorenzo_ZH-CN7625061136_1920x1080.jpg) 20170624 [download 4k](https://www.bing.com/az/hprichbg/rb/SanLorenzo_ZH-CN7625061136_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/HawaiiSwim_ZH-CN7233619332_1920x1080.jpg) 20170623 [download 4k](https://www.bing.com/az/hprichbg/rb/HawaiiSwim_ZH-CN7233619332_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MooneyFalls_ZH-CN11568488094_1920x1080.jpg) 20170622 [download 4k](https://www.bing.com/az/hprichbg/rb/MooneyFalls_ZH-CN11568488094_UHD.jpg) |

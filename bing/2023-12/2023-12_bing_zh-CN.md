@@ -1,7 +1,7 @@
 # Bing Wallpaper (2023-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.SleepingFox_ZH-CN2622967726_1920x1080.jpg) 20240101 [download 4k](https://www.bing.com/th?id=OHR.SleepingFox_ZH-CN2622967726_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ThailandNewYears_ZH-CN2058192262_1920x1080.jpg) 20231231 [download 4k](https://www.bing.com/th?id=OHR.ThailandNewYears_ZH-CN2058192262_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CastleriggStoneCircleUK_ZH-CN1174541384_1920x1080.jpg) 20231230 [download 4k](https://www.bing.com/th?id=OHR.CastleriggStoneCircleUK_ZH-CN1174541384_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BlueAmsterdam_ZH-CN0483591394_1920x1080.jpg) 20231229 [download 4k](https://www.bing.com/th?id=OHR.BlueAmsterdam_ZH-CN0483591394_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GreenlandHumpback_ZH-CN8145852053_1920x1080.jpg) 20231228 [download 4k](https://www.bing.com/th?id=OHR.GreenlandHumpback_ZH-CN8145852053_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_1920x1080.jpg) 20231227 [download 4k](https://www.bing.com/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686_1920x1080.jpg) 20231226 [download 4k](https://www.bing.com/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CaribouChristmas_ZH-CN6264028572_1920x1080.jpg) 20231225 [download 4k](https://www.bing.com/th?id=OHR.CaribouChristmas_ZH-CN6264028572_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EstoniaXmasEve_ZH-CN5870799404_1920x1080.jpg) 20231224 [download 4k](https://www.bing.com/th?id=OHR.EstoniaXmasEve_ZH-CN5870799404_UHD.jpg) |

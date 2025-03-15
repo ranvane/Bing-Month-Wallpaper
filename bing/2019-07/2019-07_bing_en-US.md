@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.TreeTower_EN-US3470966766_1920x1080.jpg) 20190731 [download 4k](https://www.bing.com/th?id=OHR.TreeTower_EN-US3470966766_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TortoiseMigration_EN-US3385545831_1920x1080.jpg) 20190730 [download 4k](https://www.bing.com/th?id=OHR.TortoiseMigration_EN-US3385545831_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TrilliumLake_EN-US3336281654_1920x1080.jpg) 20190729 [download 4k](https://www.bing.com/th?id=OHR.TrilliumLake_EN-US3336281654_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.NebraskaCarArt_EN-US3283375378_1920x1080.jpg) 20190728 [download 4k](https://www.bing.com/th?id=OHR.NebraskaCarArt_EN-US3283375378_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CahuitaNP_EN-US3238396594_1920x1080.jpg) 20190727 [download 4k](https://www.bing.com/th?id=OHR.CahuitaNP_EN-US3238396594_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NendazAlpenhorn_EN-US3193438150_1920x1080.jpg) 20190726 [download 4k](https://www.bing.com/th?id=OHR.NendazAlpenhorn_EN-US3193438150_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.JanesCarousel_EN-US9857134061_1920x1080.jpg) 20190725 [download 4k](https://www.bing.com/th?id=OHR.JanesCarousel_EN-US9857134061_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MeerkatMob_EN-US0017108852_1920x1080.jpg) 20190724 [download 4k](https://www.bing.com/th?id=OHR.MeerkatMob_EN-US0017108852_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Skywalk_EN-US4440241441_1920x1080.jpg) 20190723 [download 4k](https://www.bing.com/th?id=OHR.Skywalk_EN-US4440241441_UHD.jpg) |

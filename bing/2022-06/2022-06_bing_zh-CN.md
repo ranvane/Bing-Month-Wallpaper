@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.AgueroVillage_ZH-CN1007741117_1920x1080.jpg) 20220701 [download 4k](https://www.bing.com/th?id=OHR.AgueroVillage_ZH-CN1007741117_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CoteSauvage_ZH-CN9967984163_1920x1080.jpg) 20220630 [download 4k](https://www.bing.com/th?id=OHR.CoteSauvage_ZH-CN9967984163_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PhangNgaBay_ZH-CN9408705933_1920x1080.jpg) 20220629 [download 4k](https://www.bing.com/th?id=OHR.PhangNgaBay_ZH-CN9408705933_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.TafilaletOasis_ZH-CN9143950935_1920x1080.jpg) 20220628 [download 4k](https://www.bing.com/th?id=OHR.TafilaletOasis_ZH-CN9143950935_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ValensoleLavender_ZH-CN8778885260_1920x1080.jpg) 20220627 [download 4k](https://www.bing.com/th?id=OHR.ValensoleLavender_ZH-CN8778885260_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.KoalaSleeping_ZH-CN8369657308_1920x1080.jpg) 20220626 [download 4k](https://www.bing.com/th?id=OHR.KoalaSleeping_ZH-CN8369657308_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.BBMomCub_ZH-CN7715738841_1920x1080.jpg) 20220625 [download 4k](https://www.bing.com/th?id=OHR.BBMomCub_ZH-CN7715738841_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CenoteDiver_ZH-CN7334440742_1920x1080.jpg) 20220624 [download 4k](https://www.bing.com/th?id=OHR.CenoteDiver_ZH-CN7334440742_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MostarBridge_ZH-CN5920156936_1920x1080.jpg) 20220623 [download 4k](https://www.bing.com/th?id=OHR.MostarBridge_ZH-CN5920156936_UHD.jpg) |

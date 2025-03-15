@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-08)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PRNLCavern_EN-US7693319589_1920x1080.jpg) 20200831 [download 4k](https://www.bing.com/th?id=OHR.PRNLCavern_EN-US7693319589_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MakeHay_EN-US3538917204_1920x1080.jpg) 20200830 [download 4k](https://www.bing.com/th?id=OHR.MakeHay_EN-US3538917204_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BicycleSculptures_EN-US3449807795_1920x1080.jpg) 20200829 [download 4k](https://www.bing.com/th?id=OHR.BicycleSculptures_EN-US3449807795_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MonteCristo_EN-US3353853394_1920x1080.jpg) 20200828 [download 4k](https://www.bing.com/th?id=OHR.MonteCristo_EN-US3353853394_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SailingStone_EN-US8158160103_1920x1080.jpg) 20200827 [download 4k](https://www.bing.com/th?id=OHR.SailingStone_EN-US8158160103_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.OkanaganSpots_EN-US8113040044_1920x1080.jpg) 20200826 [download 4k](https://www.bing.com/th?id=OHR.OkanaganSpots_EN-US8113040044_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PancakeRocks_EN-US1220361824_1920x1080.jpg) 20200825 [download 4k](https://www.bing.com/th?id=OHR.PancakeRocks_EN-US1220361824_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CrystalRiver_EN-US8025232239_1920x1080.jpg) 20200824 [download 4k](https://www.bing.com/th?id=OHR.CrystalRiver_EN-US8025232239_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AugustStargazing_EN-US7610682262_1920x1080.jpg) 20200823 [download 4k](https://www.bing.com/th?id=OHR.AugustStargazing_EN-US7610682262_UHD.jpg) |

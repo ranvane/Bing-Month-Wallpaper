@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LavaTube_ZH-CN5458469336_1920x1080.jpg) 20220801 [download 4k](https://www.bing.com/th?id=OHR.LavaTube_ZH-CN5458469336_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_1920x1080.jpg) 20220731 [download 4k](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_1920x1080.jpg) 20220730 [download 4k](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FourTigresses_ZH-CN4095017352_1920x1080.jpg) 20220729 [download 4k](https://www.bing.com/th?id=OHR.FourTigresses_ZH-CN4095017352_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LongsPeak_ZH-CN5927119555_1920x1080.jpg) 20220728 [download 4k](https://www.bing.com/th?id=OHR.LongsPeak_ZH-CN5927119555_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NabateanTomb_ZH-CN5770360385_1920x1080.jpg) 20220727 [download 4k](https://www.bing.com/th?id=OHR.NabateanTomb_ZH-CN5770360385_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MangroveDay_ZH-CN5590436101_1920x1080.jpg) 20220726 [download 4k](https://www.bing.com/th?id=OHR.MangroveDay_ZH-CN5590436101_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DolbadarnCastle_ZH-CN5397592090_1920x1080.jpg) 20220725 [download 4k](https://www.bing.com/th?id=OHR.DolbadarnCastle_ZH-CN5397592090_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TwoJackLake_ZH-CN4716355677_1920x1080.jpg) 20220724 [download 4k](https://www.bing.com/th?id=OHR.TwoJackLake_ZH-CN4716355677_UHD.jpg) |

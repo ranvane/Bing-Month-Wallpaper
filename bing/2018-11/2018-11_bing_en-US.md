@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-11)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/KilchurnSky_EN-US9115024751_1920x1080.jpg) 20181130 [download 4k](https://www.bing.com/az/hprichbg/rb/KilchurnSky_EN-US9115024751_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/FrankfurtXmas_EN-US9289866662_1920x1080.jpg) 20181129 [download 4k](https://www.bing.com/az/hprichbg/rb/FrankfurtXmas_EN-US9289866662_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RCTree_EN-US13777936889_1920x1080.jpg) 20181128 [download 4k](https://www.bing.com/th?id=OHR.RCTree_EN-US13777936889_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/FoxMolt_EN-US11584363178_1920x1080.jpg) 20181127 [download 4k](https://www.bing.com/az/hprichbg/rb/FoxMolt_EN-US11584363178_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/AliceCentralPark_EN-US9031006021_1920x1080.jpg) 20181126 [download 4k](https://www.bing.com/az/hprichbg/rb/AliceCentralPark_EN-US9031006021_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/VarennaSnow_EN-US8379460546_1920x1080.jpg) 20181125 [download 4k](https://www.bing.com/az/hprichbg/rb/VarennaSnow_EN-US8379460546_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/DarwinOrigin_EN-US14530151991_1920x1080.jpg) 20181124 [download 4k](https://www.bing.com/az/hprichbg/rb/DarwinOrigin_EN-US14530151991_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/ShoppersReflected_EN-US10998166854_1920x1080.jpg) 20181123 [download 4k](https://www.bing.com/az/hprichbg/rb/ShoppersReflected_EN-US10998166854_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TomTurkey_EN-US7913806283_1920x1080.jpg) 20181122 [download 4k](https://www.bing.com/az/hprichbg/rb/TomTurkey_EN-US7913806283_UHD.jpg) |

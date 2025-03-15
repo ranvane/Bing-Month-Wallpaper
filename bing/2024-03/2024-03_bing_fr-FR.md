@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PalazzoFarnese_FR-FR9572652511_1920x1080.jpg) 20240401 [download 4k](https://www.bing.com/th?id=OHR.PalazzoFarnese_FR-FR9572652511_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HungarianEggs_FR-FR9262429239_1920x1080.jpg) 20240331 [download 4k](https://www.bing.com/th?id=OHR.HungarianEggs_FR-FR9262429239_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SleepySloth_FR-FR0657179763_1920x1080.jpg) 20240330 [download 4k](https://www.bing.com/th?id=OHR.SleepySloth_FR-FR0657179763_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SouthStackLight_FR-FR9101863660_1920x1080.jpg) 20240329 [download 4k](https://www.bing.com/th?id=OHR.SouthStackLight_FR-FR9101863660_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_FR-FR9000032992_1920x1080.jpg) 20240328 [download 4k](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_FR-FR9000032992_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TeatroColon_FR-FR8848862049_1920x1080.jpg) 20240327 [download 4k](https://www.bing.com/th?id=OHR.TeatroColon_FR-FR8848862049_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.HangRaiVietnam_FR-FR8788707911_1920x1080.jpg) 20240326 [download 4k](https://www.bing.com/th?id=OHR.HangRaiVietnam_FR-FR8788707911_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ProcrastinationDay_FR-FR8703277811_1920x1080.jpg) 20240325 [download 4k](https://www.bing.com/th?id=OHR.ProcrastinationDay_FR-FR8703277811_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WhiteEyes_FR-FR8585803906_1920x1080.jpg) 20240324 [download 4k](https://www.bing.com/th?id=OHR.WhiteEyes_FR-FR8585803906_UHD.jpg) |

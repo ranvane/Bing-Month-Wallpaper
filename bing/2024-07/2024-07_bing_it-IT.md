@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-07)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.KaptaiLake_IT-IT3135317683_1920x1080.jpg) 20240801 [download 4k](https://www.bing.com/th?id=OHR.KaptaiLake_IT-IT3135317683_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RhinelandVineyards_IT-IT2787669199_1920x1080.jpg) 20240731 [download 4k](https://www.bing.com/th?id=OHR.RhinelandVineyards_IT-IT2787669199_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GimignanoTuscany_IT-IT2653150377_1920x1080.jpg) 20240730 [download 4k](https://www.bing.com/th?id=OHR.GimignanoTuscany_IT-IT2653150377_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CorbettTigers_IT-IT0229464219_1920x1080.jpg) 20240729 [download 4k](https://www.bing.com/th?id=OHR.CorbettTigers_IT-IT0229464219_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BeachHutsSweden_IT-IT4512974268_1920x1080.jpg) 20240728 [download 4k](https://www.bing.com/th?id=OHR.BeachHutsSweden_IT-IT4512974268_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EstateRomana_IT-IT9963812100_1920x1080.jpg) 20240727 [download 4k](https://www.bing.com/th?id=OHR.EstateRomana_IT-IT9963812100_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PontNeuf_IT-IT7027678488_1920x1080.jpg) 20240726 [download 4k](https://www.bing.com/th?id=OHR.PontNeuf_IT-IT7027678488_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SmokyMountainTrail_IT-IT2739269969_1920x1080.jpg) 20240725 [download 4k](https://www.bing.com/th?id=OHR.SmokyMountainTrail_IT-IT2739269969_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SheepCousins_IT-IT2624157981_1920x1080.jpg) 20240724 [download 4k](https://www.bing.com/th?id=OHR.SheepCousins_IT-IT2624157981_UHD.jpg) |

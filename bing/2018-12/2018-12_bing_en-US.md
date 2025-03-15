@@ -1,7 +1,7 @@
 # Bing Wallpaper (2018-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/EyeFireworks_EN-US5841094095_1920x1080.jpg) 20181231 [download 4k](https://www.bing.com/az/hprichbg/rb/EyeFireworks_EN-US5841094095_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Shaun_EN-US5782217523_1920x1080.jpg) 20181230 [download 4k](https://www.bing.com/az/hprichbg/rb/Shaun_EN-US5782217523_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/NLNorway_EN-US5725558747_1920x1080.jpg) 20181229 [download 4k](https://www.bing.com/az/hprichbg/rb/NLNorway_EN-US5725558747_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/WYBaldEagle_EN-US5673845676_1920x1080.jpg) 20181228 [download 4k](https://www.bing.com/az/hprichbg/rb/WYBaldEagle_EN-US5673845676_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/BethesdaSnow_EN-US5611090255_1920x1080.jpg) 20181227 [download 4k](https://www.bing.com/az/hprichbg/rb/BethesdaSnow_EN-US5611090255_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/OxfordBoxing_EN-US5560539615_1920x1080.jpg) 20181226 [download 4k](https://www.bing.com/az/hprichbg/rb/OxfordBoxing_EN-US5560539615_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/ToyXmasTree_EN-US5514346051_1920x1080.jpg) 20181225 [download 4k](https://www.bing.com/az/hprichbg/rb/ToyXmasTree_EN-US5514346051_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/SilentNight_EN-US4915938125_1920x1080.jpg) 20181224 [download 4k](https://www.bing.com/az/hprichbg/rb/SilentNight_EN-US4915938125_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/Ravennaschlucht_EN-US4177652165_1920x1080.jpg) 20181223 [download 4k](https://www.bing.com/az/hprichbg/rb/Ravennaschlucht_EN-US4177652165_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.Badger_FR-FR5236947017_1920x1080.jpg) 20240301 [download 4k](https://www.bing.com/th?id=OHR.Badger_FR-FR5236947017_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LeapingSquirrel_FR-FR3290902737_1920x1080.jpg) 20240229 [download 4k](https://www.bing.com/th?id=OHR.LeapingSquirrel_FR-FR3290902737_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BamburghCastleUK_FR-FR3136425670_1920x1080.jpg) 20240228 [download 4k](https://www.bing.com/th?id=OHR.BamburghCastleUK_FR-FR3136425670_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PolarBearCubs_FR-FR2914859035_1920x1080.jpg) 20240227 [download 4k](https://www.bing.com/th?id=OHR.PolarBearCubs_FR-FR2914859035_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GrandCanyonWinter_FR-FR2711943454_1920x1080.jpg) 20240226 [download 4k](https://www.bing.com/th?id=OHR.GrandCanyonWinter_FR-FR2711943454_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AlmondBloom_FR-FR1944191852_1920x1080.jpg) 20240225 [download 4k](https://www.bing.com/th?id=OHR.AlmondBloom_FR-FR1944191852_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AgriculturalShow_FR-FR2506485920_1920x1080.jpg) 20240224 [download 4k](https://www.bing.com/th?id=OHR.AgriculturalShow_FR-FR2506485920_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HaghartsinMonastery_FR-FR1636518850_1920x1080.jpg) 20240223 [download 4k](https://www.bing.com/th?id=OHR.HaghartsinMonastery_FR-FR1636518850_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MontBlancChamonix_FR-FR7471811923_1920x1080.jpg) 20240222 [download 4k](https://www.bing.com/th?id=OHR.MontBlancChamonix_FR-FR7471811923_UHD.jpg) |

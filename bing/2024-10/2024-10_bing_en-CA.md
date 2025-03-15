@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.GargoyleParis_EN-CA6806508662_1920x1080.jpg) 20241101 [download 4k](https://www.bing.com/th?id=OHR.GargoyleParis_EN-CA6806508662_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-CA6524249488_1920x1080.jpg) 20241031 [download 4k](https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-CA6524249488_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GreatOwl_EN-CA6169202889_1920x1080.jpg) 20241030 [download 4k](https://www.bing.com/th?id=OHR.GreatOwl_EN-CA6169202889_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.PumpkinMist_EN-CA5942039818_1920x1080.jpg) 20241029 [download 4k](https://www.bing.com/th?id=OHR.PumpkinMist_EN-CA5942039818_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarBearHug_EN-CA5661955284_1920x1080.jpg) 20241028 [download 4k](https://www.bing.com/th?id=OHR.PolarBearHug_EN-CA5661955284_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GhostForest_EN-CA5302994217_1920x1080.jpg) 20241027 [download 4k](https://www.bing.com/th?id=OHR.GhostForest_EN-CA5302994217_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MontBlancMassif_EN-CA4972012680_1920x1080.jpg) 20241026 [download 4k](https://www.bing.com/th?id=OHR.MontBlancMassif_EN-CA4972012680_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BodieCalifornia_EN-CA4900321008_1920x1080.jpg) 20241025 [download 4k](https://www.bing.com/th?id=OHR.BodieCalifornia_EN-CA4900321008_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-CA4239046959_1920x1080.jpg) 20241024 [download 4k](https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-CA4239046959_UHD.jpg) |

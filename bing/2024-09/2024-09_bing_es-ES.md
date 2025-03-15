@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.HalfDomeYosemite_ES-ES8574128580_1920x1080.jpg) 20241001 [download 4k](https://www.bing.com/th?id=OHR.HalfDomeYosemite_ES-ES8574128580_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WalrusNorway_ES-ES8405668641_1920x1080.jpg) 20240930 [download 4k](https://www.bing.com/th?id=OHR.WalrusNorway_ES-ES8405668641_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ConnecticutBridge_ES-ES8203018344_1920x1080.jpg) 20240929 [download 4k](https://www.bing.com/th?id=OHR.ConnecticutBridge_ES-ES8203018344_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SanSebastianFilmFestivalkicksoff_ES-ES7999513077_1920x1080.jpg) 20240928 [download 4k](https://www.bing.com/th?id=OHR.SanSebastianFilmFestivalkicksoff_ES-ES7999513077_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.VeniceAerial_ES-ES7915043762_1920x1080.jpg) 20240927 [download 4k](https://www.bing.com/th?id=OHR.VeniceAerial_ES-ES7915043762_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LittleToucanet_ES-ES6890080970_1920x1080.jpg) 20240926 [download 4k](https://www.bing.com/th?id=OHR.LittleToucanet_ES-ES6890080970_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GiantSequoias_ES-ES6715324180_1920x1080.jpg) 20240925 [download 4k](https://www.bing.com/th?id=OHR.GiantSequoias_ES-ES6715324180_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_ES-ES6245666975_1920x1080.jpg) 20240924 [download 4k](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_ES-ES6245666975_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.IcebergOtter_ES-ES5963215233_1920x1080.jpg) 20240923 [download 4k](https://www.bing.com/th?id=OHR.IcebergOtter_ES-ES5963215233_UHD.jpg) |

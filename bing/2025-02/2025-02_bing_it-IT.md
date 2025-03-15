@@ -1,7 +1,7 @@
 # Bing Wallpaper (2025-02)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.MaligneLakeJasper_IT-IT4481289877_1920x1080.jpg) 20250301 [download 4k](https://www.bing.com/th?id=OHR.MaligneLakeJasper_IT-IT4481289877_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BhutanMonastery_IT-IT9860257157_1920x1080.jpg) 20250228 [download 4k](https://www.bing.com/th?id=OHR.BhutanMonastery_IT-IT9860257157_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarCub_IT-IT9763636877_1920x1080.jpg) 20250227 [download 4k](https://www.bing.com/th?id=OHR.PolarCub_IT-IT9763636877_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.ArgyllStalker_IT-IT3265254164_1920x1080.jpg) 20250226 [download 4k](https://www.bing.com/th?id=OHR.ArgyllStalker_IT-IT3265254164_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MilanFashionWeek_IT-IT9622143512_1920x1080.jpg) 20250225 [download 4k](https://www.bing.com/th?id=OHR.MilanFashionWeek_IT-IT9622143512_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BryceHoodoos_IT-IT9552861475_1920x1080.jpg) 20250224 [download 4k](https://www.bing.com/th?id=OHR.BryceHoodoos_IT-IT9552861475_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.MtFujiSunrise_IT-IT9440772477_1920x1080.jpg) 20250223 [download 4k](https://www.bing.com/th?id=OHR.MtFujiSunrise_IT-IT9440772477_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.StLouisArch_IT-IT9390622803_1920x1080.jpg) 20250222 [download 4k](https://www.bing.com/th?id=OHR.StLouisArch_IT-IT9390622803_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BattagliaDiPavia_IT-IT9266388577_1920x1080.jpg) 20250221 [download 4k](https://www.bing.com/th?id=OHR.BattagliaDiPavia_IT-IT9266388577_UHD.jpg) |

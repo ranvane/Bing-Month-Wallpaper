@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.LotsOBalloons_IT-IT7966841051_1920x1080.jpg) 20221001 [download 4k](https://www.bing.com/th?id=OHR.LotsOBalloons_IT-IT7966841051_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.EubalaenaAustralis_IT-IT6732904295_1920x1080.jpg) 20220930 [download 4k](https://www.bing.com/th?id=OHR.EubalaenaAustralis_IT-IT6732904295_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.InfiniD_IT-IT6371965845_1920x1080.jpg) 20220929 [download 4k](https://www.bing.com/th?id=OHR.InfiniD_IT-IT6371965845_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FosterCoveredBridge_IT-IT5695100114_1920x1080.jpg) 20220928 [download 4k](https://www.bing.com/th?id=OHR.FosterCoveredBridge_IT-IT5695100114_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.YellowstoneUGB_IT-IT4659797303_1920x1080.jpg) 20220927 [download 4k](https://www.bing.com/th?id=OHR.YellowstoneUGB_IT-IT4659797303_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GoldenJellyfish_IT-IT8000646203_1920x1080.jpg) 20220926 [download 4k](https://www.bing.com/th?id=OHR.GoldenJellyfish_IT-IT8000646203_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.AmazonMangroves_IT-IT3007163849_1920x1080.jpg) 20220925 [download 4k](https://www.bing.com/th?id=OHR.AmazonMangroves_IT-IT3007163849_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DuomoMilan_IT-IT3380381939_1920x1080.jpg) 20220924 [download 4k](https://www.bing.com/th?id=OHR.DuomoMilan_IT-IT3380381939_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LastDollarRoad_IT-IT2313420373_1920x1080.jpg) 20220923 [download 4k](https://www.bing.com/th?id=OHR.LastDollarRoad_IT-IT2313420373_UHD.jpg) |

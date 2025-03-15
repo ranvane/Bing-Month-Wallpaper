@@ -1,7 +1,7 @@
 # Bing Wallpaper (2017-09)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/az/hprichbg/rb/SitanaPonticeriana_EN-US10921478705_1920x1080.jpg) 20170930 [download 4k](https://www.bing.com/az/hprichbg/rb/SitanaPonticeriana_EN-US10921478705_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/LittleAuks_EN-US10291231387_1920x1080.jpg) 20170929 [download 4k](https://www.bing.com/az/hprichbg/rb/LittleAuks_EN-US10291231387_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/MtIbukiyama_EN-US6882861958_1920x1080.jpg) 20170928 [download 4k](https://www.bing.com/az/hprichbg/rb/MtIbukiyama_EN-US6882861958_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/LakePukaki_EN-US9412206565_1920x1080.jpg) 20170927 [download 4k](https://www.bing.com/az/hprichbg/rb/LakePukaki_EN-US9412206565_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/TurpanDepression_EN-US12371339737_1920x1080.jpg) 20170926 [download 4k](https://www.bing.com/az/hprichbg/rb/TurpanDepression_EN-US12371339737_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/PrecipiceLake_EN-US10954292570_1920x1080.jpg) 20170925 [download 4k](https://www.bing.com/az/hprichbg/rb/PrecipiceLake_EN-US10954292570_UHD.jpg) |
 | ![](https://www.bing.com/az/hprichbg/rb/ErfurtOktoberfest_EN-US12154451896_1920x1080.jpg) 20170924 [download 4k](https://www.bing.com/az/hprichbg/rb/ErfurtOktoberfest_EN-US12154451896_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/NestingRabbit_EN-US12646294176_1920x1080.jpg) 20170923 [download 4k](https://www.bing.com/az/hprichbg/rb/NestingRabbit_EN-US12646294176_UHD.jpg) | ![](https://www.bing.com/az/hprichbg/rb/DollySods_EN-US9021857432_1920x1080.jpg) 20170922 [download 4k](https://www.bing.com/az/hprichbg/rb/DollySods_EN-US9021857432_UHD.jpg) |

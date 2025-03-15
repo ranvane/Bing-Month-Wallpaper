@@ -1,7 +1,7 @@
 # Bing Wallpaper (2021-06)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PortuairkBay_ZH-CN5255529820_1920x1080.jpg) 20210630 [download 4k](https://www.bing.com/th?id=OHR.PortuairkBay_ZH-CN5255529820_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LavenderBlooms_ZH-CN5541892943_1920x1080.jpg) 20210629 [download 4k](https://www.bing.com/th?id=OHR.LavenderBlooms_ZH-CN5541892943_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.RocksSeychelles_ZH-CN0105602892_1920x1080.jpg) 20210628 [download 4k](https://www.bing.com/th?id=OHR.RocksSeychelles_ZH-CN0105602892_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Cittadella_ZH-CN0039969121_1920x1080.jpg) 20210627 [download 4k](https://www.bing.com/th?id=OHR.Cittadella_ZH-CN0039969121_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GreaterFlamingosIndia_ZH-CN5655181892_1920x1080.jpg) 20210626 [download 4k](https://www.bing.com/th?id=OHR.GreaterFlamingosIndia_ZH-CN5655181892_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Kamikouchi_ZH-CN5677161294_1920x1080.jpg) 20210625 [download 4k](https://www.bing.com/th?id=OHR.Kamikouchi_ZH-CN5677161294_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.Heliodoxa_ZH-CN9872355419_1920x1080.jpg) 20210624 [download 4k](https://www.bing.com/th?id=OHR.Heliodoxa_ZH-CN9872355419_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.DenaliCaribou_ZH-CN9804350098_1920x1080.jpg) 20210623 [download 4k](https://www.bing.com/th?id=OHR.DenaliCaribou_ZH-CN9804350098_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.Nichinan_ZH-CN9549208263_1920x1080.jpg) 20210622 [download 4k](https://www.bing.com/th?id=OHR.Nichinan_ZH-CN9549208263_UHD.jpg) |

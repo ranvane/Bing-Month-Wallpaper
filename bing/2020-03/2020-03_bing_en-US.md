@@ -1,7 +1,7 @@
 # Bing Wallpaper (2020-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.TheTwist_EN-US1554358364_1920x1080.jpg) 20200331 [download 4k](https://www.bing.com/th?id=OHR.TheTwist_EN-US1554358364_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GalesnjakIsland_EN-US8495200916_1920x1080.jpg) 20200330 [download 4k](https://www.bing.com/th?id=OHR.GalesnjakIsland_EN-US8495200916_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BorrowingDays_EN-US1332727011_1920x1080.jpg) 20200329 [download 4k](https://www.bing.com/th?id=OHR.BorrowingDays_EN-US1332727011_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.FormentorHolidays_EN-US1927408350_1920x1080.jpg) 20200328 [download 4k](https://www.bing.com/th?id=OHR.FormentorHolidays_EN-US1927408350_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CharlestonAzaleas_EN-US1112132446_1920x1080.jpg) 20200327 [download 4k](https://www.bing.com/th?id=OHR.CharlestonAzaleas_EN-US1112132446_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NoCaliCoast_EN-US0095184591_1920x1080.jpg) 20200326 [download 4k](https://www.bing.com/th?id=OHR.NoCaliCoast_EN-US0095184591_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.RadcliffeCamera_EN-US0047487559_1920x1080.jpg) 20200325 [download 4k](https://www.bing.com/th?id=OHR.RadcliffeCamera_EN-US0047487559_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SpainBeeEaters_EN-US0011186052_1920x1080.jpg) 20200324 [download 4k](https://www.bing.com/th?id=OHR.SpainBeeEaters_EN-US0011186052_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LenticularVideo_EN-US3256283499_1920x1080.jpg) 20200323 [download 4k](https://www.bing.com/th?id=OHR.LenticularVideo_EN-US3256283499_UHD.jpg) |

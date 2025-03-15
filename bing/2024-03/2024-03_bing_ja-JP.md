@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-03)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.PalazzoFarnese_JA-JP7372412499_1920x1080.jpg) 20240401 [download 4k](https://www.bing.com/th?id=OHR.PalazzoFarnese_JA-JP7372412499_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HungarianEggs_JA-JP9558688915_1920x1080.jpg) 20240331 [download 4k](https://www.bing.com/th?id=OHR.HungarianEggs_JA-JP9558688915_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.SleepySloth_JA-JP5634281010_1920x1080.jpg) 20240330 [download 4k](https://www.bing.com/th?id=OHR.SleepySloth_JA-JP5634281010_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.SouthStackLight_JA-JP5461690758_1920x1080.jpg) 20240329 [download 4k](https://www.bing.com/th?id=OHR.SouthStackLight_JA-JP5461690758_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HangRaiVietnam_JA-JP5262793326_1920x1080.jpg) 20240328 [download 4k](https://www.bing.com/th?id=OHR.HangRaiVietnam_JA-JP5262793326_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.TeatroColon_JA-JP5032198346_1920x1080.jpg) 20240327 [download 4k](https://www.bing.com/th?id=OHR.TeatroColon_JA-JP5032198346_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CherryBlossom2024_JA-JP4820412066_1920x1080.jpg) 20240326 [download 4k](https://www.bing.com/th?id=OHR.CherryBlossom2024_JA-JP4820412066_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.ColorfulHoli_JA-JP4638350581_1920x1080.jpg) 20240325 [download 4k](https://www.bing.com/th?id=OHR.ColorfulHoli_JA-JP4638350581_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.AntelopeBotswana_JA-JP4419409957_1920x1080.jpg) 20240324 [download 4k](https://www.bing.com/th?id=OHR.AntelopeBotswana_JA-JP4419409957_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2019-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.AlbertaOwl_ZH-CN1184867720_1920x1080.jpg) 20191031 [download 4k](https://www.bing.com/th?id=OHR.AlbertaOwl_ZH-CN1184867720_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.VampireCastle_ZH-CN1018939203_1920x1080.jpg) 20191030 [download 4k](https://www.bing.com/th?id=OHR.VampireCastle_ZH-CN1018939203_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CharlesNight_ZH-CN0933393880_1920x1080.jpg) 20191029 [download 4k](https://www.bing.com/th?id=OHR.CharlesNight_ZH-CN0933393880_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.EidolonHelvum_ZH-CN0881732109_1920x1080.jpg) 20191028 [download 4k](https://www.bing.com/th?id=OHR.EidolonHelvum_ZH-CN0881732109_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FortRockHomestead_ZH-CN0775183699_1920x1080.jpg) 20191027 [download 4k](https://www.bing.com/th?id=OHR.FortRockHomestead_ZH-CN0775183699_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.NaranjoBulnes_ZH-CN0696600867_1920x1080.jpg) 20191026 [download 4k](https://www.bing.com/th?id=OHR.NaranjoBulnes_ZH-CN0696600867_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.RedWattlebird_ZH-CN0640093095_1920x1080.jpg) 20191025 [download 4k](https://www.bing.com/th?id=OHR.RedWattlebird_ZH-CN0640093095_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.WorldLemurDay_ZH-CN9867937861_1920x1080.jpg) 20191024 [download 4k](https://www.bing.com/th?id=OHR.WorldLemurDay_ZH-CN9867937861_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.CountyBridge_ZH-CN6500717169_1920x1080.jpg) 20191023 [download 4k](https://www.bing.com/th?id=OHR.CountyBridge_ZH-CN6500717169_UHD.jpg) |

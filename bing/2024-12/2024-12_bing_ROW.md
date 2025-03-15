@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-12)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.CANYE24_ROW0206031786_1920x1080.jpg) 20250101 [download 4k](https://www.bing.com/th?id=OHR.CANYE24_ROW0206031786_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MountFieldNP_ROW9930277363_1920x1080.jpg) 20241231 [download 4k](https://www.bing.com/th?id=OHR.MountFieldNP_ROW9930277363_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BorobudurBells_ROW9657189052_1920x1080.jpg) 20241230 [download 4k](https://www.bing.com/th?id=OHR.BorobudurBells_ROW9657189052_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CoralTurtle_ROW9351762717_1920x1080.jpg) 20241229 [download 4k](https://www.bing.com/th?id=OHR.CoralTurtle_ROW9351762717_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.LakeBledSnow_ROW6189813176_1920x1080.jpg) 20241228 [download 4k](https://www.bing.com/th?id=OHR.LakeBledSnow_ROW6189813176_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MouseholeXmas_ROW5799394609_1920x1080.jpg) 20241227 [download 4k](https://www.bing.com/th?id=OHR.MouseholeXmas_ROW5799394609_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.CovadongaWinter_ROW6306600418_1920x1080.jpg) 20241226 [download 4k](https://www.bing.com/th?id=OHR.CovadongaWinter_ROW6306600418_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FreudenbergHistoricHouses_ROW2814247948_1920x1080.jpg) 20241225 [download 4k](https://www.bing.com/th?id=OHR.FreudenbergHistoricHouses_ROW2814247948_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.FestivusCranes_ROW3135678102_1920x1080.jpg) 20241224 [download 4k](https://www.bing.com/th?id=OHR.FestivusCranes_ROW3135678102_UHD.jpg) |

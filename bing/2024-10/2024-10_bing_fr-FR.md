@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_FR-FR4606412994_1920x1080.jpg) 20241101 [download 4k](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_FR-FR4606412994_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GargoyleParis_FR-FR6298643080_1920x1080.jpg) 20241031 [download 4k](https://www.bing.com/th?id=OHR.GargoyleParis_FR-FR6298643080_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HauntedEdinburgh_FR-FR5789637805_1920x1080.jpg) 20241030 [download 4k](https://www.bing.com/th?id=OHR.HauntedEdinburgh_FR-FR5789637805_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GreatOwl_FR-FR5138937408_1920x1080.jpg) 20241029 [download 4k](https://www.bing.com/th?id=OHR.GreatOwl_FR-FR5138937408_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PumpkinMist_FR-FR4008635206_1920x1080.jpg) 20241028 [download 4k](https://www.bing.com/th?id=OHR.PumpkinMist_FR-FR4008635206_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarBearHug_FR-FR4269390170_1920x1080.jpg) 20241027 [download 4k](https://www.bing.com/th?id=OHR.PolarBearHug_FR-FR4269390170_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.DaylightOrsay_FR-FR6504936679_1920x1080.jpg) 20241026 [download 4k](https://www.bing.com/th?id=OHR.DaylightOrsay_FR-FR6504936679_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MontBlancMassif_FR-FR3086355782_1920x1080.jpg) 20241025 [download 4k](https://www.bing.com/th?id=OHR.MontBlancMassif_FR-FR3086355782_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BodieCalifornia_FR-FR2619483775_1920x1080.jpg) 20241024 [download 4k](https://www.bing.com/th?id=OHR.BodieCalifornia_FR-FR2619483775_UHD.jpg) |

@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-10)
 **************
 | | | |
-| :----: | :----: | :----: |
+|:-:|:-:|:-:|
 | ![](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_ZH-CN6767078591_1920x1080.jpg) 20241101 [download 4k](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_ZH-CN6767078591_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.GargoyleParis_ZH-CN1668628241_1920x1080.jpg) 20241031 [download 4k](https://www.bing.com/th?id=OHR.GargoyleParis_ZH-CN1668628241_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_1920x1080.jpg) 20241030 [download 4k](https://www.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_1920x1080.jpg) 20241029 [download 4k](https://www.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PumpkinMist_ZH-CN0898655859_1920x1080.jpg) 20241028 [download 4k](https://www.bing.com/th?id=OHR.PumpkinMist_ZH-CN0898655859_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.PolarBearHug_ZH-CN0696077546_1920x1080.jpg) 20241027 [download 4k](https://www.bing.com/th?id=OHR.PolarBearHug_ZH-CN0696077546_UHD.jpg) |
 | ![](https://www.bing.com/th?id=OHR.GhostForest_ZH-CN9648216213_1920x1080.jpg) 20241026 [download 4k](https://www.bing.com/th?id=OHR.GhostForest_ZH-CN9648216213_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.MontBlancMassif_ZH-CN9172264924_1920x1080.jpg) 20241025 [download 4k](https://www.bing.com/th?id=OHR.MontBlancMassif_ZH-CN9172264924_UHD.jpg) | ![](https://www.bing.com/th?id=OHR.BodieCalifornia_ZH-CN8941360519_1920x1080.jpg) 20241024 [download 4k](https://www.bing.com/th?id=OHR.BodieCalifornia_ZH-CN8941360519_UHD.jpg) |
