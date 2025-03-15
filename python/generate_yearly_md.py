@@ -3,7 +3,7 @@ import logging
 import os
 import re
 from string import Template
-
+import logging
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s | %(levelname)-5s | %(filename)s | %(funcName)s | %(lineno)d | %(message)s',
