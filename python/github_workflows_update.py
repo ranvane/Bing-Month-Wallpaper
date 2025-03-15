@@ -9,15 +9,15 @@ is_github_workflow = os.getenv('GITHUB_ACTIONS')
 LANGS = ['ROW', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES',
          'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']
 
-# if is_github_workflow:
-#     print("Running in GitHub Workflows")
-#     # 更新所有的地区的最近days天的bing桌面数据
-#     days = 7
-#     for lang in LANGS:
-#         update_lang_data(lang, days)
+if is_github_workflow:
+    print("Running in GitHub Workflows")
+    # 更新所有的地区的最近days天的bing桌面数据
+    days = 7
+    for lang in LANGS:
+        update_lang_data(lang, days)
 
-# else:
-#     print("Running locally")
+else:
+    print("Running locally")
 
 
 year_month_langs()  # 将所有的json文件生成:"年月文件夹/bing_地区.json"的文件
