@@ -51,6 +51,12 @@ jobs:
           cd gh-pages
           rm -rf *
           cd ..
+      - name: 检查 bing 目录是否存在
+        run: |
+          if [ ! -d "${{ env.BING_DIR }}" ]; then
+            echo "bing 目录不存在，终止工作流。"
+            exit 1
+          fi
       # 第六步：部署到 GitHub Pages
       - name: 部署到 GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
