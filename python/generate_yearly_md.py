@@ -207,8 +207,8 @@ def get_year_month_links(bing_dir, nums=10):
             # relative_path = os.path.relpath(md_file, start=os.path.dirname(bing_dir))
             # 生成相对路径链接，设置起始路径为bing_dir
             relative_path = os.path.relpath(md_file, start=bing_dir)
-            # logging.info(f"Relative Path: {relative_path}")
-            links.append(f"[{folder}]({relative_path})")
+            logging.info(f"Relative Path: {relative_path}")
+            links.append(f"[{folder}](/{relative_path})")
 
 
             # 每满nums个链接插入换行（生成表格换行符）

@@ -1,51 +1,79 @@
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
+# 这是一个用于构建并部署 Jekyll 网站到 GitHub Pages 的示例工作流
+# 该工作流会在代码推送到默认分支或手动触发时执行
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
+# 定义工作流的触发条件
 on:
-  # Runs on pushes targeting the default branch
+  # 当代码推送到默认分支（这里是 main 分支）时触发工作流
   push:
     branches: ["main"]
 
-  # Allows you to run this workflow manually from the Actions tab
+  # 允许从 Actions 标签页手动触发此工作流
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+# 设置 GITHUB_TOKEN 的权限，以便将网站部署到 GitHub Pages
 permissions:
+  # 允许读取仓库内容
   contents: read
+  # 允许向 GitHub Pages 写入内容
   pages: write
+  # 允许写入身份验证令牌
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# 并发控制设置
+# 只允许一个并发部署，跳过在正在进行的运行和最新排队的运行之间排队的运行
+# 但是，不取消正在进行的运行，因为我们希望这些生产部署能够完成
 concurrency:
+  # 并发组名称
   group: "pages"
+  # 不取消正在进行的运行
   cancel-in-progress: false
 
+# 定义工作流中的作业
 jobs:
-  # Build job
+  # 构建作业
   build:
+    # 指定作业运行的环境，这里使用最新的 Ubuntu 系统
     runs-on: ubuntu-latest
     steps:
+      # 检出仓库代码
       - name: Checkout
+        # 使用 actions/checkout 动作，版本为 v4
         uses: actions/checkout@v4
+      # 配置 GitHub Pages
       - name: Setup Pages
+        # 使用 actions/configure-pages 动作，版本为 v5
         uses: actions/configure-pages@v5
+      # 使用 Jekyll 构建网站
       - name: Build with Jekyll
+        # 使用 actions/jekyll-build-pages 动作，版本为 v1
         uses: actions/jekyll-build-pages@v1
         with:
+          # 指定 Jekyll 网站的源文件目录
           source: ./bing
+          # 指定构建输出的目标目录
           destination: ./_site
+      # 上传构建好的网站文件作为工件，供后续部署步骤使用
       - name: Upload artifact
+        # 使用 actions/upload-pages-artifact 动作，版本为 v3
         uses: actions/upload-pages-artifact@v3
 
-  # Deployment job
+  # 部署作业
   deploy:
     environment:
+      # 部署环境的名称
       name: github-pages
+      # 部署后的网站 URL，从 Deploy to GitHub Pages 步骤的输出中获取
       url: ${{ steps.deployment.outputs.page_url }}
+    # 指定作业运行的环境，这里使用最新的 Ubuntu 系统
     runs-on: ubuntu-latest
+    # 表示该作业依赖于 build 作业，只有 build 作业成功完成后才会执行
     needs: build
     steps:
+      # 将之前上传的工件部署到 GitHub Pages
       - name: Deploy to GitHub Pages
+        # 为该步骤设置一个 ID，方便后续引用其输出
         id: deployment
+        # 使用 actions/deploy-pages 动作，版本为 v4
         uses: actions/deploy-pages@v4
+

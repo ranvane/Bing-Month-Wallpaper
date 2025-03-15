@@ -40,17 +40,7 @@ jobs:
               fi
             done
           fi
-      # 第五步：清空目标分支的文件
-      - name: 清空gh-pages 分支的文件
-        uses: actions/checkout@v4
-        with:
-          ref: gh-pages  # 假设 GitHub Pages 使用的是 gh-pages 分支
-          path: gh-pages
-      - name: 删除目标分支的所有文件
-        run: |
-          cd gh-pages
-          rm -rf *
-          cd ..
+
       - name: 检查 bing 目录是否存在
         run: |
           if [ ! -d "${{ env.BING_DIR }}" ]; then
