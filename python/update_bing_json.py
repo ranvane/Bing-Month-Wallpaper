@@ -32,7 +32,7 @@ def fetch_bing_data(lang: str, days: int = 1) -> List[Dict]:
         包含壁纸信息的字典列表
     """
     # 计算API参数（idx=0表示当天，n=days表示获取天数）
-    api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=7&n={days}&mkt={lang}"
+    api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n={days}&mkt={lang}"
 
     # 添加浏览器级User-Agent避免被拒绝
     headers = {
