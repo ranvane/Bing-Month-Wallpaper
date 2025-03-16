@@ -19,7 +19,7 @@ bing_dir = os.path.join(base_dir, "bing")
 # 支持的语言列表（ROW为通用地区）
 LANGS = ['ROW', 'en-US', 'en-CA', 'en-GB', 'en-IN', 'es-ES',
          'fr-FR', 'fr-CA', 'it-IT', 'ja-JP', 'pt-BR', 'de-DE', 'zh-CN']
-LANGS = ['ROW']
+LANGS = ['en-US', 'zh-CN']
 
 
 def fetch_bing_data(lang: str, days: int = 1) -> List[Dict]:
@@ -59,7 +59,7 @@ def fetch_bing_data(lang: str, days: int = 1) -> List[Dict]:
         return []
 
 
-def merge_images(existing: List[Dict], new: List[Dict], key_fields: List[str] = ['fullstartdate']) -> List[Dict]:
+def merge_images_data(existing: List[Dict], new: List[Dict], unique_key = 'fullstartdate') :
     """
     合并新旧壁纸数据（避免重复）
     参数:
@@ -69,54 +69,23 @@ def merge_images(existing: List[Dict], new: List[Dict], key_fields: List[str] = 
     返回:
         合并后的新数据列表（按日期倒序）
     """
-    # 使用集合快速查找已存在的键值组合
-    existing_keys = {tuple(img[key] for key in key_fields if key in img) for img in existing}
+    # 从 existing 列表中提取每个字典里指定字段的值，将这些值组合成元组，然后把这些元组存储到一个集合中。
+    # 集合的特性是元素唯一，所以这样可以快速判断某个键值组合是否已经存在于 existing 列表中。
+
+    existing_keys = {image[unique_key] for image in existing if unique_key in image}
+
 
     # 添加新数据中不重复的条目
     for img in new:
-        new_key = tuple(img.get(key) for key in key_fields)
+        new_key = img.get(unique_key)
         if new_key not in existing_keys:
             existing.append(img)
             existing_keys.add(new_key)
 
     # 按日期倒序排列（最新在前）
     return sorted(existing,
-                  key=lambda x: x.get('startdate', '00000000'),
+                  key=lambda x: x.get('fullstartdate', '00000000'),
                   reverse=True)
-
-
-def save_monthly_data(lang: str, data: List[Dict]):
-    """
-    按年月分类保存数据到对应文件夹
-    参数:
-        lang: 语言代码
-        data: 合并后的完整数据列表
-    """
-    for img in data:
-        # 解析日期（格式示例：202402030700 -> 2024-02）
-        date_str = img.get('fullstartdate', '')
-        if len(date_str) >= 6:
-            year_month = f"{date_str[:4]}-{date_str[4:6]}"
-
-            # 创建年月文件夹
-            dir_path = os.path.join(bing_dir, year_month)
-            os.makedirs(dir_path, exist_ok=True)
-
-            # 构建文件路径
-            file_path = os.path.join(bing_dir, f"bing_{lang}.json")
-
-            # 读取已有数据（如果存在）
-            existing = []
-            if os.path.exists(file_path):
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    existing = json.load(f)
-
-            # 合并数据并保存
-
-            merged = merge_images(existing, [img], key_fields=['hsh', 'copyrightKeyword'])
-            with open(file_path, 'w', encoding='utf-8') as f:
-                json.dump(merged, f, ensure_ascii=False, indent=4)
-
 
 def update_lang_data(lang: str, days: int = 1):
     """
@@ -144,10 +113,10 @@ def update_lang_data(lang: str, days: int = 1):
     new_data = fetch_bing_data(lang, days)
     if not new_data:
         return
-
+    logging.info(f"获取的{days}天最新数据：\n{new_data} ")
     # 合并数据
 
-    merged_data = merge_images(existing_data, new_data)
+    merged_data = merge_images_data(existing_data, new_data)
     # logging.info(f"合并 {existing_data} 的 {len(new_data)} 数据完成")
 
     logging.info(
@@ -161,8 +130,6 @@ def update_lang_data(lang: str, days: int = 1):
         logging.error(f"保存 {root_file} 时发生错误: {e}")
         return
 
-    # 按年月分类保存
-    save_monthly_data(lang, merged_data)
     logging.info(f"{lang} 数据更新完成")
 
 

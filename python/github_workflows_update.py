@@ -19,6 +19,9 @@ if is_github_workflow:
 
 else:
     print("Running locally")
+    days = 7
+    for lang in LANGS:
+        update_lang_data(lang, days)
 
 
 year_month_langs()  # 将所有的json文件生成:"年月文件夹/bing_地区.json"的文件
