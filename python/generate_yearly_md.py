@@ -86,7 +86,7 @@ def generate_md_file(json_file_path, template_path, output_file_path):
         date = item.get('date', '')
 
         # 创建 HTML 单元格（图片显示 + 日期 + 4K下载链接）
-        cell = f'<td><img class="wallpaper" src="{url}" alt="{date}"> {date} <a href="{url_4k}">[download 4k]</a></td>'
+        cell = f'<td><img class="wallpaper" src="{url}" alt="{date}"> {date} <a class="wallpaper_link" href="{url_4k}">[download 4k]</a></td>'
         current_row.append(cell)
 
         # 每满3个单元格生成表格行
