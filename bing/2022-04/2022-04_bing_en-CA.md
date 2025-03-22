@@ -1,7 +1,7 @@
 # Bing Wallpaper (2022-04)
 **************
 
-<table><tr><td><img class="wallpaper" src="https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-CA9570246807_1920x1080.jpg" alt="20220501"> 20220501 <a href="https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-CA9570246807_UHD.jpg">[download 4k]</a></td><td><img class="wallpaper" src="https://www.bing.com/th?id=OHR.RedwoodSprout_EN-CA9372164406_1920x1080.jpg" alt="20220430"> 20220430 <a href="https://www.bing.com/th?id=OHR.RedwoodSprout_EN-CA9372164406_UHD.jpg">[download 4k]</a></td><td><img class="wallpaper" src="https://www.bing.com/th?id=OHR.FoxSkills_EN-CA9100915774_1920x1080.jpg" alt="20220429"> 20220429 <a href="https://www.bing.com/th?id=OHR.FoxSkills_EN-CA9100915774_UHD.jpg">[download 4k]</a></td></tr></table>
+<table><tr><td><img class="wallpaper" src="https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-CA9570246807_1920x1080.jpg" alt="20220501"> 20220501 <a class="wallpaper_link" href="https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-CA9570246807_UHD.jpg">[download 4k]</a></td><td><img class="wallpaper" src="https://www.bing.com/th?id=OHR.RedwoodSprout_EN-CA9372164406_1920x1080.jpg" alt="20220430"> 20220430 <a class="wallpaper_link" href="https://www.bing.com/th?id=OHR.RedwoodSprout_EN-CA9372164406_UHD.jpg">[download 4k]</a></td><td><img class="wallpaper" src="https://www.bing.com/th?id=OHR.FoxSkills_EN-CA9100915774_1920x1080.jpg" alt="20220429"> 20220429 <a class="wallpaper_link" href="https://www.bing.com/th?id=OHR.FoxSkills_EN-CA9100915774_UHD.jpg">[download 4k]</a></td></tr></table>
 
 ### 历史归档：
 
