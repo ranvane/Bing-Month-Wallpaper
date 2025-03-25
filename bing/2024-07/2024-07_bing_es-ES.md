@@ -1,7 +1,7 @@
 # Bing Wallpaper (2024-07)
 **************
 
-<table><tr><td><img class="wallpaper" src="https://www.bing.com/th?id=OHR.KaptaiLake_ES-ES3810492985_1920x1080.jpg" alt="20240801"> 20240801 <a href="https://www.bing.com/th?id=OHR.KaptaiLake_ES-ES3810492985_UHD.jpg">[download 4k]</a></td><td></td><td></td></tr></table>
+<table><tr><td><img class="wallpaper" src="https://www.bing.com/th?id=OHR.KaptaiLake_ES-ES3810492985_1920x1080.jpg" alt="20240801"> 20240801 <a class="wallpaper_link" href="https://www.bing.com/th?id=OHR.KaptaiLake_ES-ES3810492985_UHD.jpg">[download 4k]</a></td><td></td><td></td></tr></table>
 
 ### 历史归档：
 
