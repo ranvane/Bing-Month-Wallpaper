@@ -19,7 +19,7 @@ jobs:
     - name: Convert Markdown to HTML
       run: |
         mkdir -p output
-        for file in $(find ./content -name '*.md'); do
+        for file in $(find ./bing -name '*.md'); do
           filename=$(basename "$file" .md)
           pandoc "$file" -o "output/$filename.html" --standalone --css=style.css
         done
