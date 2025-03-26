@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v3  # 使用最新版本的 actions/checkout
 
     - name: Install Pandoc
       run: sudo apt-get update && sudo apt-get install -y pandoc
@@ -24,10 +24,10 @@ jobs:
           pandoc "$file" -o "output/$filename.html" --standalone --css=style.css
         done
 
-    - name: Deploy to Cloudflare Pages
-      uses: cloudflare/pages-action@v2
+    - name: Deploy to Cloudflare Pages using Wrangler
+      uses: cloudflare/wrangler-action@v1.5.0  # 使用 wrangler-action 的最新版本
       with:
-        api-token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-        account-id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        project-name: 'your-cloudflare-pages-project'  # 替换为你的 Cloudflare Pages 项目名称
+        apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}  # 你的 Cloudflare API Token
+        accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}  # 你的 Cloudflare 账户 ID
+        projectName: 'bing-month-wallpaper22'  # 替换为你的 Cloudflare Pages 项目名称
         directory: './output'  # 生成的 HTML 文件所在目录
