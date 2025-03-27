@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "fullstartdate": "202503261600",
         "date": "20250326",
         "url": "https://www.bing.com/th?id=OHR.OdeonAthens_ZH-CN6085881625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
@@ -18,6 +19,16 @@
         "copyrightKeyword": "",
         "hsh": "cb44278e1c65ddc3713d1d5c3c084674",
         "description": "水晶河的海牛，佛罗里达州，美国 (© Stephen Frink/Getty Images)"
+=======
+        "fullstartdate": "202503260700",
+        "date": "20250326",
+        "url": "https://www.bing.com/th?id=OHR.CrystalManatee_EN-US1724106178_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "https://www.bing.com/th?id=OHR.CrystalManatee_EN-US1724106178",
+        "copyright": "Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Stephen Frink/Getty Images)",
+        "copyrightKeyword": "",
+        "hsh": "d3fd083651aa332185026c2c8b582419",
+        "description": "Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Stephen Frink/Getty Images)"
+>>>>>>> a427b706dbce9e33697bc6e09d095c27dfddea90
     },
     {
         "fullstartdate": "202503250700",

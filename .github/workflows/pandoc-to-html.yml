@@ -1,0 +1,33 @@
+name: Convert Markdown to HTML and Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches:
+      - main  # 监听 main 分支的变化
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4  # 使用最新版本的 actions/checkout
+
+    - name: Install Pandoc
+      run: sudo apt-get update && sudo apt-get install -y pandoc
+
+    - name: Convert Markdown to HTML
+      run: |
+        mkdir -p output
+        for file in $(find ./bing -name '*.md'); do
+          filename=$(basename "$file" .md)
+          pandoc "$file" -o "output/$filename.html" --standalone --css=style.css
+        done
+
+    - name: Deploy to Cloudflare Pages using Wrangler
+      uses: cloudflare/wrangler-action@v3  # 使用 wrangler-action 的最新版本
+      with:
+        apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}  # 你的 Cloudflare API Token
+        accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}  # 你的 Cloudflare 账户 ID
+        projectName: 'bing-month-wallpaper22'  # 替换为你的 Cloudflare Pages 项目名称
+        directory: './output'  # 生成的 HTML 文件所在目录
