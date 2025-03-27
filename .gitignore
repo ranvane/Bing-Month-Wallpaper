@@ -14,3 +14,4 @@ __pycache__/
 # 忽略 bing 文件夹下及其子文件夹下的 json 和 md 文件
 bing/**/*.json
 bing/**/*.md
+bing/**/*.html
