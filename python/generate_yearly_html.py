@@ -86,7 +86,7 @@ def generate_html_file(json_file_path, template_path, output_file_path):
         date = item.get('date', '')
 
         # 创建 HTML 单元格（图片显示 + 日期 + 4K下载链接）
-        cell = f'<td><img class="wallpaper" src="{url}" alt="{date}"> {date} <a class="wallpaper_link" href="{url_4k}">[download 4k]</a></td>'
+        cell = f'<td><img class="wallpaper" src="{url}" alt="{date}"/> <span>{date} </span><a class="wallpaper_link" href="{url_4k}">[download 4k]</a></td>'
         current_row.append(cell)
 
         # 每满3个单元格生成表格行
@@ -130,7 +130,7 @@ def process_year_month_folder(folder_path, template_path):
 
     参数:
     folder_path (str): 年月文件夹的路径
-    template_path (str): Markdown模板文件的路径
+    template_path (str): html模板文件的路径
     """
     # 获取年月标识（如"2023-10"）
     year_month = os.path.basename(folder_path)
@@ -169,7 +169,7 @@ def process_index_template_folder():
     3. 为每个有效文件夹生成Markdown文件
     """
     # 定位模板文件路径（bing/index_template.md）
-    index_template_path = os.path.join(bing_dir, "index_template.html")
+    index_template_path = os.path.join(bing_dir, "folder_template.html")
 
     # 模板文件存在性校验
     if not os.path.exists(index_template_path):
@@ -244,21 +244,36 @@ def generate_index_html(nums=10):
     生成静态网站的首页，即Bing壁纸归档索引文件
 
     功能流程：
-    1. 在bing目录下创建index.md
-    2. 组合归档链接表格和标题内容
-    3. 将内容写入目标文件
+    1. 读取 index_template.html 文件模板
+    2. 获取全站归档目录链接
+    3. 使用字符串模板替换模板中的 archive_table 内容
+    4. 将替换后的内容写入目标文件
 
     参数:
     nums (int): 控制表格每行显示的链接数量（默认10个）
     """
+    # 定位模板文件路径（bing/index_template.html）
+    index_template_path = os.path.join(bing_dir, "index_template.html")
+    # 读取模板文件内容
+    template_content = read_file(index_template_path)
+    if template_content is None:
+        return
+    template = Template(template_content)  # 创建字符串模板
+
     # 构建索引文件绝对路径（bing/index.html）
     index_file_path = os.path.join(bing_dir, "index.html")
 
-    # 组合文件内容：标题 + 链接表格
-    content = "<h3>Bing Wallpaper Archive</h3><br><br>" + get_year_month_links(bing_dir, nums)
+    # 获取全站归档目录链接
+    archive_table = get_year_month_links(bing_dir, nums=nums)
+
+    # 模板变量替换：
+    # archive_table - 全站归档目录
+    html_content = template.safe_substitute(
+        archive_table=archive_table
+    )
 
     # 调用通用文件写入函数（复用工程中的write_file实现）
-    write_file(index_file_path, content)
+    write_file(index_file_path, html_content)
 
 
 if __name__ == "__main__":

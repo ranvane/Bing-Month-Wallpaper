@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>Bing Wallpaper</title>
+    <title>Bing Wallpaper (${year_month})</title>
     <!-- 引入 Layui 的 CSS 文件 -->
     <link rel="stylesheet" href="https://cdn.staticfile.org/layui/2.8.13/css/layui.min.css">
     <link rel="stylesheet" href="/static/style.css">
@@ -40,9 +40,13 @@
 <body>
 <!-- 使用主体容器包裹内容 -->
 <div class="main-container">
-    <h1>Bing Wallpaper</h1>
+    <h1>Bing Wallpaper (${year_month})</h1>
     <p>
-
+        
+        <!-- 应用 Layui 表格样式到 image_table -->
+    <div class="layui-table">
+        ${image_table}
+    </div>
     <h1>历史归档：</h1>
     <!-- 应用 Layui 表格样式到 archive_table -->
     <div class="layui-table">
