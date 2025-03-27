@@ -40,19 +40,13 @@ jobs:
       - name: Setup Pages
         # 使用 actions/configure-pages 动作，版本为 v5
         uses: actions/configure-pages@v5
-      # 使用 Jekyll 构建网站
-      - name: Build with Jekyll
-        # 使用 actions/jekyll-build-pages 动作，版本为 v1
-        uses: actions/jekyll-build-pages@v1
-        with:
-          # 指定 Jekyll 网站的源文件目录
-          source: ./bing
-          # 指定构建输出的目标目录
-          destination: ./_site
-      # 上传构建好的网站文件作为工件，供后续部署步骤使用
+      # 上传 bing 文件夹的内容作为工件，供后续部署步骤使用
       - name: Upload artifact
         # 使用 actions/upload-pages-artifact 动作，版本为 v3
         uses: actions/upload-pages-artifact@v3
+        with:
+          # 指定要上传的源目录为 bing 文件夹
+          path: ./bing
 
   # 部署作业
   deploy:
