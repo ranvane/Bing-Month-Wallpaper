@@ -1,7 +1,8 @@
 import os
 
 from generate_month_json_data import year_month_langs
-from generate_yearly_md import process_index_template_folder, generate_index_md
+# from generate_yearly_md import process_index_template_folder, generate_index_md
+from generate_yearly_html import process_index_template_folder, generate_index_html
 from update_bing_json import update_lang_data
 
 # 判断是否在 GitHub Workflows 中运行
@@ -26,4 +27,5 @@ else:
 
 year_month_langs()  # 将所有的json文件生成:"年月文件夹/bing_地区.json"的文件
 process_index_template_folder()  # 将所有的"年月文件夹/bing_地区.json"的文件生成"年月文件夹/年月.md"的文件
-generate_index_md()  # 将所有的"年月文件夹/年月.md"的文件生成"bing/index.md"的文件
+# generate_index_md()  # 将所有的"年月文件夹/年月.md"的文件生成"bing/index.md"的文件
+generate_index_html()  # 将所有的"年月文件夹/年月.md"的文件生成"bing/index.html"的文件
