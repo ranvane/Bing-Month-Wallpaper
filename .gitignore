@@ -11,6 +11,6 @@ __pycache__/
 *.so
 *.bak
 *.pyc
-# 忽略 bing 文件夹下的除了 static 外的所有子文件夹，但不会忽略 bing 文件夹内的文件。
-bing/*/
-!bing/static/bing/*/
+# 忽略 bing 文件夹下及其子文件夹下的 json 和 md 文件
+bing/**/*.json
+bing/**/*.md
