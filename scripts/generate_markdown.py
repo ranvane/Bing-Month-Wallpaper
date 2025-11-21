@@ -20,8 +20,10 @@ def ensure_dir(path):
 
 def generate_month_page(year, month, items):
     """生成某年某月的壁纸展示页面"""
-    file_path = f"{CONTENT_DIR}/{year}/{month}.md"
-    ensure_dir(os.path.dirname(file_path))
+    # 修改路径格式为：2025-11/2025-11.md
+    dir_path = f"{CONTENT_DIR}/{year}-{month}"
+    file_path = f"{dir_path}/{year}-{month}.md"
+    ensure_dir(dir_path)
 
     lines = [
         f'# <p align="center">{year}-{month} 壁纸合集</p>',
@@ -100,11 +102,11 @@ def generate_index(all_months, db):
         for i in range(0, len(months), months_per_row):
             row_months = months[i:i + months_per_row]
             
-            # 创建链接行
+            # 创建链接行 - 修改链接格式为：2025-11/2025-11.md
             link_parts = []
             for month in row_months:
                 ym = f"{year}-{month}"
-                link_parts.append(f"[{ym}]({ym.replace('-', '/')}.md)")
+                link_parts.append(f"[{ym}]({ym}/{ym}.md)")
             
             # 使用HTML居中标签包裹链接行，但将markdown链接放在HTML标签外
             lines.append('<center>\n')

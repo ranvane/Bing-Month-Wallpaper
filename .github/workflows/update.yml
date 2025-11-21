@@ -33,10 +33,27 @@ jobs:
     - name: Generate markdown pages
       run: python scripts/generate_markdown.py
 
-    - name: Commit and Push
+    # - name: Commit and Push
+    #   run: |
+    #     git config user.name "github-actions[bot]"
+    #     git config user.email "github-actions[bot]@users.noreply.github.com"
+    #     git add .
+    #     git diff --cached --quiet || git commit -m "Update wallpapers"
+    #     git push
+
+    - name: Deploy to gh-pages
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
+        git fetch origin
+        git switch gh-pages || git switch --orphan gh-pages
+
+        # 清空旧内容
+        git rm -rf . || true
+
+        # 从 build 目录复制生成内容到当前分支
+        cp -r content/* .
+
         git add .
-        git diff --cached --quiet || git commit -m "Update wallpapers"
-        git push
+        git commit -m "Update wallpapers" || true
+        git push -f origin gh-pages
