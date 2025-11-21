@@ -45,15 +45,22 @@ jobs:
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git fetch origin
-        git switch gh-pages || git switch --orphan gh-pages
 
-        # 清空旧内容
+        # 保存生成内容到临时目录
+        mkdir -p /tmp/content
+        cp -r content/* /tmp/content/ || true
+
+        # 切换到 gh-pages（first time create orphan branch）
+        git fetch origin
+        git checkout gh-pages || git checkout --orphan gh-pages
+
+        # 清空历史内容
         git rm -rf . || true
 
-        # 从 build 目录复制生成内容到当前分支
-        cp -r content/* .
+        # 拷贝临时输出内容回根目录
+        cp -r /tmp/content/* .
 
+        # 提交并推送
         git add .
         git commit -m "Update wallpapers" || true
         git push -f origin gh-pages
