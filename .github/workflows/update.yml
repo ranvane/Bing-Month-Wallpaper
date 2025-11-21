@@ -25,7 +25,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install requests
+        pip install requests markdown jinja2
 
     - name: Fetch today wallpaper
       run: python scripts/fetch_bing.py

@@ -15,58 +15,86 @@ images_per_row = 3
 
 
 def ensure_dir(path):
+    """
+    确保目录存在，如果不存在则创建
+    
+    参数:
+        path (str): 需要创建的目录路径
+        
+    功能:
+        - 使用Path对象的mkdir方法创建目录
+        - parents=True表示如果父目录不存在也会一并创建
+        - exist_ok=True表示如果目录已存在不会抛出异常
+        
+    使用场景:
+        在创建文件前确保目标目录存在，避免因目录不存在而导致的文件创建失败
+    """
     Path(path).mkdir(parents=True, exist_ok=True)
 
 
 def generate_month_page(year, month, items):
     """生成某年某月的壁纸展示页面"""
-    # 修改路径格式为：2025-11/2025-11.md
+    # 修改路径格式为：2025-11/2025-11.html
     dir_path = f"{CONTENT_DIR}/{year}-{month}"
-    file_path = f"{dir_path}/{year}-{month}.md"
+    file_path = f"{dir_path}/{year}-{month}.html"
     ensure_dir(dir_path)
-
+    
+    # 生成HTML内容
     lines = [
-        f'# <p align="center">{year}-{month} 壁纸合集</p>',
-        f'<p align="center">共收录 {len(items)} 张壁纸</p>',
-        "\n",
-        "---",
+        '<!DOCTYPE html>',
+        '<html lang="zh-CN">',
+        '<head>',
+        '    <meta charset="UTF-8">',
+        '    <meta name="viewport" content="width=device-width, initial-scale=1.0">',
+        f'    <title>{year}-{month} 壁纸合集</title>',
+        '    <style>',
+        '        body { font-family: Arial, sans-serif; margin: 20px; }',
+        '        h1, p { text-align: center; }',
+        '        table { margin: 0 auto; border-collapse: collapse; }',
+        '        td { padding: 10px; text-align: center; }',
+        '        img { max-width: 300px; height: auto; }',
+        '        .footer { text-align: center; margin-top: 30px; }',
+        '    </style>',
+        '</head>',
+        '<body>',
+        f'    <h1>{year}-{month} 壁纸合集</h1>',
+        f'    <p>共收录 {len(items)} 张壁纸</p>',
+        '    <hr>',
     ]
 
     # 按日期倒序排列
     sorted_dates = sorted(items.keys(), reverse=True)
 
-    # 逐行生成图片表格，使用 align="center" 实现真正居中
+    # 逐行生成图片表格
     for i in range(0, len(sorted_dates), images_per_row):
         row_dates = sorted_dates[i:i + images_per_row]
 
-        # 核心：使用 align="center"
-        lines.append('<table align="center" style="border-collapse: collapse; text-align:center;"><tr>')
+        lines.append('    <table><tr>')
 
         for date in row_dates:
             item = items[date]
             img_url = item["image_url"]
 
-            lines.append('<td style="padding: 10px;">')
-            lines.append(f'<a href="{img_url}" target="_blank">')
-            lines.append(f'<img src="{img_url}" alt="{date} {item["title"]}" width="300"/>')
-            lines.append('</a><br>')
-            lines.append(f'<a href="{img_url}" target="_blank">{date}</a>')
+            lines.append('        <td>')
+            lines.append(f'            <a href="{img_url}" target="_blank">')
+            lines.append(f'            <img src="{img_url}" alt="{date} {item["title"]}" />')
+            lines.append('            </a><br>')
+            lines.append(f'            <a href="{img_url}" target="_blank">{date}</a>')
             lines.append(' &nbsp; ')
-            lines.append(f'<a href="{img_url}" target="_blank">下载</a>')
-            lines.append('</td>')
+            lines.append(f'            <a href="{img_url}" target="_blank">下载</a>')
+            lines.append('        </td>')
 
-        # 空列补齐，使表格整齐
-        # if len(row_dates) < images_per_row:
-        #     for _ in range(images_per_row - len(row_dates)):
-        #         lines.append('<td style="padding: 10px;"></td>')
-
-        lines.append('</tr></table>\n')
+        lines.append('    </tr></table>\n')
 
     # 页脚
     lines.extend([
-        "---",
-        f'<p align="center">最后更新: {datetime.datetime.now().strftime("%Y-%m-%d")}</p>',
-        '<p align="center">数据来源: Microsoft Bing 壁纸</p>',
+        '    <hr>',
+        '    <div class="footer">',
+        f'        <p>最后更新: {datetime.datetime.now().strftime("%Y-%m-%d")}</p>',
+        '        <p>数据来源: Microsoft Bing 壁纸</p>',
+        '    </div>',
+        '</body>',
+        '</html>',
         ""
     ])
 
@@ -82,49 +110,57 @@ def generate_index(all_months, db):
         year, month = ym.split("-")
         year_months[year].append(month)
     
+    # 生成HTML内容
     lines = [
-        '# <p align="center">📅Bing 壁纸目录</p>\n',
-        '> <p align="center">每日更新的精美壁纸，记录时光的印记</p>\n',
-        f'<p align="center">共收录 {len(db)} 张壁纸，跨越 {len(year_months)} 年</p>\n',
-        "\n",
-        "---",
-        
+        '<!DOCTYPE html>',
+        '<html lang="zh-CN">',
+        '<head>',
+        '    <meta charset="UTF-8">',
+        '    <meta name="viewport" content="width=device-width, initial-scale=1.0">',
+        '    <title>Bing 壁纸目录</title>',
+        '    <style>',
+        '        body { font-family: Arial, sans-serif; margin: 20px; }',
+        '        h1, h2, p { text-align: center; }',
+        '        .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; }',
+        '        .link-item { margin: 5px; }',
+        '        .footer { text-align: center; margin-top: 30px; }',
+        '    </style>',
+        '</head>',
+        '<body>',
+        '    <h1>📅Bing 壁纸目录</h1>',
+        '    <p>每日更新的精美壁纸，记录时光的印记</p>',
+        f'    <p>共收录 {len(db)} 张壁纸，跨越 {len(year_months)} 年</p>',
+        '    <hr>',
     ]
     
     # 添加年份分组
     for year in sorted(year_months.keys(), reverse=True):
-        lines.append(f'## <p align="center">{year}</p>\n')
+        lines.append(f'    <h2>{year}</h2>')
+        lines.append('    <div class="links">')
         
         # 对月份进行排序
         months = sorted(year_months[year], reverse=True)
         
-        # 按行生成markdown链接
-        for i in range(0, len(months), months_per_row):
-            row_months = months[i:i + months_per_row]
-            
-            # 创建链接行 - 修改链接格式为：2025-11/2025-11.md
-            link_parts = []
-            for month in row_months:
-                ym = f"{year}-{month}"
-                link_parts.append(f"[{ym}]({ym}/{ym}.md)")
-            
-            # 使用HTML居中标签包裹链接行，但将markdown链接放在HTML标签外
-            lines.append('<center>\n')
-            lines.append(' | '.join(link_parts) + '\n')
-            lines.append('</center>\n')
+        # 生成月份链接
+        for month in months:
+            ym = f"{year}-{month}"
+            lines.append(f'        <div class="link-item"><a href="{ym}/{ym}.html">{ym}</a></div>')
         
-        lines.append("")  # 添加空行
+        lines.append('    </div>\n')
     
     # 添加页脚
     lines.extend([
-        "---\n",
-        '<center>\n',
-        '*最后更新: ' + datetime.datetime.now().strftime("%Y-%m-%d") + '*\n',
-        '*数据来源: Microsoft Bing 壁纸*\n',
-        '</center>\n'
+        '    <hr>',
+        '    <div class="footer">',
+        f'        <p>最后更新: {datetime.datetime.now().strftime("%Y-%m-%d")}</p>',
+        '        <p>数据来源: Microsoft Bing 壁纸</p>',
+        '    </div>',
+        '</body>',
+        '</html>',
+        ""
     ])
     
-    with open(f"{CONTENT_DIR}/index.md", "w", encoding="utf-8") as f:
+    with open(f"{CONTENT_DIR}/index.html", "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
 
@@ -148,4 +184,4 @@ if __name__ == "__main__":
     # 生成首页
     generate_index(months.keys(), db)
 
-    print("Markdown pages generated.")
+    print("HTML pages generated.")
