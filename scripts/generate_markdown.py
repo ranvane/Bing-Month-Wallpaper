@@ -81,7 +81,7 @@ def generate_month_page(year, month, items):
             lines.append('            </a><br>')
             lines.append(f'            <a href="{img_url}" target="_blank">{date}</a>')
             lines.append(' &nbsp; ')
-            lines.append(f'            <a href="{img_url}" target="_blank">下载</a>')
+            lines.append(f'            <a class="wallpaper_link" href="{img_url}" target="_blank">下载</a>')
             lines.append('        </td>')
 
         lines.append('    </tr></table>\n')
