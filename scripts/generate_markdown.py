@@ -76,10 +76,10 @@ def generate_month_page(year, month, items):
             img_url = item["image_url"]
 
             lines.append('        <td>')
-            lines.append(f'            <a href="{img_url}" target="_blank">')
-            lines.append(f'            <img src="{img_url}" alt="{date} {item["title"]}" />')
+            lines.append(f'            <a class="img_url" href="{img_url}" target="_blank">')
+            lines.append(f'            <img class="img_src" src="{img_url}" alt="{date} {item["title"]}" />')
             lines.append('            </a><br>')
-            lines.append(f'            <a href="{img_url}" target="_blank">{date}</a>')
+            lines.append(f'            <a class="date" href="{img_url}" target="_blank">{date}</a>')
             lines.append(' &nbsp; ')
             lines.append(f'            <a class="wallpaper_link" href="{img_url}" target="_blank">下载</a>')
             lines.append('        </td>')
